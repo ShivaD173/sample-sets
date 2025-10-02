@@ -1,0 +1,1830 @@
+1630 Usage (Porygon-Z) @ Choice Specs
+Ability: Adaptability
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Tera Blast
+- Hyper Beam
+- Blizzard
+- Thunderbolt
+
+1630 Usage (Mandibuzz) @ Leftovers
+Ability: Overcoat
+Level: 50
+EVs: 252 HP / 0 Atk / 100 Def / 4 SpA / 116 SpD / 36 Spe
+Calm Nature
+- Foul Play
+- Tailwind
+- Snarl
+- Taunt
+
+1630 Usage (Weezing) @ Sitrus Berry
+Ability: Neutralizing Gas
+Level: 50
+EVs: 164 HP / 0 Atk / 36 Def / 4 SpA / 204 SpD / 100 Spe
+Bold Nature
+- Sludge Bomb
+- Will-O-Wisp
+- Taunt
+- Gunk Shot
+
+1630 Usage (Bronzong) @ Mental Herb
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 0 Atk / 188 Def / 0 SpA / 68 SpD / 0 Spe
+Relaxed Nature
+- Trick Room
+- Body Press
+- Iron Defense
+- Iron Head
+
+1630 Usage (Volcarona) @ Covert Cloak
+Ability: Flame Body
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Heat Wave
+- Quiver Dance
+- Giga Drain
+- Tera Blast
+
+1630 Usage (Arcanine-Hisui) @ Choice Band
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Flare Blitz
+- Rock Slide
+- Extreme Speed
+- Head Smash
+
+1630 Usage (Snorlax) @ Custap Berry
+Ability: Gluttony
+Level: 50
+EVs: 68 HP / 252 Atk / 188 Def / 0 SpA / 0 SpD / 0 Spe
+Brave Nature
+- Belly Drum
+- Body Slam
+- High Horsepower
+- Rock Slide
+
+1630 Usage (Clefairy) @ Eviolite
+Ability: Friend Guard
+Level: 50
+EVs: 252 HP / 0 Atk / 140 Def / 0 SpA / 116 SpD / 0 Spe
+Calm Nature
+- Follow Me
+- Helping Hand
+- Life Dew
+- Icy Wind
+
+1630 Usage (Hydrapple) @ Assault Vest
+Ability: Regenerator
+Level: 50
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Quiet Nature
+- Fickle Beam
+- Earth Power
+- Giga Drain
+- Pollen Puff
+
+1630 Usage (Mimikyu) @ Life Orb
+Ability: Disguise
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Play Rough
+- Shadow Sneak
+- Trick Room
+- Shadow Claw
+
+1630 Usage (Poliwrath) @ Sitrus Berry
+Ability: Swift Swim
+Level: 50
+EVs: 244 HP / 252 Atk / 4 Def / 0 SpA / 4 SpD / 0 Spe
+Brave Nature
+- Liquidation
+- Drain Punch
+- Close Combat
+- Belly Drum
+
+1630 Usage (Gholdengo) @ Choice Specs
+Ability: Good as Gold
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Make It Rain
+- Shadow Ball
+- Nasty Plot
+- Trick
+
+1630 Usage (Gliscor) @ Toxic Orb
+Ability: Poison Heal
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- High Horsepower
+- Dual Wingbeat
+- Swords Dance
+- Earthquake
+
+1630 Usage (Rhyperior) @ Clear Amulet
+Ability: Solid Rock
+Level: 50
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Brave Nature
+- Rock Slide
+- Earthquake
+- High Horsepower
+- Poison Jab
+
+1630 Usage (Blaziken) @ Focus Sash
+Ability: Speed Boost
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Coaching
+- Close Combat
+- Flare Blitz
+- Aura Sphere
+
+1630 Usage (Weezing-Galar) @ Choice Specs
+Ability: Neutralizing Gas
+Level: 50
+EVs: 116 HP / 0 Atk / 4 Def / 196 SpA / 116 SpD / 76 Spe
+Modest Nature
+- Sludge Bomb
+- Strange Steam
+- Dazzling Gleam
+- Flamethrower
+
+1630 Usage (Exeggutor) @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+- Expanding Force
+- Sleep Powder
+- Trick Room
+- Energy Ball
+
+1630 Usage (Garchomp) @ Life Orb
+Ability: Rough Skin
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Stomping Tantrum
+- Earthquake
+- Dragon Claw
+- Rock Slide
+
+1630 Usage (Goodra-Hisui) @ Leftovers
+Ability: Sap Sipper
+Level: 50
+EVs: 244 HP / 0 Atk / 236 Def / 0 SpA / 0 SpD / 28 Spe
+Impish Nature
+- Body Press
+- Heavy Slam
+- Flash Cannon
+- Life Dew
+
+1630 Usage (Comfey) @ Sitrus Berry
+Ability: Triage
+Level: 50
+EVs: 252 HP / 0 Atk / 244 Def / 0 SpA / 12 SpD / 0 Spe
+Bold Nature
+- Draining Kiss
+- Floral Healing
+- Taunt
+- Trick Room
+
+1630 Usage (Krookodile) @ Choice Band
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Knock Off
+- High Horsepower
+- Earthquake
+- Gunk Shot
+
+1630 Usage (Vivillon) @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Sleep Powder
+- Hurricane
+- Rage Powder
+- Tailwind
+
+1630 Usage (Kommo-o) @ Leftovers
+Ability: Overcoat
+Level: 50
+EVs: 244 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 12 Spe
+Modest Nature
+- Clanging Scales
+- Flamethrower
+- Body Press
+- Iron Defense
+
+1630 Usage (Conkeldurr) @ Flame Orb
+Ability: Guts
+Level: 50
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Brave Nature
+- Drain Punch
+- Mach Punch
+- Knock Off
+- Close Combat
+
+1630 Usage (Dondozo) @ Leftovers
+Ability: Unaware
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Wave Crash
+- Earthquake
+- Order Up
+- Yawn
+
+1630 Usage (Scrafty) @ Assault Vest
+Ability: Intimidate
+Level: 50
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Fake Out
+- Knock Off
+- Drain Punch
+- Close Combat
+
+1630 Usage (Toedscruel) @ Covert Cloak
+Ability: Mycelium Might
+Level: 50
+EVs: 196 HP / 0 Atk / 60 Def / 0 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Spore
+- Earth Power
+- Rage Powder
+- Acid Spray
+
+1630 Usage (Vikavolt) @ Life Orb
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+- Bug Buzz
+- Thunderbolt
+- Discharge
+- Volt Switch
+
+1630 Usage (Tauros-Paldea-Aqua) @ Mirror Herb
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Aqua Jet
+- Raging Bull
+- Wave Crash
+
+1630 Usage (Magmar) @ Eviolite
+Ability: Vital Spirit
+Level: 50
+EVs: 252 HP / 0 Atk / 196 Def / 12 SpA / 4 SpD / 44 Spe
+Modest Nature
+- Follow Me
+- Will-O-Wisp
+- Overheat
+- Heat Wave
+
+1630 Usage (Bisharp) @ Eviolite
+Ability: Defiant
+Level: 50
+EVs: 60 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 196 Spe
+Adamant Nature
+- Iron Head
+- Sucker Punch
+- Assurance
+- Swords Dance
+
+1630 Usage (Toxtricity) @ Choice Specs
+Ability: Punk Rock
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+- Overdrive
+- Sludge Bomb
+- Boomburst
+- Volt Switch
+
+1630 Usage (Indeedee) @ Focus Sash
+Ability: Psychic Surge
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Expanding Force
+- Trick Room
+- Imprison
+- Tera Blast
+
+1630 Usage (Bellibolt) @ Assault Vest
+Ability: Electromorphosis
+Level: 50
+EVs: 196 HP / 0 Atk / 92 Def / 212 SpA / 4 SpD / 4 Spe
+Modest Nature
+- Parabolic Charge
+- Thunderbolt
+- Tera Blast
+- Volt Switch
+
+1630 Usage (Furret) @ Focus Sash
+Ability: Frisk
+Level: 50
+EVs: 132 HP / 4 Atk / 20 Def / 0 SpA / 100 SpD / 252 Spe
+Jolly Nature
+- Follow Me
+- Super Fang
+- Knock Off
+- U-turn
+
+1630 Usage (Frosmoth) @ Leftovers
+Ability: Ice Scales
+Level: 50
+EVs: 236 HP / 0 Atk / 172 Def / 4 SpA / 4 SpD / 92 Spe
+Bold Nature
+- Quiver Dance
+- Blizzard
+- Tera Blast
+- Dazzling Gleam
+
+1630 Usage (Slowbro) @ Leftovers
+Ability: Oblivious
+Level: 50
+EVs: 252 HP / 0 Atk / 76 Def / 0 SpA / 180 SpD / 0 Spe
+Relaxed Nature
+- Trick Room
+- Scald
+- Psychic
+- Expanding Force
+
+1630 Usage (Serperior) @ Light Clay
+Ability: Contrary
+Level: 50
+EVs: 244 HP / 0 Atk / 4 Def / 4 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Leaf Storm
+- Tera Blast
+- Glare
+- Light Screen
+
+1630 Usage (Oricorio-Sensu) @ Focus Sash
+Ability: Dancer
+Level: 50
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Revelation Dance
+- Air Slash
+- Alluring Voice
+- Tailwind
+
+1630 Usage (Glimmora) @ Power Herb
+Ability: Toxic Debris
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Earth Power
+- Sludge Bomb
+- Spiky Shield
+- Power Gem
+
+1630 Usage (Arcanine) @ Sitrus Berry
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 236 Atk / 4 Def / 0 SpA / 44 SpD / 220 Spe
+Jolly Nature
+- Flare Blitz
+- Extreme Speed
+- Will-O-Wisp
+- Snarl
+
+1630 Usage (Oranguru) @ Mental Herb
+Ability: Inner Focus
+Level: 50
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Relaxed Nature
+- Instruct
+- Trick Room
+- Psychic
+- Encore
+
+1630 Usage (Houndstone) @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Last Respects
+- Will-O-Wisp
+- Howl
+- Play Rough
+
+1630 Usage (Kingambit) @ Black Glasses
+Ability: Defiant
+Level: 50
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Sucker Punch
+- Kowtow Cleave
+- Swords Dance
+- Iron Head
+
+1630 Usage (Blastoise) @ Mystic Water
+Ability: Torrent
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+- Water Spout
+- Water Pledge
+- Shell Smash
+- Fake Out
+
+1630 Usage (Ursaluna-Bloodmoon) @ Life Orb
+Ability: Mind's Eye
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+- Earth Power
+- Blood Moon
+- Hyper Voice
+- Vacuum Wave
+
+1630 Usage (Staraptor) @ Choice Scarf
+Ability: Intimidate
+Level: 50
+EVs: 252 HP / 4 Atk / 4 Def / 0 SpA / 4 SpD / 244 Spe
+Jolly Nature
+- Brave Bird
+- U-turn
+- Tailwind
+- Final Gambit
+
+1630 Usage (Incineroar) @ Safety Goggles
+Ability: Intimidate
+Level: 50
+EVs: 252 HP / 4 Atk / 60 Def / 0 SpA / 188 SpD / 4 Spe
+Careful Nature
+- Fake Out
+- Knock Off
+- Flare Blitz
+- Parting Shot
+
+1630 Usage (Meowstic) @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Expanding Force
+- Trick Room
+- Tera Blast
+- Sucker Punch
+
+1630 Usage (Meowscarada) @ Focus Sash
+Ability: Overgrow
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Flower Trick
+- Knock Off
+- Triple Axel
+- Grass Pledge
+
+1630 Usage (Araquanid) @ Mystic Water
+Ability: Water Bubble
+Level: 50
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Brave Nature
+- Liquidation
+- Wide Guard
+- Leech Life
+- Lunge
+
+1630 Usage (Espathra) @ Focus Sash
+Ability: Speed Boost
+Level: 50
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Lumina Crash
+- Expanding Force
+- Dazzling Gleam
+- Tera Blast
+
+1630 Usage (Klefki) @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 252 HP / 0 Atk / 76 Def / 0 SpA / 180 SpD / 0 Spe
+Calm Nature
+- Light Screen
+- Reflect
+- Dazzling Gleam
+- Misty Terrain
+
+1630 Usage (Salamence) @ Life Orb
+Ability: Intimidate
+Level: 50
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Draco Meteor
+- Tailwind
+- Air Slash
+- Dual Wingbeat
+
+1630 Usage (Greninja) @ Loaded Dice
+Ability: Torrent
+Level: 50
+EVs: 100 HP / 0 Atk / 4 Def / 148 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Water Shuriken
+- Dark Pulse
+- Haze
+- Ice Beam
+
+1630 Usage (Glaceon) @ Assault Vest
+Ability: Snow Cloak
+Level: 50
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Hardy Nature
+- Blizzard
+- Freeze-Dry
+- Tera Blast
+- Ice Beam
+
+1630 Usage (Porygon2) @ Eviolite
+Ability: Download
+Level: 50
+EVs: 252 HP / 0 Atk / 156 Def / 4 SpA / 92 SpD / 4 Spe
+Bold Nature
+- Trick Room
+- Recover
+- Ice Beam
+- Tera Blast
+
+1630 Usage (Barraskewda) @ Focus Sash
+Ability: Propeller Tail
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Liquidation
+- Flip Turn
+- Aqua Jet
+
+1630 Usage (Mamoswine) @ Expert Belt
+Ability: Oblivious
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- High Horsepower
+- Icicle Crash
+- Ice Shard
+- Haze
+
+1630 Usage (Basculegion-F) @ Choice Scarf
+Ability: Adaptability
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Muddy Water
+- Icy Wind
+- Flip Turn
+
+1630 Usage (Coalossal) @ Weakness Policy
+Ability: Steam Engine
+Level: 50
+EVs: 28 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 228 Spe
+Modest Nature
+- Heat Wave
+- Power Gem
+- Earth Power
+- Meteor Beam
+
+1630 Usage (Noivern) @ Life Orb
+Ability: Frisk
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Draco Meteor
+- Tailwind
+- Boomburst
+- Taunt
+
+1630 Usage (Perrserker) @ Covert Cloak
+Ability: Steely Spirit
+Level: 50
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Fake Out
+- Iron Head
+- Taunt
+- Knock Off
+
+1630 Usage (Politoed) @ Choice Specs
+Ability: Drizzle
+Level: 50
+EVs: 180 HP / 0 Atk / 4 Def / 244 SpA / 4 SpD / 76 Spe
+Modest Nature
+- Weather Ball
+- Muddy Water
+- Ice Beam
+- Haze
+
+1630 Usage (Brambleghast) @ Focus Sash
+Ability: Wind Rider
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Poltergeist
+- Shadow Sneak
+- Power Whip
+- Strength Sap
+
+1630 Usage (Gothitelle) @ Sitrus Berry
+Ability: Shadow Tag
+Level: 50
+EVs: 244 HP / 0 Atk / 92 Def / 4 SpA / 156 SpD / 12 Spe
+Calm Nature
+- Fake Out
+- Psychic
+- Trick Room
+- Heal Pulse
+
+1630 Usage (Metagross) @ Assault Vest
+Ability: Clear Body
+Level: 50
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Psychic Fangs
+- Bullet Punch
+- Heavy Slam
+- Stomping Tantrum
+
+1630 Usage (Sylveon) @ Choice Specs
+Ability: Pixilate
+Level: 50
+EVs: 164 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 92 Spe
+Modest Nature
+- Hyper Voice
+- Tera Blast
+- Quick Attack
+- Hyper Beam
+
+1630 Usage (Hariyama) @ Flame Orb
+Ability: Guts
+Level: 50
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Brave Nature
+- Fake Out
+- Close Combat
+- Knock Off
+- Wide Guard
+
+1630 Usage (Kilowattrel) @ Focus Sash
+Ability: Competitive
+Level: 50
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Air Slash
+- Tailwind
+- Thunderbolt
+- Discharge
+
+1630 Usage (Amoonguss) @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+EVs: 244 HP / 0 Atk / 156 Def / 0 SpA / 108 SpD / 0 Spe
+Bold Nature
+- Spore
+- Rage Powder
+- Pollen Puff
+- Clear Smog
+
+1630 Usage (Jolteon) @ Focus Sash
+Ability: Volt Absorb
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Electroweb
+- Thunderbolt
+- Fake Tears
+- Tera Blast
+
+1630 Usage (Venusaur) @ Covert Cloak
+Ability: Chlorophyll
+Level: 50
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Sludge Bomb
+- Sleep Powder
+- Earth Power
+- Giga Drain
+
+1630 Usage (Raichu) @ Focus Sash
+Ability: Lightning Rod
+Level: 50
+EVs: 252 HP / 0 Atk / 0 Def / 4 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Fake Out
+- Nuzzle
+- Volt Switch
+- Electroweb
+
+1630 Usage (Armarouge) @ Power Herb
+Ability: Flash Fire
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+- Expanding Force
+- Armor Cannon
+- Heat Wave
+- Trick Room
+
+1630 Usage (Slaking) @ Life Orb
+Ability: Truant
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Double-Edge
+- Knock Off
+- High Horsepower
+- Earthquake
+
+1630 Usage (Delphox) @ Life Orb
+Ability: Blaze
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Expanding Force
+- Heat Wave
+- Tera Blast
+- Flamethrower
+
+1630 Usage (Golduck) @ Focus Sash
+Ability: Cloud Nine
+Level: 50
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Muddy Water
+- Taunt
+- Simple Beam
+- Aqua Jet
+
+1630 Usage (Rotom-Wash) @ Safety Goggles
+Ability: Levitate
+Level: 50
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Hydro Pump
+- Will-O-Wisp
+- Thunderbolt
+- Electroweb
+
+1630 Usage (Chesnaught) @ Sitrus Berry
+Ability: Bulletproof
+Level: 50
+EVs: 230 HP / 100 Atk / 12 Def / 0 SpA / 164 SpD / 4 Spe
+Adamant Nature
+- Spiky Shield
+- Grassy Glide
+- Drain Punch
+- Belly Drum
+
+1630 Usage (Pelipper) @ Focus Sash
+Ability: Drizzle
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Hurricane
+- Weather Ball
+- Tailwind
+- Wide Guard
+
+1630 Usage (Talonflame) @ Covert Cloak
+Ability: Gale Wings
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Tailwind
+- Brave Bird
+- Flare Blitz
+- Will-O-Wisp
+
+1630 Usage (Dudunsparce) @ Weakness Policy
+Ability: Rattled
+Level: 50
+EVs: 92 HP / 0 Atk / 4 Def / 196 SpA / 132 SpD / 84 Spe
+Modest Nature
+- Stored Power
+- Boomburst
+- Calm Mind
+- Rock Slide
+
+1630 Usage (Basculegion) @ Choice Scarf
+Ability: Swift Swim
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Last Respects
+- Wave Crash
+- Aqua Jet
+- Flip Turn
+
+1630 Usage (Stonjourner) @ Focus Sash
+Ability: Power Spot
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Rock Slide
+- Wide Guard
+- Low Kick
+- Body Press
+
+1630 Usage (Empoleon) @ Assault Vest
+Ability: Competitive
+Level: 50
+EVs: 132 HP / 0 Atk / 124 Def / 164 SpA / 52 SpD / 36 Spe
+Modest Nature
+- Flash Cannon
+- Water Pledge
+- Ice Beam
+- Icy Wind
+
+1630 Usage (Zoroark-Hisui) @ Choice Specs
+Ability: Illusion
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Hyper Voice
+- Shadow Ball
+- Icy Wind
+- Bitter Malice
+
+1630 Usage (Annihilape) @ Leftovers
+Ability: Defiant
+Level: 50
+EVs: 252 HP / 4 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Rage Fist
+- Drain Punch
+- Bulk Up
+- Close Combat
+
+1630 Usage (Ceruledge) @ Leftovers
+Ability: Flash Fire
+Level: 50
+EVs: 252 HP / 116 Atk / 52 Def / 0 SpA / 76 SpD / 12 Spe
+Adamant Nature
+- Bitter Blade
+- Shadow Sneak
+- Bulk Up
+- Poltergeist
+
+1630 Usage (Toxicroak) @ Clear Amulet
+Ability: Dry Skin
+Level: 50
+EVs: 20 HP / 236 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Fake Out
+- Close Combat
+- Sucker Punch
+- Gunk Shot
+
+1630 Usage (Beartic) @ Loaded Dice
+Ability: Swift Swim
+Level: 50
+EVs: 36 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 220 Spe
+Adamant Nature
+- Icicle Spear
+- Taunt
+- Heavy Slam
+- Icicle Crash
+
+1630 Usage (Ninetales) @ Wide Lens
+Ability: Drought
+Level: 50
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Heat Wave
+- Overheat
+- Hypnosis
+- Solar Beam
+
+1630 Usage (Sneasler) @ Focus Sash
+Ability: Unburden
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Dire Claw
+- Fake Out
+- Throat Chop
+
+1630 Usage (Dragonite) @ Loaded Dice
+Ability: Multiscale
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Extreme Speed
+- Scale Shot
+- Low Kick
+- Tera Blast
+
+1630 Usage (Sneasel-Hisui) @ Eviolite
+Ability: Inner Focus
+Level: 50
+EVs: 36 HP / 140 Atk / 4 Def / 0 SpA / 100 SpD / 228 Spe
+Jolly Nature
+- Close Combat
+- Poison Jab
+- Sunny Day
+- Coaching
+
+1630 Usage (Gyarados) @ Safety Goggles
+Ability: Intimidate
+Level: 50
+EVs: 188 HP / 20 Atk / 84 Def / 0 SpA / 148 SpD / 68 Spe
+Careful Nature
+- Waterfall
+- Taunt
+- Thunder Wave
+- Tera Blast
+
+1630 Usage (Chandelure) @ Focus Sash
+Ability: Flash Fire
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Heat Wave
+- Trick Room
+- Overheat
+
+1630 Usage (Orthworm) @ Sitrus Berry
+Ability: Earth Eater
+Level: 50
+EVs: 244 HP / 0 Atk / 68 Def / 0 SpA / 196 SpD / 0 Spe
+Sassy Nature
+- Body Press
+- Iron Defense
+- Shed Tail
+- Heavy Slam
+
+1630 Usage (Reuniclus) @ Life Orb
+Ability: Magic Guard
+Level: 50
+EVs: 252 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+- Trick Room
+- Expanding Force
+- Tera Blast
+- Psychic
+
+1630 Usage (Ribombee) @ Focus Sash
+Ability: Shield Dust
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Moonblast
+- Tailwind
+- Pollen Puff
+- Fake Tears
+
+1630 Usage (Dragapult) @ Choice Band
+Ability: Clear Body
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Dragon Darts
+- Phantom Force
+- U-turn
+- Outrage
+
+1630 Usage (Typhlosion-Hisui) @ Choice Specs
+Ability: Frisk
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Eruption
+- Shadow Ball
+- Heat Wave
+- Overheat
+
+1630 Usage (Gardevoir) @ Choice Scarf
+Ability: Telepathy
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+- Dazzling Gleam
+- Expanding Force
+- Moonblast
+- Trick Room
+
+1630 Usage (Lycanroc) @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Rock Slide
+- Close Combat
+- Endeavor
+- Accelerock
+
+1630 Usage (Breloom) @ Focus Sash
+Ability: Technician
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Bullet Seed
+- Spore
+- Mach Punch
+- Close Combat
+
+1630 Usage (Slowking) @ Sitrus Berry
+Ability: Regenerator
+Level: 50
+EVs: 252 HP / 0 Atk / 180 Def / 0 SpA / 76 SpD / 0 Spe
+Sassy Nature
+- Trick Room
+- Scald
+- Chilly Reception
+- Expanding Force
+
+1630 Usage (Drifblim) @ Psychic Seed
+Ability: Unburden
+Level: 50
+EVs: 4 HP / 236 Atk / 20 Def / 0 SpA / 12 SpD / 236 Spe
+Adamant Nature
+- Tailwind
+- Acrobatics
+- Will-O-Wisp
+- Haze
+
+1630 Usage (Jumpluff) @ Covert Cloak
+Ability: Chlorophyll
+Level: 50
+EVs: 252 HP / 0 Atk / 60 Def / 0 SpA / 0 SpD / 196 Spe
+Timid Nature
+- Tailwind
+- Sleep Powder
+- Encore
+- Leaf Storm
+
+1630 Usage (Yanma) @ Focus Sash
+Ability: Compound Eyes
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 252 Spe
+Timid Nature
+- Hypnosis
+- Tailwind
+- Screech
+- Detect
+
+1630 Usage (Sinistcha) @ Sitrus Berry
+Ability: Hospitality
+Level: 50
+EVs: 252 HP / 0 Atk / 188 Def / 0 SpA / 68 SpD / 0 Spe
+Bold Nature
+- Matcha Gotcha
+- Rage Powder
+- Trick Room
+- Life Dew
+
+1630 Usage (Braviary) @ Life Orb
+Ability: Defiant
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Brave Bird
+- Tailwind
+- Bulk Up
+
+1630 Usage (Torkoal) @ Charcoal
+Ability: Drought
+Level: 50
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Quiet Nature
+- Eruption
+- Earth Power
+- Weather Ball
+- Heat Wave
+
+1630 Usage (Excadrill) @ Focus Sash
+Ability: Sand Rush
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Iron Head
+- High Horsepower
+- Earthquake
+- Rock Slide
+
+1630 Usage (Smeargle) @ Focus Sash
+Ability: Moody
+Level: 50
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Follow Me
+- Spore
+- Fake Out
+- Wide Guard
+
+1630 Usage (Whimsicott) @ Focus Sash
+Ability: Prankster
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Tailwind
+- Moonblast
+- Encore
+- Sunny Day
+
+1630 Usage (Grimmsnarl) @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 252 HP / 0 Atk / 140 Def / 0 SpA / 116 SpD / 0 Spe
+Careful Nature
+- Light Screen
+- Reflect
+- Spirit Break
+- Thunder Wave
+
+1630 Usage (Electrode-Hisui) @ Loaded Dice
+Ability: Soundproof
+Level: 50
+EVs: 252 HP / 0 Atk / 44 Def / 4 SpA / 4 SpD / 204 Spe
+Timid Nature
+- Bullet Seed
+- Taunt
+- Electroweb
+- Rain Dance
+
+1630 Usage (Tauros-Paldea-Blaze) @ Mirror Herb
+Ability: Intimidate
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Raging Bull
+- Flare Blitz
+- Will-O-Wisp
+
+1630 Usage (Braviary-Hisui) @ Life Orb
+Ability: Tinted Lens
+Level: 50
+EVs: 124 HP / 0 Atk / 60 Def / 252 SpA / 68 SpD / 0 Spe
+Quiet Nature
+- Expanding Force
+- Psychic
+- Hurricane
+- Esper Wing
+
+1630 Usage (Rotom-Frost) @ Choice Specs
+Ability: Levitate
+Level: 50
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Blizzard
+- Thunderbolt
+- Volt Switch
+- Discharge
+
+1630 Usage (Overqwil) @ Life Orb
+Ability: Swift Swim
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Gunk Shot
+- Throat Chop
+- Liquidation
+- Haze
+
+1630 Usage (Gengar) @ Focus Sash
+Ability: Cursed Body
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Sludge Bomb
+- Icy Wind
+- Trick Room
+
+1630 Usage (Corviknight) @ Sitrus Berry
+Ability: Mirror Armor
+Level: 50
+EVs: 252 HP / 76 Atk / 4 Def / 0 SpA / 92 SpD / 84 Spe
+Adamant Nature
+- Brave Bird
+- Roost
+- Bulk Up
+- Body Press
+
+1630 Usage (Sableye) @ Light Clay
+Ability: Prankster
+Level: 50
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Light Screen
+- Reflect
+- Encore
+- Will-O-Wisp
+
+1630 Usage (Primarina) @ Sitrus Berry
+Ability: Liquid Voice
+Level: 50
+EVs: 228 HP / 0 Atk / 188 Def / 28 SpA / 4 SpD / 60 Spe
+Modest Nature
+- Hyper Voice
+- Moonblast
+- Haze
+- Dazzling Gleam
+
+1630 Usage (Farigiraf) @ Throat Spray
+Ability: Armor Tail
+Level: 50
+EVs: 108 HP / 0 Atk / 44 Def / 156 SpA / 196 SpD / 4 Spe
+Modest Nature
+- Trick Room
+- Hyper Voice
+- Helping Hand
+- Psychic
+
+1630 Usage (Scizor) @ Assault Vest
+Ability: Technician
+Level: 50
+EVs: 172 HP / 252 Atk / 4 Def / 0 SpA / 36 SpD / 44 Spe
+Adamant Nature
+- Bullet Punch
+- Close Combat
+- Dual Wingbeat
+- Knock Off
+
+1630 Usage (Scyther) @ Eviolite
+Ability: Technician
+Level: 50
+EVs: 0 HP / 244 Atk / 0 Def / 0 SpA / 12 SpD / 252 Spe
+Jolly Nature
+- Dual Wingbeat
+- Close Combat
+- Swords Dance
+- U-turn
+
+1630 Usage (Rillaboom) @ Assault Vest
+Ability: Grassy Surge
+Level: 50
+EVs: 236 HP / 196 Atk / 4 Def / 0 SpA / 12 SpD / 60 Spe
+Adamant Nature
+- Grassy Glide
+- Fake Out
+- Wood Hammer
+- U-turn
+
+1630 Usage (Lilligant-Hisui) @ Focus Sash
+Ability: Chlorophyll
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- After You
+- Sleep Powder
+- Leaf Blade
+
+1630 Usage (Gastrodon) @ Sitrus Berry
+Ability: Storm Drain
+Level: 50
+EVs: 252 HP / 0 Atk / 116 Def / 60 SpA / 76 SpD / 4 Spe
+Modest Nature
+- Earth Power
+- Ice Beam
+- Clear Smog
+- Yawn
+
+1630 Usage (Weavile) @ Focus Sash
+Ability: Pressure
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Knock Off
+- Fake Out
+- Triple Axel
+- Ice Spinner
+
+1630 Usage (Baxcalibur) @ Loaded Dice
+Ability: Thermal Exchange
+Level: 50
+EVs: 12 HP / 244 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Ice Shard
+- Icicle Spear
+- Scale Shot
+- Glaive Rush
+
+1630 Usage (Quaquaval) @ Choice Scarf
+Ability: Moxie
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Aqua Step
+- Close Combat
+- Aqua Jet
+- Triple Axel
+
+1630 Usage (Ursaluna) @ Flame Orb
+Ability: Guts
+Level: 50
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Brave Nature
+- Facade
+- Headlong Rush
+- Earthquake
+- Substitute
+
+1630 Usage (Garganacl) @ Leftovers
+Ability: Purifying Salt
+Level: 50
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Sassy Nature
+- Salt Cure
+- Recover
+- Wide Guard
+- Iron Defense
+
+1630 Usage (Tyranitar) @ Assault Vest
+Ability: Sand Stream
+Level: 50
+EVs: 252 HP / 252 Atk / 0 Def / 4 SpA / 0 SpD / 0 Spe
+Brave Nature
+- Rock Slide
+- Knock Off
+- Tera Blast
+- Low Kick
+
+1630 Usage (Bruxish) @ Choice Scarf
+Ability: Dazzling
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Icy Wind
+- Psychic Fangs
+- Flip Turn
+- Super Fang
+
+1630 Usage (Illumise) @ Covert Cloak
+Ability: Prankster
+Level: 50
+EVs: 252 HP / 0 Atk / 124 Def / 0 SpA / 128 SpD / 0 Spe
+Careful Nature
+- Tailwind
+- Rain Dance
+- Encore
+- Sunny Day
+
+1630 Usage (Milotic) @ Sitrus Berry
+Ability: Competitive
+Level: 50
+EVs: 252 HP / 0 Atk / 236 Def / 12 SpA / 4 SpD / 4 Spe
+Modest Nature
+- Scald
+- Haze
+- Life Dew
+- Muddy Water
+
+1630 Usage (Umbreon) @ Sitrus Berry
+Ability: Inner Focus
+Level: 50
+EVs: 252 HP / 0 Atk / 100 Def / 0 SpA / 156 SpD / 0 Spe
+Calm Nature
+- Snarl
+- Foul Play
+- Yawn
+- Taunt
+
+1630 Usage (Tinkaton) @ Covert Cloak
+Ability: Mold Breaker
+Level: 50
+EVs: 124 HP / 124 Atk / 76 Def / 0 SpA / 4 SpD / 180 Spe
+Jolly Nature
+- Gigaton Hammer
+- Fake Out
+- Play Rough
+- Encore
+
+1630 Usage (Indeedee-F) @ Psychic Seed
+Ability: Psychic Surge
+Level: 50
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Follow Me
+- Trick Room
+- Helping Hand
+- Psychic
+
+1630 Usage (Electabuzz) @ Eviolite
+Ability: Vital Spirit
+Level: 50
+EVs: 244 HP / 0 Atk / 196 Def / 4 SpA / 36 SpD / 28 Spe
+Calm Nature
+- Follow Me
+- Taunt
+- Electroweb
+- Thunderbolt
+
+1630 Usage (Charizard) @ Choice Scarf
+Ability: Solar Power
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Heat Wave
+- Overheat
+- Air Slash
+- Dragon Pulse
+
+1630 Usage (Skeledirge) @ Leftovers
+Ability: Unaware
+Level: 50
+EVs: 212 HP / 0 Atk / 4 Def / 188 SpA / 100 SpD / 4 Spe
+Modest Nature
+- Torch Song
+- Shadow Ball
+- Will-O-Wisp
+- Slack Off
+
+1630 Usage (Kleavor) @ Choice Scarf
+Ability: Sharpness
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Stone Axe
+- X-Scissor
+- Rock Slide
+- U-turn
+
+1630 Usage (Salazzle) @ Focus Sash
+Ability: Oblivious
+Level: 50
+EVs: 0 HP / 4 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Fake Out
+- Overheat
+- Sludge Bomb
+- Will-O-Wisp
+
+1630 Usage (Magmortar) @ Sitrus Berry
+Ability: Flame Body
+Level: 50
+EVs: 252 HP / 0 Atk / 164 Def / 0 SpA / 92 SpD / 0 Spe
+Bold Nature
+- Follow Me
+- Heat Wave
+- Taunt
+- Thunderbolt
+
+1630 Usage (Muk-Alola) @ Leftovers
+Ability: Power of Alchemy
+Level: 50
+EVs: 252 HP / 0 Atk / 124 Def / 0 SpA / 132 SpD / 0 Spe
+Calm Nature
+- Knock Off
+- Minimize
+- Substitute
+- Toxic
+
+1630 Usage (Abomasnow) @ Assault Vest
+Ability: Snow Warning
+Level: 50
+EVs: 52 HP / 0 Atk / 132 Def / 220 SpA / 4 SpD / 100 Spe
+Modest Nature
+- Blizzard
+- Earth Power
+- Leaf Storm
+- Weather Ball
+
+1630 Usage (Tsareena) @ Wide Lens
+Ability: Queenly Majesty
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Power Whip
+- Triple Axel
+- High Jump Kick
+- Taunt
+
+1630 Usage (Palafin) @ Mystic Water
+Ability: Zero to Hero
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Jet Punch
+- Wave Crash
+- Haze
+- Close Combat
+
+1630 Usage (Clefable) @ Safety Goggles
+Ability: Unaware
+Level: 50
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Follow Me
+- Moonblast
+- Life Dew
+- Helping Hand
+
+1630 Usage (Tatsugiri) @ Choice Scarf
+Ability: Commander
+Level: 50
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Muddy Water
+- Draco Meteor
+- Icy Wind
+- Dragon Pulse
+
+1630 Usage (Ludicolo) @ Assault Vest
+Ability: Swift Swim
+Level: 50
+EVs: 36 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 220 Spe
+Modest Nature
+- Fake Out
+- Weather Ball
+- Energy Ball
+- Ice Beam
+
+1630 Usage (Oricorio-Pom-Pom) @ Covert Cloak
+Ability: Dancer
+Level: 50
+EVs: 124 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 132 Spe
+Modest Nature
+- Revelation Dance
+- Air Slash
+- Baton Pass
+- Tailwind
+
+1630 Usage (Mienshao) @ Focus Sash
+Ability: Inner Focus
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Knock Off
+- Wide Guard
+- Ice Spinner
+
+1630 Usage (Cryogonal) @ Focus Sash
+Ability: Levitate
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Haze
+- Freeze-Dry
+- Icy Wind
+- Light Screen
+
+1630 Usage (Ninetales-Alola) @ Choice Specs
+Ability: Snow Warning
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Blizzard
+- Freeze-Dry
+- Aurora Veil
+- Moonblast
+
+1630 Usage (Decidueye-Hisui) @ Razor Claw
+Ability: Scrappy
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Triple Arrows
+- Leaf Blade
+- Haze
+- Sucker Punch
+
+1630 Usage (Hatterene) @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 252 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+- Dazzling Gleam
+- Trick Room
+- Expanding Force
+- Mystical Fire
+
+1630 Usage (Rotom-Heat) @ Choice Specs
+Ability: Levitate
+Level: 50
+EVs: 12 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 244 Spe
+Timid Nature
+- Overheat
+- Thunderbolt
+- Will-O-Wisp
+- Volt Switch
+
+1630 Usage (Malamar) @ Sitrus Berry
+Ability: Contrary
+Level: 50
+EVs: 252 HP / 24 Atk / 84 Def / 0 SpA / 132 SpD / 0 Spe
+Adamant Nature
+- Superpower
+- Knock Off
+- Trick Room
+- Topsy-Turvy
+
+1630 Usage (Lycanroc-Dusk) @ Choice Band
+Ability: Tough Claws
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Rock Slide
+- Stomping Tantrum
+- Sucker Punch
+- Play Rough
+
+1630 Usage (Espeon) @ Life Orb
+Ability: Magic Bounce
+Level: 50
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Expanding Force
+- Dazzling Gleam
+- Shadow Ball
+- Tera Blast
+
+1630 Usage (Pawmot) @ Focus Sash
+Ability: Natural Cure
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Double Shock
+- Fake Out
+- Revival Blessing
+
+1630 Usage (Azumarill) @ Sitrus Berry
+Ability: Huge Power
+Level: 50
+EVs: 220 HP / 236 Atk / 4 Def / 0 SpA / 12 SpD / 36 Spe
+Adamant Nature
+- Aqua Jet
+- Play Rough
+- Liquidation
+- Belly Drum
+
+1630 Usage (Archaludon) @ Assault Vest
+Ability: Stamina
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Electro Shot
+- Flash Cannon
+- Body Press
+- Draco Meteor
+
+1630 Usage (Murkrow) @ Eviolite
+Ability: Prankster
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Tailwind
+- Haze
+- Foul Play
+- Sunny Day
+
+1630 Usage (Maushold) @ Wide Lens
+Ability: Friend Guard
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Follow Me
+- Taunt
+- Population Bomb
+- Beat Up
+
+1630 Usage (Dusclops) @ Eviolite
+Ability: Frisk
+Level: 50
+EVs: 252 HP / 0 Atk / 116 Def / 0 SpA / 140 SpD / 0 Spe
+Sassy Nature
+- Trick Room
+- Night Shade
+- Pain Split
+- Haze
+
+1630 Usage (Inteleon) @ Focus Sash
+Ability: Sniper
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Snipe Shot
+- Haze
+- Scald
+- Taunt
+
+1630 Usage (Hydreigon) @ Choice Specs
+Ability: Levitate
+Level: 50
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Draco Meteor
+- Dark Pulse
+- Snarl
+- Heat Wave
+
+1630 Usage (Lapras) @ Leftovers
+Ability: Water Absorb
+Level: 50
+EVs: 252 HP / 0 Atk / 60 Def / 0 SpA / 196 SpD / 0 Spe
+Sassy Nature
+- Perish Song
+- Sheer Cold
+- Substitute
+- Freeze-Dry
+
+1630 Usage (Samurott-Hisui) @ Assault Vest
+Ability: Sharpness
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Sacred Sword
+- Aqua Cutter
+- Sucker Punch
+- Night Slash
+
+1630 Usage (Gallade) @ Clear Amulet
+Ability: Sharpness
+Level: 50
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Brave Nature
+- Sacred Sword
+- Psycho Cut
+- Trick Room
+- Wide Guard
+
+1630 Usage (Yanmega) @ Focus Sash
+Ability: Speed Boost
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Tailwind
+- Air Slash
+- Bug Buzz
+- Detect
+
+1630 Usage (Cinderace) @ Choice Band
+Ability: Libero
+Level: 50
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Pyro Ball
+- U-turn
+- High Jump Kick
+- Sucker Punch
+
+1630 Usage (Flamigo) @ Focus Sash
+Ability: Scrappy
+Level: 50
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Brave Bird
+- Wide Guard
+- Dual Wingbeat
+
+1630 Usage (Hitmontop) @ Eject Pack
+Ability: Intimidate
+Level: 50
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 6 SpD / 0 Spe
+Brave Nature
+- Fake Out
+- Close Combat
+- Wide Guard
+- Triple Axel
+
+1630 Usage (Volbeat) @ Coba Berry
+Ability: Prankster
+Level: 50
+EVs: 252 HP / 0 Atk / 60 Def / 0 SpA / 196 SpD / 0 Spe
+Calm Nature
+- Tailwind
+- Encore
+- Rain Dance
+- Sunny Day
+
+1630 Usage (Kingdra) @ Life Orb
+Ability: Swift Swim
+Level: 50
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+- Draco Meteor
+- Hurricane
+- Muddy Water
+- Weather Ball
+

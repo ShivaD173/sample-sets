@@ -1,0 +1,220 @@
+Double Dance (Beedrill)  
+Ability: No Ability  
+- Swords Dance  
+- Twineedle/ Agility  
+- Mega Drain/ Agility
+- Hyper Beam
+
+Powder Sweeper (Bulbasaur)  
+Ability: No Ability  
+- Sleep Powder
+- Swords Dance  
+- Body Slam  
+- Razor Leaf
+
+Mixed (Cubone)  
+Ability: No Ability  
+- Blizzard / Body Slam 
+- Earthquake  
+- Counter / Substitute  
+- Fire Blast
+
+Physical Sweeper (Doduo)  
+Ability: No Ability  
+- Drill Peck  
+- Body Slam  
+- Substitute / Reflect
+- Agility / Reflect / Quick Attack
+
+Para Lead (Ekans)  
+Ability: No Ability  
+- Glare  
+- Earthquake  
+- Wrap  
+- Rock Slide
+
+Physical Sweeper (Farfetch’d)  
+Ability: No Ability  
+- Slash  
+- Agility / Substitute / Rest 
+- Swords Dance / Sand Attack 
+- Body Slam
+
+Offensive (Geodude)  
+Ability: No Ability  
+- Rock Slide  
+- Earthquake  
+- Explosion  
+- Substitute / Body Slam / Counter
+
+Mixed (Grimer)  
+Ability: No Ability  
+- Mega Drain  
+- Fire Blast  
+- Thunderbolt / Body Slam 
+- Explosion
+
+Counter (Hitmonchan) (M)  
+Ability: No Ability  
+- Ice Punch / Mega Kick 
+- Body Slam  
+- Seismic Toss / Mega Kick
+- Counter
+
+Sub Offensive (Hitmonchan) (M)  
+Ability: No Ability  
+- Body Slam  
+- Ice Punch  
+- Seismic Toss / Counter / Mega Kick 
+- Substitute
+
+Defensive (Horsea)  
+Ability: No Ability  
+- Surf  
+- Ice Beam
+- Smokescreen 
+- Rest
+
+Agility Sweeper (Horsea)  
+Ability: No Ability  
+- Hydro Pump / Surf 
+- Blizzard  
+- Agility  
+- Rest
+Mixed (Koffing)  
+Ability: No Ability     
+- Thunderbolt  
+- Fire Blast  
+- Sludge  
+- Explosion / Rest
+
+Swords Dance (Krabby)  
+Ability: No Ability  
+- Body Slam  
+- Crabhammer  
+- Swords Dance  
+- Substitute
+
+MonoElectric (Magnemite)  
+Ability: No Ability  
+- Thunderbolt  
+- Thunder Wave  
+- Rest / Substitute  
+- Reflect / Flash / Mimic 
+
+Bolt Beam (Nidorina) (F)  
+Ability: No Ability  
+- Blizzard  
+- Thunderbolt  
+- Rest  
+- Reflect / Body Slam
+
+Specially Defensive (Seel)  
+Ability: No Ability  
+- Ice Beam  
+- Surf  
+- Body Slam  
+- Rest
+
+Mixed Boom (Shellder)  
+Ability: No Ability  
+- Clamp  
+- Blizzard  
+- Explosion  
+- Double-Edge / Surf
+
+Double Powder Psychic (Venonat)  
+Ability: No Ability  
+- Stun Spore  
+- Sleep Powder  
+- Mega Drain  
+- Psychic
+
+Annoyer (Vulpix)  
+Ability: No Ability  
+- Fire Spin  
+- Flamethrower / Quick Attack / Body Slam  
+- Substitute / Quick Attack / Body Slam    
+- Fire Blast
+
+Mixed Slash (Charmander)  
+Ability: No Ability  
+- Fire Spin  
+- Fire Blast  
+- Slash  
+- Counter / Substitute
+
+Swords Dance (Charmander)  
+Ability: No Ability  
+- Fire Spin  
+- Fire Blast  
+- Swords Dance  
+- Body Slam
+
+Transform to Better Pkmn (Ditto)  
+Ability: No Ability  
+- Transform
+
+Specially Defensive (Eevee)  
+Ability: No Ability  
+- Body Slam  
+- Reflect / Toxic 
+- Sand Attack  
+- Rest / Substitute
+
+Agility Sweeper (Goldeen)  
+Ability: No Ability  
+- Agility  
+- Surf  
+- Blizzard  
+- Rest
+
+Paralyzer (Jigglypuff) 
+Ability: No Ability  
+- Thunder Wave  
+- Psychic  
+- Thunderbolt/Blizzard
+- Sing / Counter
+
+
+Defensive (Jigglypuff)  
+Ability: No Ability  
+- Thunder Wave  
+- Seismic Toss  
+- Counter  
+- Sing
+
+Offensive Lead (Mankey)  
+Ability: No Ability  
+- Rock Slide  
+- Seismic Toss  
+- Thunder  
+- Low Kick
+
+Standard Offence (Mankey)  
+Ability: No Ability  
+- Body Slam / Mega Kick  
+- Low Kick / Submission
+- Rock Slide  
+- Thunderbolt / Thunder
+
+Double Powder (Oddish)  
+Ability: No Ability  
+- Sleep Powder  
+- Stun Spore  
+- Mega Drain / Swords Dance 
+- Acid
+
+Physically Defensive (Pidgeotto)  
+Ability: No Ability  
+- Double-Edge  
+- Reflect  
+- Sand Attack  
+- Rest
+
+Super Fang (Rattata)  
+Ability: No Ability  
+- Body Slam  
+- Substitute / Thunderbolt  
+- Super Fang  
+- Bubble Beam

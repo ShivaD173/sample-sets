@@ -1,0 +1,1409 @@
+Simisage @ Life Orb / Choice Scarf
+Ability: Overgrow  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+IVs: 30 Atk  
+- Leaf Storm  
+- Hidden Power [Ice]  
+- Knock Off  
+- Superpower  
+
+Simisage @ Fightinium Z  
+Ability: Overgrow  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Giga Drain  
+- Focus Blast  
+- Hidden Power [Ice]  
+
+Fraxure @ Eviolite  
+Ability: Mold Breaker  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Poison Jab  
+- Stomping Tantrum  
+
+Wishiwashi @ Leftovers  
+Ability: Schooling  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+- U-turn  
+- Scald  
+- Rest  
+- Sleep Talk  
+
+Zebstrika @ Life Orb / Expert Belt / Firium Z
+Ability: Lightning Rod  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Overheat  
+- Thunderbolt  
+- Hidden Power [Grass] / Hidden Power [Ice]
+
+Silvally-Poison @ Poison Memory  
+Ability: RKS System  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+- Thunderbolt  
+- Ice Beam  
+- Defog  
+- U-turn / Parting Shot
+
+Silvally-Poison @ Poison Memory  
+Ability: RKS System  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Ice Beam  
+- Flamethrower  
+- U-turn / Parting Shot
+
+Raticate @ Flame Orb  
+Ability: Guts  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Facade  
+- Crunch  
+- Quick Attack  
+- U-turn  
+
+Dugtrio @ Focus Sash  
+Ability: Sand Force  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Earthquake  
+- Stone Edge  
+- Sucker Punch / Memento 
+
+Dugtrio @ Choice Band  
+Ability: Sand Force  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Night Slash  
+- Sucker Punch / Memento  
+
+Golduck @ Leftovers  
+Ability: Cloud Nine  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Hydro Pump  
+- Ice Beam  
+- Hidden Power [Grass]  
+
+Golduck @ Choice Scarf / Choice Specs / Life Orb
+Ability: Cloud Nine  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hydro Pump  
+- Surf  
+- Ice Beam  
+- Hidden Power [Grass]  
+
+Stunfisk @ Leftovers  
+Ability: Static  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Toxic  
+- Earth Power  
+- Foul Play / Sludge Bomb / Discharge 
+
+Grimer-Alola @ Eviolite  
+Ability: Poison Touch  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Knock Off  
+- Poison Jab  
+- Rest  
+- Sleep Talk  
+
+Grimer-Alola @ Eviolite  
+Ability: Poison Touch  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Knock Off  
+- Poison Jab  
+- Pursuit / Drain Punch 
+- Shadow Sneak  
+
+Electrode @ Leftovers  
+Ability: Aftermath / Static  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Thunderbolt  
+- Hidden Power [Grass] / Hidden Power [Ice]
+- Taunt / Foul Play 
+
+Meganium @ Leftovers  
+Ability: Overgrow  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Petal Blizzard  
+- Dragon Tail / Toxic  
+- Synthesis  
+- Aromatherapy  
+
+Meganium @ Leftovers  
+Ability: Overgrow  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Petal Blizzard  
+- Earthquake  
+- Synthesis  
+
+Gourgeist-Large @ Leftovers  
+Ability: Pickup  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Toxic  
+- Synthesis / Leech Seed 
+- Foul Play / Will-O-Wisp
+- Seed Bomb  
+
+Grumpig @ Choice Scarf / Choice Specs 
+Ability: Thick Fat  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Shadow Ball  
+- Signal Beam  
+- Trick  
+Grumpig @ Leftovers  
+Ability: Thick Fat  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Substitute  
+- Psychic  
+- Signal Beam  
+
+Whiscash @ Flyinium Z  
+Ability: Oblivious  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Waterfall  
+- Earthquake  
+- Bounce  
+
+Huntail @ White Herb  
+Ability: Water Veil  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shell Smash  
+- Surf  
+- Ice Beam  
+- Hidden Power [Grass]  
+
+Monferno @ Focus Sash  
+Ability: Blaze  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Taunt  
+- Endeavor  
+- Overheat  
+
+Monferno @ Eviolite / Choice Band / Choice Scarf 
+Ability: Iron Fist  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Flare Blitz  
+- Close Combat / Swords Dance 
+- Mach Punch  
+
+Trevenant @ Choice Band  
+Ability: Natural Cure  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Wood Hammer / Horn Leech 
+- Shadow Claw  
+- Rock Slide  
+- Earthquake / Rest  
+
+Klang @ Eviolite  
+Ability: Clear Body  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Shift Gear  
+- Gear Grind  
+- Rest  
+- Sleep Talk  
+
+Klang @ Eviolite  
+Ability: Clear Body  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Shift Gear  
+- Iron Defense  
+- Gear Grind  
+- Rest  
+
+Klang @ Eviolite  
+Ability: Clear Body  
+EVs: 252 HP / 4 Def / 252 SpD  
+Sassy Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Toxic / Gear Grind 
+- Rest  
+- Sleep Talk  
+
+Furfrou @ Choice Band  
+Ability: Fur Coat  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Return  
+- Sucker Punch  
+- Toxic  
+
+Silvally-Grass @ Grass Memory  
+Ability: RKS System  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+- Grass Pledge  
+- Ice Beam  
+- Defog  
+- U-turn  
+
+Vullaby (F) @ Eviolite  
+Ability: Overcoat  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+- U-turn / Foul Play  
+- Taunt  
+- Defog  
+- Roost  
+
+Frogadier @ Choice Scarf / Choice Specs
+Ability: Protean  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Ice Beam  
+- Toxic Spikes / Spikes / Grass Knot
+- U-turn  
+
+Ninjask @ Groundium Z  
+Ability: Speed Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Protect  
+- Leech Life  
+- Dig  
+
+Oricorio @ Leftovers  
+Ability: Dancer  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Revelation Dance  
+- Hurricane  
+- Substitute / Calm Mind
+- Roost  
+
+Sawsbuck @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Thunder Wave / Swords Dance 
+- Headbutt  
+- Horn Leech  
+- Jump Kick  
+
+Electabuzz @ Eviolite / Choice Specs / Choice Scarf
+Ability: Static  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Focus Blast  
+- Thunderbolt  
+- Hidden Power [Ice]  
+
+Misdreavus @ Eviolite  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Shadow Ball  
+- Dazzling Gleam  
+- Pain Split / Taunt 
+
+Misdreavus @ Eviolite  
+Ability: Levitate  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Will-O-Wisp  
+- Hex  
+- Pain Split  
+- Foul Play / Thunder Wave 
+
+Glaceon @ Choice Specs  
+Ability: Ice Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Shadow Ball  
+- Signal Beam  
+- Hidden Power [Ground]  
+
+Glaceon @ Normalium Z  
+Ability: Snow Cloak  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Celebrate  
+- Ice Beam / Freeze Dry 
+- Shadow Ball  
+- Hidden Power [Fighting] / Hidden Power [Ground] 
+
+Silvally-Electric @ Electric Memory  
+Ability: RKS System  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+- Thunderbolt  
+- Ice Beam  
+- Defog  
+- U-turn  
+
+Silvally-Electric @ Electric Memory  
+Ability: RKS System  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Ice Beam  
+- Surf  
+- U-turn  
+
+Gothitelle @ Choice Scarf / Choice Specs
+Ability: Competitive  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Shadow Ball  
+- Signal Beam  
+- Trick  
+
+Glalie @ Leftovers / Focus Sash
+Ability: Inner Focus  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Freeze-Dry  
+- Hidden Power [Ground] / Explosion 
+- Taunt  
+- Spikes  
+
+Chimecho @ Leftovers  
+Ability: Levitate  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Heal Bell  
+- Recover / Wish
+- Calm Mind / Protect
+- Psychic  
+
+Duosion @ Eviolite  
+Ability: Magic Guard / Regenerator 
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psychic / Psyshock 
+- Acid Armor / Signal Beam  
+- Recover  
+
+Swoobat @ Kee Berry / Salac Berry   
+Ability: Simple  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Stored Power  
+- Heat Wave  
+- Roost  
+
+Golem-Alola @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Stealth Rock  
+- Protect  
+- Earthquake  
+- Stone Edge  
+
+Golem-Alola @ Choice Band  
+Ability: Galvanize  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Return  
+- Earthquake  
+- Stone Edge  
+- Superpower  
+
+Machoke @ Eviolite  
+Ability: Guts  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Knock Off  
+- Facade  
+- Close Combat  
+- Bullet Punch  
+
+Machoke @ Eviolite  
+Ability: No Guard  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Dynamic Punch  
+- Bulk Up  
+- Bullet Punch  
+- Knock Off  
+
+Machoke @ Eviolite  
+Ability: No Guard  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Dynamic Punch  
+- Knock Off  
+- Rest  
+- Sleep Talk  
+
+Magmar @ Choice Scarf  
+Ability: Flame Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Focus Blast  
+- Overheat  
+- Hidden Power [Grass]  
+
+Magmar @ Eviolite  
+Ability: Flame Body  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast  
+- Focus Blast  
+- Hidden Power [Grass]  
+- Toxic  
+
+Magmar @ Eviolite  
+Ability: Flame Body  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Thunder Punch  
+- Low Kick  
+- Mach Punch  
+
+Dusknoir @ Darkinium Z  
+Ability: Pressure  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Will-O-Wisp  
+- Pain Split  
+- Shadow Punch  
+- Memento  
+
+Dusknoir @ Choice Band  
+Ability: Pressure  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Shadow Sneak  
+- Pursuit  
+- Earthquake  
+- Brick Break  
+
+Dusknoir @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Substitute  
+- Focus Punch  
+- Shadow Punch  
+- Earthquake  
+
+Murkrow @ Leftovers  
+Ability: Prankster  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Pursuit  
+- Sucker Punch  
+- Brave Bird  
+- Thunder Wave  
+
+Gabite @ Eviolite  
+Ability: Rough Skin  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Stone Edge  
+- Roar  
+
+Gabite @ Eviolite  
+Ability: Rough Skin  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Earthquake  
+- Roar  
+- Rest  
+- Sleep Talk  
+
+Gabite @ Eviolite  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Hone Claws  
+- Earthquake  
+- Stone Edge  
+- Outrage  
+
+Relicanth @ Life Orb 
+Ability: Rock Head  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Rock Polish  
+- Head Smash  
+- Waterfall  
+- Earthquake  
+
+Pidgeot @ Leftovers  
+Ability: Big Pecks  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Jolly Nature  
+- Defog  
+- Roost  
+- Brave Bird  
+- U-turn  
+
+Pidgeot @ Choice Scarf / Choice Band
+Ability: Big Pecks  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Brave Bird  
+- Return  
+- Quick Attack  
+
+Flareon @ Toxic Orb  
+Ability: Guts  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Facade  
+- Flare Blitz  
+- Superpower  
+- Quick Attack  
+
+Flareon @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Wish  
+- Protect  
+- Heal Bell  
+- Lava Plume  
+
+Corsola @ Leftovers  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Scald  
+- Recover  
+- Toxic  
+
+Dragonair @ Eviolite  
+Ability: Shed Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Outrage  
+- Extreme Speed  
+- Waterfall  
+
+Metang @ Eviolite  
+Ability: Clear Body  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Stealth Rock  
+- Meteor Mash  
+- Earthquake  
+- Bullet Punch  
+
+Gourgeist-Small @ Ghostium Z  
+Ability: Frisk  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Trick-or-Treat  
+- Shadow Ball  
+- Energy Ball  
+- Synthesis  
+
+Gourgeist-Small @ Leftovers  
+Ability: Frisk  
+EVs: 252 HP / 4 Def / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Leech Seed  
+- Will-O-Wisp  
+- Phantom Force  
+
+Walrein @ Leftovers  
+Ability: Thick Fat  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute  
+- Encore / Toxic
+- Surf  
+- Ice Beam  
+
+Wigglytuff @ Leftovers  
+Ability: Competitive  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Wish  
+- Protect  
+- Heal Bell / Knock Off 
+- Dazzling Gleam  
+
+Ampharos @ Leftovers  
+Ability: Static  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Agility  
+- Thunderbolt  
+- Focus Blast  
+- Volt Switch  
+
+Ampharos @ Assault Vest  
+Ability: Static  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Focus Blast  
+- Thunderbolt  
+- Signal Beam  
+
+Jumpluff @ Grassium Z  
+Ability: Chlorophyll  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Seed Bomb  
+- Acrobatics  
+- Strength Sap  
+
+Jumpluff @ Leftovers  
+Ability: Chlorophyll  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Leech Seed  
+- Encore  
+- Seed Bomb  
+
+Jumpluff @ Leftovers  
+Ability: Chlorophyll  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Sleep Powder  
+- Strength Sap  
+- Seed Bomb  
+
+Lairon @ Eviolite  
+Ability: Rock Head  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Head Smash  
+- Earthquake  
+- Rock Polish / Iron Head 
+
+Lairon @ Choice Band  
+Ability: Rock Head  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Head Smash  
+- Iron Head  
+- Earthquake  
+- Superpower  
+
+Swalot @ Rocky Helmet  
+Ability: Sticky Hold  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Infestation  
+- Sludge Wave  
+- Rest  
+- Sleep Talk  
+
+Swalot @ Assault Vest  
+Ability: Sticky Hold  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Sassy Nature  
+- Sludge Bomb  
+- Ice Beam  
+- Giga Drain  
+- Earthquake  
+
+Swalot @ Assault Vest  
+Ability: Sticky Hold  
+EVs: 16 HP / 252 Atk / 20 SpD / 220 Spe  
+Adamant Nature  
+- Gunk Shot  
+- Ice Punch  
+- Earthquake  
+- Seed Bomb  
+
+Camerupt @ Leftovers  
+Ability: Solid Rock  
+IVs: 0 Atk  
+- Stealth Rock  
+- Lava Plume  
+- Earth Power  
+- Protect / Yawn / Roar
+
+Camerupt @ Choice Specs  
+Ability: Solid Rock  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Eruption  
+- Earth Power  
+- Fire Blast  
+- Hidden Power [Grass]  
+
+Vibrava @ Eviolite  
+Ability: Levitate  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Careful Nature  
+- Defog  
+- Roost  
+- Earthquake  
+- Toxic / U-Turn  
+
+Cacturne @ Life Orb  
+Ability: Water Absorb  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Mild Nature  
+- Spikes  
+- Giga Drain  
+- Dark Pulse  
+- Sucker Punch  
+
+Cacturne @ Life Orb  
+Ability: Water Absorb  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Seed Bomb  
+- Sucker Punch  
+- Superpower  
+
+Pikachu @ Light Ball  
+Ability: Lightning Rod  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Fake Out  
+- Extreme Speed  
+- Volt Tackle  
+- Surf  
+
+Solrock @ Rocky Helmet  
+Ability: Levitate  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock  
+- Morning Sun  
+- Will-O-Wisp  
+- Psywave / Rock Slide 
+
+Solrock @ Choice Band  
+Ability: Levitate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Zen Headbutt  
+- Earthquake  
+- Flare Blitz  
+
+Lunatone @ Leftovers  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Rock Polish  
+- Power Gem  
+- Psychic  
+- Earth Power  
+
+Lunatone @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Power Gem  
+- Earth Power  
+- Signal Beam  
+
+Armaldo @ Leftovers  
+Ability: Battle Armor  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Stone Edge  
+- Liquidation / Rapid Spin 
+- X-Scissor  
+
+Armaldo @ Leftovers  
+Ability: Battle Armor  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Stealth Rock  
+- Knock Off  
+- Stone Edge  
+- Earthquake / Rapid Spin   
+
+Silvally-Rock @ Rock Memory  
+Ability: RKS System  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+- Thunderbolt  
+- Ice Beam  
+- Defog  
+- U-turn / Parting Shot
+
+Silvally-Psychic @ Psychic Memory  
+Ability: RKS System  
+EVs: 252 HP / 200 Def / 56 Spe  
+Bold Nature  
+- Thunderbolt  
+- Ice Beam  
+- Defog  
+- U-turn / Parting Shot 
+
+Luxray @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Hidden Power [Ice]  
+- Rest  
+- Sleep Talk  
+
+Luxray @ Flame Orb  
+Ability: Guts  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Facade  
+- Wild Charge  
+- Ice Fang  
+- Superpower  
+
+Gogoat @ Leftovers  
+Ability: Sap Sipper  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Bulk Up  
+- Milk Drink  
+- Horn Leech  
+- Rock Slide / Earthquake  
+
+Wormadam-Trash (F) @ Leftovers  
+Ability: Overcoat  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Stealth Rock  
+- Toxic  
+- Iron Head  
+- Protect  
+
+Whirlipede @ Eviolite  
+Ability: Speed Boost  
+EVs: 248 HP / 8 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Toxic Spikes  
+- Spikes  
+- Protect  
+- Endeavor  
+
+Hippopotas @ Eviolite  
+Ability: Sand Stream  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Stealth Rock  
+- Slack Off  
+- Earthquake  
+- Whirlwind  
+
+Lumineon @ Leftovers  
+Ability: Storm Drain  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+- Scald  
+- Ice Beam  
+- Defog  
+- U-turn  
+
+Scraggy @ Eviolite  
+Ability: Shed Skin  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Bulk Up  
+- Knock Off  
+- Drain Punch  
+- Rest  
+
+Scraggy @ Eviolite  
+Ability: Moxie  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Knock Off  
+- High Jump Kick  
+- Taunt  
+
+Frillish @ Eviolite  
+Ability: Water Absorb  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Scald / Will-O-Wusp
+- Toxic  
+- Recover  
+- Night Shade / Taunt  
+
+Mienfoo @ Eviolite 
+Ability: Regenerator  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Fake Out  
+- High Jump Kick  
+- Knock Off  
+
+Quilladin @ Eviolite  
+Ability: Bulletproof  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Spikes  
+- Synthesis  
+- Toxic  
+- Seed Bomb  
+
+Carbink @ Mental Herb / Normal Gem  
+Ability: Clear Body  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Careful Nature  
+- Trick Room  
+- Stealth Rock
+- Moonblast  
+- Explosion / Earth Power   
+
+Carbink @ Leftovers  
+Ability: Clear Body  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Stealth Rock / Rest 
+- Calm Mind  
+- Earth Power  
+- Moonblast  
+
+Shiinotic @ Rocky Helmet  
+Ability: Effect Spore  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Spore  
+- Strength Sap  
+- Moonblast  
+- Sludge Bomb / Giga Drain  
+
+Hakamo-o @ Eviolite  
+Ability: Overcoat  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Close Combat  
+- Outrage  
+- Iron Head  
+
+Krokorok @ Choice Scarf  
+Ability: Moxie  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Crunch  
+- Pursuit  
+- Knock Off  
+
+Krokorok @ Eviolite  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Knock Off  
+- Earthquake  
+- Taunt  
+
+Lopunny @ Assault Vest  
+Ability: Klutz  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Switcheroo  
+- Return  
+- High Jump Kick  
+- Healing Wish  
+
+Dedenne @ Choice Scarf  
+Ability: Cheek Pouch  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Volt Switch  
+- U-turn  
+- Thunderbolt  
+- Hidden Power [Ice]  
+
+Dedenne @ Sitrus Berry  
+Ability: Cheek Pouch  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power [Ice]  
+- Nuzzle  
+- U-turn  
+
+Persian @ Silk Scarf  
+Ability: Technician  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Return  
+- Taunt / Bite 
+- U-turn  
+
+Silvally-Flying @ Flying Memory  
+Ability: RKS System  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Flame Charge  
+- Multi-Attack  
+- Crunch  
+
+Silvally-Fire @ Fire Memory  
+Ability: RKS System  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Flamethrower  
+- Thunderbolt  
+- Ice Beam  
+- U-turn  
+
+Regigigas @ Leftovers  
+Ability: Slow Start  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Careful Nature  
+- Toxic  
+- Substitute  
+- Drain Punch  
+- Return / Knock Off  
+
+Noctowl @ Leftovers  
+Ability: Insomnia  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Defog  
+- Roost  
+- Toxic  
+- Night Shade  
+
+Pupitar @ Eviolite  
+Ability: Shed Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature  
+- Dragon Dance / Stealth Rock  
+- Earthquake  
+- Stone Edge  
+- Rest  
+
+Beartic @ Leftovers  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Icicle Crash  
+- Superpower  
+- Aqua Jet   
+
+Togetic @ Eviolite  
+Ability: Serene Grace  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Wish  
+- Protect  
+- Heal Bell / Toxic 
+- Seismic Toss  
+
+Bellossom @ Leftovers  
+Ability: Chlorophyll  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Strength Sap / Synthesis  
+- Giga Drain / Energy Ball  
+- Hidden Power [Ground] / Safeguard / Sleep Powder
+
+Shuckle @ Mental Herb  
+Ability: Sturdy  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Careful Nature  
+- Sticky Web  
+- Stealth Rock  
+- Encore  
+- Knock Off / Toxic / Infestation 
+
+Arbok @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Gunk Shot  
+- Earthquake  
+- Seed Bomb  
+- Switcheroo  
+
+Arbok @ Black Sludge  
+Ability: Shed Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Coil  
+- Gunk Shot  
+- Earthquake  
+- Seed Bomb  
+
+Bibarel @ Focus Sash  
+Ability: Simple  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stealth Rock  
+- Swords Dance / Taunt 
+- Quick Attack
+- Waterfall / Double Edge 
+
+Oranguru @ Leftovers  
+Ability: Inner Focus  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Quiet Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Trick Room / Shadow Ball 
+- Psychic  
+- Focus Blast  
+
+Hypno @ Leftovers  
+Ability: Insomnia  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Wish  
+- Protect  
+- Calm Mind  
+- Psychic  
+
+Hypno @ Leftovers  
+Ability: Insomnia  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psychic  
+- Signal Beam  
+- Taunt  
+
+Natu @ Eviolite  
+Ability: Magic Bounce  
+EVs: 248 HP / 252 Def / 8 Spe  
+Impish Nature  
+- Roost  
+- Night Shade  
+- Thunder Wave  
+- U-turn  
+
+Bastiodon @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Stealth Rock  
+- Rock Slide  
+- Metal Burst / Toxic  
+- Roar  
+
+Wormadam-Sandy (F) @ Leftovers  
+Ability: Overcoat  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Stealth Rock  
+- Toxic  
+- Protect  
+- Earthquake   
+
+Staryu @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Rapid Spin  
+- Scald  
+- Toxic  
+- Recover  
+
+Oricorio-Pa'u @ Leftovers  
+Ability: Dancer  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Revelation Dance  
+- Hurricane  
+- Substitute  
+- Roost  
+
+Slaking @ Choice Band  
+Ability: Truant  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Body Slam  
+- Earthquake  
+- Shadow Claw  
+- Giga Impact  
+
+Illumise (F) @ Leftovers 
+Ability: Prankster  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Roost  
+- Encore  
+- U-turn  
+- Seismic Toss  
+
+Seviper @ Choice Scarf  
+Ability: Infiltrator  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Bomb  
+- Flamethrower  
+- Giga Drain  
+- Switcheroo  
+
+Seviper @ Choice Scarf  
+Ability: Infiltrator  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Poison Jab  
+- Earthquake  
+- Throat Chop  
+- Switcheroo  
+
+Zweilous @ Eviolite  
+Ability: Hustle  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Crunch  
+- Roar  
+- Rest  
+- Sleep Talk     
+
+Politoed @ Leftovers  
+Ability: Water Absorb  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Scald  
+- Ice Beam  
+- Protect  
+- Encore   
+
+Leavanny @ Focus Sash  
+Ability: Overcoat  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Sticky Web  
+- Knock Off  
+- Leaf Blade  
+- X-Scissor
+
+Emolga @ Sitrus Berry  
+Ability: Motor Drive  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Acrobatics  
+- Knock Off  
+- Roost  
+- U-turn
+
+Dustox @ Black Sludge  
+Ability: Shield Dust  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Defog  
+- Roost  
+- Toxic  
+- U-turn  
+
+Gastly @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sludge Wave  
+- Shadow Ball  
+- Psychic  
+- Hidden Power [Fighting]  

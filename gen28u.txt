@@ -1,0 +1,226 @@
+Curse Hoot (Hoothoot) @ Leftovers  
+Ability: No Ability  
+- Curse  
+- Return  
+- Rest  
+- Sleep Talk / Night Shade  
+
+Support Hoot (Hoothoot)  
+Ability: No Ability  
+- Thief  
+- Rest  
+- Sleep Talk / Return  
+- Night Shade / Return  
+
+Nightmare Hoot (Hoothoot) @ Leftovers  
+Ability: No Ability  
+- Nightmare  
+- Night Shade  
+- Rest  
+- Hypnosis / Sleep Talk  
+
+Russian Roulette (Marill) @ Leftovers  
+Ability: No Ability  
+- Surf  
+- Rest  
+- Sleep Talk  
+- Perish Song  
+
+Attackrill (Marill) @ Leftovers  
+Ability: No Ability  
+- Surf  
+- Rest  
+- Sleep Talk  
+- Ice Beam / Return / Double-Edge  
+
+Perish Trapper (Marill) @ Leftovers  
+Ability: No Ability  
+- Whirlpool  
+- Perish Song  
+- Rest  
+- Protect / Surf  
+
+Rollrill (Marill) @ Leftovers  
+Ability: No Ability  
+- Defense Curl  
+- Rollout  
+- Rest  
+- Surf  
+
+Boltbeam Spammer (Nidoran-F) (F) @ Leftovers  
+Ability: No Ability  
+- Thunderbolt  
+- Blizzard  
+- Rest  
+- Sleep Talk  
+
+Thief Nidoran (Nidoran-F) (F)  
+Ability: No Ability  
+- Thief  
+- Thunderbolt  
+- Moonlight  / Charm / Sleep Talk  
+- Blizzard  / Rest  
+
+Charm Nidoran (Nidoran-F) (F) @ Leftovers  
+Ability: No Ability  
+- Charm  
+- Rest  
+- Sleep Talk  
+- Thunderbolt  
+
+Sleeper (Paras) @ Leftovers  
+Ability: No Ability  
+- Spore  
+- Synthesis  
+- Return  
+- Giga Drain  
+
+Curse Paras (Paras) @ Leftovers  
+Ability: No Ability  
+- Curse  
+- Return  
+- Synthesis  
+- Spore  
+
+Swords Dancer (Paras) @ Leftovers  
+Ability: No Ability  
+- Swords Dance  
+- Rest  
+- Return  
+- Sleep Talk  
+
+Revenge Killer (Pichu) @ Leftovers  
+Ability: No Ability  
+IVs: 6 HP / 28 Atk / 24 Def  
+- Thunderbolt  
+- Hidden Power [Fire]  
+- Protect  
+- Encore  / Petal Dance  
+
+Fast Support (Pichu) @ Leftovers  
+Ability: No Ability  
+IVs: 6 HP / 28 Atk / 28 Def  
+- Thunderbolt  
+- Encore  
+- Toxic  
+- Hidden Power [Grass]  
+
+Curse Bird (Pidgey) @ Leftovers  
+Ability: No Ability  
+- Curse  
+- Double-Edge  
+- Rest  
+- Sleep Talk  
+
+Attacking Lead (Pidgey) @ Miracle Berry  
+Ability: No Ability  
+- Double-Edge  
+- Thief  
+- Rest  
+- Sleep Talk  / Curse  
+
+All out Attacker (Pidgey)  
+Ability: No Ability  
+- Double-Edge  
+- Wing Attack  
+- Thief  
+- Substitute  / Protect / Toxic  
+
+Defensive Slug (Slugma) @ Leftovers  
+Ability: No Ability  
+- Flamethrower  
+- Acid Armor  
+- Rest  
+- Amnesia  / Sleep Talk  
+
+Offensive Slug (Slugma) @ Leftovers  
+Ability: No Ability  
+- Flamethrower  
+- Hidden Power [Electric]  / Hidden Power [Grass]  
+- Rest  
+- Sleep Talk  / Toxic / Acid Armor  
+
+King Swinub (Swinub) @ Leftovers  
+Ability: No Ability  
+- Earthquake  
+- Ice Beam  
+- Rest  
+- Sleep Talk  
+
+Bulky Curser (Togepi) @ Leftovers  
+Ability: No Ability  
+- Curse  
+- Return  
+- Rest  
+- Sleep Talk  / Present  
+
+Present Togepi (Togepi) @ Leftovers  
+Ability: No Ability  
+- Present  
+- Return  
+- Rest  
+- Sleep Talk  
+
+Special Croc (Totodile) @ Leftovers  
+Ability: No Ability  
+- Surf  
+- Ice Beam  
+- Rest  
+- Sleep Talk  
+
+Curse Croc (Totodile) @ Leftovers  
+Ability: No Ability  
+- Curse  
+- Return  
+- Rest  
+- Screech  / Sleep Talk / Surf / Rock Slide  
+
+3 Attacks (Totodile) @ Leftovers  
+Ability: No Ability  
+- Rest  
+- Surf  
+- Ice Beam  
+- Rock Slide  
+
+God of Hax (Totodile) @ Leftovers  
+Ability: No Ability  
+- Surf  
+- Ancient Power  
+- Rest  
+- Sleep Talk  
+
+Hazer (Wooper) @ Leftovers  
+Ability: No Ability  
+- Haze  
+- Surf  / Ice Beam  
+- Earthquake  
+- Sludge Bomb  / Rest  
+
+Thiefbat (Zubat) @ Miracle Berry  
+Ability: No Ability  
+- Thief  
+- Giga Drain  
+- Rest  
+- Wing Attack  
+
+Fast Hazer (Zubat) @ Leftovers  
+Ability: No Ability  
+- Haze  
+- Rest  
+- Wing Attack  / Giga Drain  
+- Confuse Ray  
+
+The Blob (Ditto) @ Metal Powder  
+Ability: No Ability  
+- Transform  
+
+Anti-overflow Blob (Ditto) @ Leftovers  
+Ability: No Ability  
+- Transform  
+
+Curse Nidoran (Nidoran-M) (M) @ Leftovers  
+Ability: No Ability  
+- Curse  
+- Return  
+- Morning Sun / Rest  
+- Double Kick  / Sleep Talk / Thief  

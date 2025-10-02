@@ -1,0 +1,346 @@
+Standard Rat (Rattata) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Double-Edge  
+- Substitute  
+- Thunder  
+- Screech  
+
+S-Fang Rat (Rattata)  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Double-Edge  
+- Substitute  
+- Super Fang  
+- Thief  
+
+Attacking Lead (Rattata) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Thunder  
+- Substitute  
+- Toxic  
+- Return  
+
+Defensive Blob (Chikorita) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Light Screen  
+- Synthesis  
+- Body Slam  
+- Razor Leaf  
+
+Setuprita (Chikorita) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Body Slam  
+- Curse  
+- Synthesis  
+- Razor Leaf  
+
+Standard Bird (Spearow) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Double-Edge  
+- Drill Peck  
+- Substitute  
+- Quick Attack  
+
+RestTalk (Spearow) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Rest  
+- Sleep Talk  
+- Drill Peck  
+- Double-Edge  
+
+Attacking Lead (Spearow) @ Pink Bow  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Toxic  
+- Double-Edge  
+- Drill Peck  
+- Quick Attack  
+
+Sleepy Duck (Psyduck) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Surf  
+- Ice Beam  
+- Psychic  
+- Hypnosis  
+
+SubDuck (Psyduck) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+IVs: 14 HP / 28 Atk  
+- Substitute  
+- Ice Beam  
+- Surf  
+- Hidden Power [Electric]  
+
+Sweeper (Goldeen) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Swords Dance  
+- Double-Edge  
+- Substitute  
+- Agility  
+
+CurseTalk (Goldeen) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Rest  
+- Sleep Talk  
+- Curse  
+- Double-Edge  
+
+KABOOM (Shellder) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Explosion  
+- Substitute  
+- Surf  
+- Toxic  
+
+RestTalk (Squirtle) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Rest  
+- Sleep Talk  
+- Ice Beam  
+- Surf  
+
+Disruptor (Squirtle) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Haze  
+- Hydro Pump  
+- Ice Beam  
+- Rest  
+
+Lead (Squirtle) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Counter  
+- Surf  
+- Substitute  
+- Seismic Toss  
+
+RestTalk (Cyndaquil) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+IVs: 14 HP / 28 Atk  
+- Fire Blast  
+- Rest  
+- Sleep Talk  
+- Hidden Power [Electric]  
+
+Minty Fresh (Cyndaquil) @ Mint Berry  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Fire Blast  
+- Double-Edge  
+- Rest  
+- Toxic  
+
+Sunny Day (Cyndaquil) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+IVs: 14 HP / 28 Atk  
+- Rest  
+- Sunny Day  
+- Flamethrower  
+- Hidden Power [Electric]  
+
+CursePass (Venonat) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Sleep Powder  
+- Curse  
+- Sludge Bomb  
+- Baton Pass  
+
+Sleep Lead (Bulbasaur) @ Miracle Seed  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+IVs: 6 HP / 28 Atk / 28 Def  
+- Sleep Powder  
+- Hidden Power [Grass]  
+- Reflect  
+- Synthesis  
+
+BulbGrowth (Bulbasaur) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Growth  
+- Sleep Powder  
+- Synthesis  
+- Razor Leaf  
+
+Status Spam (Vulpix) @ Leftovers  
+Ability: No Ability  
+- Fire Blast  
+- Hypnosis  
+- Substitute  
+- Confuse Ray  
+
+Anti-Cynda (Vulpix) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+IVs: 14 HP / 28 Atk / 26 Def  
+- Fire Blast  
+- Hidden Power [Water]  
+- Rest  
+- Sleep Talk  
+
+4 Attacks (Remoraid) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+IVs: 14 HP / 28 Atk  
+- Surf  
+- Flamethrower  
+- Hidden Power [Electric]  
+- Ice Beam  
+
+Fast Support (Remoraid)  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Thief  
+- Ice Beam  
+- Haze  
+- Surf  
+
+AgiliPass (Spinarak) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Agility  
+- Baton Pass  
+- Sludge Bomb  
+- Curse  
+
+Gifter (Togepi) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Rest  
+- Sleep Talk  
+- Fire Blast  
+- Present  
+
+SwordSub (Bellsprout) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Swords Dance  
+- Substitute  
+- Sludge Bomb  
+- Sleep Powder  
+
+SynthSprout (Bellsprout) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Synthesis  
+- Swords Dance  
+- Stun Spore  
+- Sludge Bomb  
+
+The Blob (Marill) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Toxic  
+- Light Screen  
+- Surf  
+- Rest  
+
+CurseRan (Nidoran-F) (F) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Moonlight  
+- Curse  
+- Return  
+- Thunder  
+
+Bulky BoltBeam (Nidoran-F) (F) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Thunderbolt  
+- Blizzard  
+- Moonlight  
+- Protect  
+
+Bpass Recipient (Wooper) @ Gold Berry  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Belly Drum  
+- Earthquake  
+- Sludge Bomb  
+- Rest  
+
+BoltBeam (Nidoran-M) (M) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Blizzard  
+- Thunderbolt  
+- Lovely Kiss  
+- Substitute  
+
+Suicide Lead (Pichu) @ Miracle Berry  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Thunder  
+- Thunder Wave  
+- Encore  
+- Rain Dance  
+
+Bpass Recipient (Slugma) @ Mint Berry  
+Ability: No Ability  
+Happiness: 0  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Fire Blast  
+- Acid Armor  
+- Rest  
+- Frustration  
+
+Anti-Rat Lead (Slugma) @ Leftovers  
+Ability: No Ability  
+EVs: 252 HP / 252 Atk / 252 Def / 252 SpA / 252 SpD / 252 Spe  
+Serious Nature  
+- Fire Blast  
+- Acid Armor  
+- Rest  
+- Toxic  

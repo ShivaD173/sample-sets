@@ -1,0 +1,697 @@
+Special Salac Lead (Beautifly) @ Salac Berry  
+Ability: Swarm  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 Def  
+- Endure  
+- Psychic  
+- Giga Drain  
+- Hidden Power [Ice]
+
+Physical Salac Lead (Beautifly) @ Salac Berry  
+Ability: Swarm  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Silver Wind  
+- Aerial Ace  
+- Hidden Power [Ground]  
+- Endure
+
+Phys Def (Beautifly) @ Leftovers  
+Ability: Swarm  
+EVs: 160 HP / 224 Def / 124 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Substitute  
+- Stun Spore  
+- Psychic  
+- Morning Sun
+
+Spikes Lead (Cacnea) @ Salac Berry  
+Ability: Sand Veil  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Endure  
+- Giga Drain  
+- Spikes  
+- Destiny Bond
+
+Salac Lead (Carvanha) @ Salac Berry  
+Ability: Rough Skin  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Endure  
+- Surf  
+- Crunch  
+- Ice Beam
+
+Physical Walls (Chikorita) @ Leftovers  
+Ability: Overgrow  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Reflect  
+- Light Screen  
+- Leech Seed  
+- Giga Drain
+
+Counter Dual Screens (Chikorita) @ Leftovers  
+Ability: Overgrow  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Reflect  
+- Light Screen  
+- Synthesis  
+- Counter
+
+Mixed DDance (Dratini) @ Leftovers  
+Ability: Shed Skin  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Lonely Nature  
+- Dragon Dance  
+- Rest  
+- Double-Edge  
+- Surf
+
+BoltBeam (Dratini) @ Salac Berry  
+Ability: Shed Skin  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Ice Beam  
+- Flamethrower / Thunder Wave 
+- Endure
+
+
+SubDude (Geodude) @ Leftovers  
+Ability: Rock Head  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Substitute  
+- Earthquake  
+- Rock Slide / Double Edge 
+- Explosion / Focus Punch
+
+Salac (Geodude) @ Salac Berry  
+Ability: Rock Head  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Endure  
+- Earthquake  
+- Rock Slide / Double Edge  
+- Explosion
+
+Support Screens (Jigglypuff) @ Leftovers  
+Ability: Cute Charm  
+EVs: 4 HP / 252 Def / 252 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Reflect  
+- Light Screen  
+- Wish  
+- Seismic Toss / Protect
+
+Calm Mind Sweeper (Kirlia) @ Leftovers  
+Ability: Trace  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psychic  
+- Thunderbolt / Fire Punch / Light Screen 
+- Reflect / Hypnosis / Ice Punch
+
+Screens Memento (Kirlia) @ Lum Berry  
+Ability: Trace  
+EVs: 252 Def / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Light Screen  
+- Reflect  
+- Memento  
+- Hypnosis
+
+Salac (Kirlia) @ Salac Berry  
+Ability: Trace  
+EVs: 252 Def / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Ice Punch / Fire Punch 
+- Psychic  
+- Endure
+
+Sub Taunt (Kirlia) @ Leftovers  
+Ability: Trace  
+EVs: 172 HP / 252 SpA / 84 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Substitute  
+- Psychic  
+- Thunderbolt / Ice Punch 
+- Taunt
+
+Mixed Flail (Krabby) @ Salac Berry  
+Ability: Hyper Cutter  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Surf  
+- Endure / Substitute 
+- Flail
+
+Fast Utility (Krabby) @ Leftovers  
+Ability: Shell Armor  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Body Slam  
+- Knock Off  
+- Toxic / Swords Dance / Protect
+
+ Choice Band Anti-Lead (Loudred) @ Choice Band  
+Ability: Soundproof  
+EVs: 252 Atk / 252 Def / 4 Spe  
+Adamant Nature  
+- Double Edge / Return  
+- Earthquake  
+- Rock Slide / Facade  
+- Sleep Talk
+
+
+
+Salac Physical (Loudred) @ Salac Berry  
+Ability: Soundproof  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Endure / Substitute 
+- Earthquake  
+- Return  
+- Brick Break / Facade
+
+Salac Special (Loudred) @ Salac Berry  
+Ability: Soundproof  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Fire Blast / Flamethrower  
+- Ice Beam  
+- Thunder Punch / Extrasensory 
+- Endure
+
+Offensive (Nidorina) @ Leftovers  
+Ability: Poison Point  
+EVs: 252 HP / 196 Atk / 60 Def  
+Adamant Nature  
+- Sludge Bomb  
+- Hidden Power [Ground] / Ice Beam / Counter 
+- Rest  
+- Sleep Talk
+
+BoltBeam (Nidorina) (F) @ Leftovers  
+Ability: Poison Point  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunderbolt  
+- Rest  
+- Sleep Talk
+
+Choice Band (Nidorina) (F) @ Choice Band  
+Ability: Poison Point  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Sludge Bomb  
+- Iron Tail  
+- Hidden Power [Ground]  
+- Rest
+
+
+Calm Mind Sweeper (Psyduck) @ Leftovers  
+Ability: Damp  
+EVs: 252 HP / 252 Def / 4 SpA  
+Serious Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Surf  
+- Rest  
+- Sleep Talk
+
+Choice Band (Rattata) @ Choice Band  
+Ability: Guts  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Return  
+- Facade  
+- Quick Attack  
+- Sleep Talk
+
+Silk Scarf (Rattata) @ Silk Scarf  
+Ability: Guts  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Return 
+- Facade  
+- Quick Attack
+
+Sub Reversal (Rattata) @ Liechi Berry  
+Ability: Guts  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Quick Attack  
+- Reversal  
+- Return
+
+Salac (Remoraid) @ Salac Berry  
+Ability: Hustle  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 3 Atk / 30 SpA  
+- Surf  
+- Ice Beam  
+- Hidden Power [Electric]  
+- Endure
+
+
+SubPunch (Sandshrew) @ Leftovers  
+Ability: Sand Veil  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Substitute  
+- Focus Punch  
+- Earthquake  
+- Rock Slide / Swords Dance
+
+Salac (Sandshrew) @ Salac Berry  
+Ability: Sand Veil  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Endure  
+- Earthquake  
+- Rock Slide  
+- Brick Break / Focus Punch / Swords Dance
+
+Mixed Explosion (Shellder) @ Salac Berry  
+Ability: Shell Armor  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Naive Nature  
+- Endure  
+- Explosion  
+- Ice Beam  
+- Surf
+
+SubSeed (Shroomish) @ Leftovers  
+Ability: Effect Spore  
+EVs: 248 HP / 252 Def / 8 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Substitute 
+- Leech Seed  
+- Spore / Toxic 
+- Giga Drain / Hidden Power [Grass]
+
+Double Powder Offensive (Shroomish) @ Leftovers  
+Ability: Effect Spore  
+EVs: 248 HP / 64 Atk / 196 Def  
+Impish Nature  
+- Spore  
+- Stun Spore  
+- Swords Dance  
+- Sludge Bomb / Hidden Power [Ground]
+
+Offensive Powder (Skiploom) @ Leftovers  
+Ability: Chlorophyll  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Sleep Powder  
+- Synthesis  
+- Aerial Ace  
+- Swords Dance
+
+Mixed Offensive (Skiploom) @ Leftovers  
+Ability: Chlorophyll  
+EVs: 252 Atk / 60 SpA / 196 Spe  
+Hasty Nature  
+- Hidden Power [Flying] / Aerial Ace 
+- Giga Drain / Hidden Power [Grass] 
+- Sleep Powder  
+- Substitute / Synthesis
+
+Choice Band (Spearow) @ Choice Band  
+Ability: Keen Eye  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Double-Edge  
+- Quick Attack 
+- Drill Peck
+- Hidden Power [Steel] / Sleep Talk
+
+Sub Offensive (Spearow) @ Leftovers  
+Ability: Keen Eye  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Return  
+- Drill Peck / Steel Wing 
+- Quick Attack / Steel Wing
+
+Specially Defensive (Spheal) @ Leftovers  
+Ability: Thick Fat  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Toxic / Surf 
+- Rest  
+- Sleep Talk
+
+
+Physical Defensive (Spheal) @ Leftovers  
+Ability: Thick Fat  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+- Ice Beam / Surf 
+- Toxic  
+- Rest  
+- Sleep Talk
+
+Trick Band (Spinda) @ Choice Band  
+Ability: Own Tempo  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Trick  
+- Brick Break  
+- Return / Double Edge 
+- Focus Punch / Hidden Power [Flying] / Facade / Sleep Talk
+
+Support (Spinda) @ Leftovers  
+Ability: Own Tempo  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Substitute / Protect / Encore  
+- Wish / Protect  
+- Toxic / Hypnosis  
+- Seismic Toss / Counter / Psychic
+
+CM Sweeper (Spinda) @ Leftovers  
+Ability: Own Tempo  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psychic  
+- Ice Punch / Sleep Talk  
+- Rest / Thunder Punch / Substitute
+
+SubPunch (Spinda) @ Leftovers  
+Ability: Own Tempo  
+EVs: 252 HP / 252 Atk / 4 Def  
+Adamant Nature  
+- Substitute  
+- Focus Punch  
+- Return / Double Edge  
+- Rock Slide / Encore
+
+
+Salac Flail (Spinda) @ Salac Berry  
+Ability: Own Tempo  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Substitute / Endure 
+- Flail  
+- Return / Body Slam 
+- Brick Break / Focus Punch / Snatch
+
+Rain Sweeper (Surskit) @ Lum Berry  
+Ability: Swift Swim  
+EVs: 44 Def / 252 SpA / 212 Spe  
+Modest Nature  
+IVs: 3 Atk / 30 SpA  
+- Rain Dance  
+- Hydro Pump 
+- Ice Beam  
+- Hidden Power [Electric] / Giga Drain
+
+Agility Sweeper (Surskit) @ Lum Berry  
+Ability: Swift Swim  
+EVs: 252 Def / 252 SpA / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Agility  
+- Giga Drain  
+- Surf  
+- Ice Beam
+
+Special Defensive (Swablu) @ Leftovers  
+Ability: Natural Cure  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Toxic  
+- Sing / Protect / Growl
+- Body Slam / Aerial Ace 
+- Rest
+
+Salac Berry (Teddiursa) @ Salac Berry  
+Ability: Pickup  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Endure  
+- Earthquake  
+- Return  
+- Brick Break
+
+SubPunch (Teddiursa) @ Leftovers  
+Ability: Pickup  
+EVs: 248 HP / 252 Atk / 8 Def  
+Serious Nature  
+- Substitute  
+- Focus Punch  
+- Return / Double Edge  
+- Earthquake / Swords Dance
+
+Salac Lead (Treecko) @ Salac Berry  
+Ability: Overgrow  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Endure  
+- Quick Attack  
+- Giga Drain / Hidden Power [Grass]  
+- Crunch / Pursuit / Hidden Power [Ice]
+
+General Salac (Treecko) @ Salac Berry  
+Ability: Overgrow  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Endure  
+- Pursuit / Crunch / Hidden Power [Water] 
+- Giga Drain / Hidden Power [Grass]  
+- Thunder Punch
+
+Physically Defensive (Venonat) @ Leftovers  
+Ability: Compound Eyes  
+EVs: 160 HP / 96 Def / 252 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Protect / Sleep Powder 
+- Stun Spore / Sleep Powder 
+- Psychic  
+- Giga Drain
+
+Double Status Lead (Vulpix) @ Leftovers  
+Ability: Flash Fire  
+EVs: 160 HP / 96 SpA / 252 Spe  
+Timid Nature  
+- Will-O-Wisp  
+- Hypnosis  
+- Overheat / Fire Blast 
+- Quick Attack / Hidden Power [Water]
+
+Petaya Berry (Wingull) @ Petaya Berry  
+Ability: Keen Eye  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Endure 
+- Hidden Power [Water]  
+- Ice Beam  
+- Shock Wave / Pursuit / Quick Attack
+
+Belly Drum Sweeper (Zigzagoon) @ Salac Berry  
+Ability: Pickup  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Belly Drum  
+- Extreme Speed  
+- Hidden Power [Ground] / Return 
+
+Choice Band (Zigzagoon) @ Choice Band  
+Ability: Pickup  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Extreme Speed  
+- Double-Edge  
+- Sleep Talk
+
+Salac Mixed (Barboach) @ Salac Berry  
+Ability: Oblivious  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Naive Nature  
+- Endure  
+- Earthquake  
+- Hidden Power [Flying]  
+- Surf
+
+Normal Resist (Beldum) @ Choice Band  
+Ability: Clear Body  
+EVs: 248 HP / 252 Atk / 8 Def  
+Adamant Nature  
+- Take Down
+
+Shiver Me Timbers (Ditto) @ Metal Powder  
+Ability: Limber  
+EVs: 252 HP / 172 Def / 84 Spe  
+Impish Nature  
+IVs: 30 SpA / 30 SpD  
+- Transform
+
+Curse Sweeper (Eevee) @ Leftovers  
+Ability: Run Away  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Curse  
+- Return  
+- Rest  
+- Sleep Talk
+
+Flail + Priority (Eevee) @ Salac Berry  
+Ability: Run Away  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Flail  
+- Quick Attack  
+- Hidden Power [Ground]
+
+
+Mixed Flail (Goldeen) @ Salac Berry  
+Ability: Swift Swim  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Flail  
+- Endure  
+- Surf  
+- Substitute
+
+Double Screens DryPass (Ledyba) @ Leftovers  
+Ability: Early Bird  
+EVs: 252 HP / 36 SpA / 220 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Baton Pass  
+- Ice Punch  
+- Light Screen  
+- Reflect
+
+Sun Sweeper (Oddish) @ Lum Berry  
+Ability: Chlorophyll  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA / 30 Spe  
+- Sunny Day  
+- Solar Beam  
+- Hidden Power [Fire]  
+- Synthesis
+
+Offensive Cleric (Paras) @ Leftovers  
+Ability: Effect Spore  
+EVs: 252 HP / 252 Atk / 4 Def  
+Serious Nature  
+- Aromatherapy  
+- Spore  
+- Aerial Ace  
+- Hidden Power [Bug]
+
+Sub Power (Phanpy) @ Leftovers  
+Ability: Pickup  
+EVs: 252 Atk / 252 Def  
+Adamant Nature  
+- Ancient Power  
+- Earthquake  
+- Substitute  
+- Hidden Power [Flying] / Hidden Power [Bug]
+
+Offensive (Pichu) @ Lum Berry  
+Ability: Static  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt / Volt Tackle / 
+- Surf  
+- Hidden Power [Grass]  
+- Thunder Wave / Rain Dance
+
+“Bulky” Support (Skitty) @ Leftovers  
+Ability: Cute Charm  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Heal Bell  
+- Thunder Wave / Toxic 
+- Protect / Baton Pass 
+- Wish
+
+Slugma Balls (Slugma) @ Silk Scarf  
+Ability: Flame Body  
+EVs: 252 Atk / 252 Def / 4 SpD  
+Brave Nature  
+- Overheat / Fire Blast 
+- Self-Destruct  
+- Substitute  
+- Toxic / Yawn
+
+RestTalk (Swinub) @ Leftovers  
+Ability: Oblivious  
+EVs: 80 HP / 252 Atk / 116 Def / 60 Spe  
+Adamant Nature  
+- Earthquake  
+- Rock Slide  
+- Rest  
+- Sleep Talk
+
+SubNub (Swinub) @ Leftovers  
+Ability: Oblivious  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Hidden Power [Flying]  
+- Earthquake  
+- Rock Slide  
+- Substitute
+
+
+Dual Screens (Togepi) @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 252 Def / 4 SpD  
+Impish Nature  
+- Light Screen  
+- Reflect  
+- Body Slam / Seismic Toss / Thunder Wave  
+- Soft-Boiled
+
+Special AP (Togepi) @ Leftovers  
+Ability: Serene Grace  
+EVs: 252 HP / 4 Def / 252 SpA  
+Modest Nature  
+- Ancient Power  
+- Psychic  
+- Flamethrower  
+- Soft-Boiled

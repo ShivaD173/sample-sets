@@ -1,0 +1,6880 @@
+OU Usage (Mr. Mime-Galar) @ Eviolite
+Ability: Screen Cleaner
+Level: 100
+Tera Type: Ice
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Freeze-Dry
+- Rapid Spin
+- Future Sight
+- Fake Out
+
+OU Usage (Iron Valiant) @ Booster Energy
+Ability: Quark Drive
+Level: 100
+Tera Type: Fairy
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Moonblast
+- Thunderbolt
+- Close Combat
+- Calm Mind
+
+OU Usage (Swellow) @ Choice Specs
+Ability: Scrappy
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Boomburst
+- Heat Wave
+- U-turn
+- Hurricane
+
+OU Usage (Eevee) @ Eevium Z
+Ability: Adaptability
+Level: 100
+EVs: 188 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 68 Spe
+Mild Nature
+- Last Resort
+- Stored Power
+- Hyper Voice
+- Yawn
+
+OU Usage (Vanilluxe) @ Light Clay
+Ability: Snow Warning
+Level: 100
+Tera Type: Dragon
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Freeze-Dry
+- Blizzard
+- Aurora Veil
+- Flash Cannon
+
+OU Usage (Poliwrath) @ Salac Berry
+Ability: Swift Swim
+Level: 100
+Tera Type: Water
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Drain Punch
+- Belly Drum
+- Liquidation
+- Waterfall
+
+OU Usage (Emolga) @ Focus Sash
+Ability: Motor Drive
+Level: 100
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+- Air Slash
+- Roost
+- Thunderbolt
+- Nuzzle
+
+OU Usage (Butterfree) @ Heavy-Duty Boots
+Ability: Compound Eyes
+Level: 100
+Tera Type: Flying
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Quiver Dance
+- Sleep Powder
+- Hurricane
+- Bug Buzz
+
+OU Usage (Gliscor) @ Toxic Orb
+Ability: Poison Heal
+Level: 100
+Tera Type: Water
+EVs: 244 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 12 Spe
+Careful Nature
+- Earthquake
+- Toxic
+- Roost
+- Defog
+
+OU Usage (Wobbuffet) @ Leftovers
+Ability: Telepathy
+Level: 100
+Tera Type: Fairy
+EVs: 248 HP / 0 Atk / 96 Def / 0 SpA / 164 SpD / 0 Spe
+Impish Nature
+- Counter
+- Mirror Coat
+- Destiny Bond
+- Encore
+
+OU Usage (Cresselia) @ Mental Herb
+Ability: Levitate
+Level: 100
+Tera Type: Poison
+EVs: 248 HP / 0 Atk / 252 Def / 0 SpA / 8 SpD / 0 Spe
+Bold Nature
+- Lunar Dance
+- Trick Room
+- Moonlight
+- Ice Beam
+
+OU Usage (Tangela) @ Eviolite
+Ability: Regenerator
+Level: 100
+Tera Type: Poison
+EVs: 252 HP / 0 Atk / 252 Def / 4 SpA / 0 SpD / 0 Spe
+Bold Nature
+- Leech Seed
+- Giga Drain
+- Toxic
+- Knock Off
+
+OU Usage (Oricorio) @ Heavy-Duty Boots
+Ability: Dancer
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Revelation Dance
+- Quiver Dance
+- Roost
+- Air Slash
+
+OU Usage (Frogadier) @ Choice Specs
+Ability: Protean
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Ice Beam
+- Hydro Pump
+- Grass Knot
+- Spikes
+
+OU Usage (Absol) @ Scope Lens
+Ability: Super Luck
+Level: 100
+Tera Type: Dark
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Night Slash
+- Sucker Punch
+- Psycho Cut
+- Swords Dance
+
+OU Usage (Aggron-Mega) @ Aggronite
+Ability: Filter
+Level: 100
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Body Press
+- Heavy Slam
+- Stealth Rock
+- Iron Defense
+
+OU Usage (Toedscruel) @ Leftovers
+Ability: Mycelium Might
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Rapid Spin
+- Earth Power
+- Spore
+- Giga Drain
+
+OU Usage (Sceptile) @ Grassy Seed
+Ability: Unburden
+Level: 100
+Tera Type: Flying
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Leaf Blade
+- Swords Dance
+- Earthquake
+- Acrobatics
+
+OU Usage (Linoone) @ Figy Berry
+Ability: Gluttony
+Level: 100
+Tera Type: Normal
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Extreme Speed
+- Belly Drum
+- Stomping Tantrum
+- Throat Chop
+
+OU Usage (Raging Bolt) @ Assault Vest
+Ability: Protosynthesis
+Level: 100
+Tera Type: Electric
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Thunderclap
+- Draco Meteor
+- Thunderbolt
+- Volt Switch
+
+OU Usage (Landorus-Therian) @ Rocky Helmet
+Ability: Intimidate
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- U-turn
+- Stealth Rock
+- Defog
+
+OU Usage (Lapras) @ Leftovers
+Ability: Water Absorb
+Level: 100
+Tera Type: Ground
+EVs: 252 HP / 4 Atk / 0 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+- Freeze-Dry
+- Ice Shard
+- Surf
+- Sparkling Aria
+
+OU Usage (Krookodile) @ Choice Scarf
+Ability: Moxie
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Knock Off
+- Stealth Rock
+- Close Combat
+
+OU Usage (Venusaur-Mega) @ Venusaurite
+Ability: Thick Fat
+Level: 100
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Sludge Bomb
+- Giga Drain
+- Synthesis
+- Earth Power
+
+OU Usage (Tyranitar-Mega) @ Tyranitarite
+Ability: Sand Stream
+Level: 100
+EVs: 132 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 124 Spe
+Adamant Nature
+- Knock Off
+- Stone Edge
+- Pursuit
+- Stealth Rock
+
+OU Usage (Eiscue) @ Rocky Helmet
+Ability: Ice Face
+Level: 100
+Tera Type: Ice
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Hail
+- Snowscape
+- Whirlpool
+- Freeze-Dry
+
+OU Usage (Frosmoth) @ Heavy-Duty Boots
+Ability: Ice Scales
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Ice Beam
+- Quiver Dance
+- Giga Drain
+- Bug Buzz
+
+OU Usage (Dugtrio) @ Focus Sash
+Ability: Sand Force
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Stone Edge
+- Memento
+- Sucker Punch
+
+OU Usage (Sharpedo) @ Focus Sash
+Ability: Speed Boost
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Crunch
+- Destiny Bond
+- Liquidation
+- Close Combat
+
+OU Usage (Enamorus-Therian) @ Leftovers
+Ability: Overcoat
+Level: 100
+Tera Type: Steel
+EVs: 248 HP / 0 Atk / 0 Def / 252 SpA / 8 SpD / 0 Spe
+Quiet Nature
+- Earth Power
+- Mystical Fire
+- Moonblast
+- Draining Kiss
+
+OU Usage (Dipplin) @ Eviolite
+Ability: Sticky Hold
+Level: 100
+Tera Type: Poison
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Brave Nature
+- Recover
+- Giga Drain
+- Draco Meteor
+- Dragon Pulse
+
+OU Usage (Lurantis) @ Assault Vest
+Ability: Contrary
+Level: 100
+Tera Type: Fighting
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Superpower
+- Leech Life
+- Leaf Storm
+- Leaf Blade
+
+OU Usage (Aggron) @ Custap Berry
+Ability: Sturdy
+Level: 100
+Tera Type: Ghost
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Head Smash
+- Metal Burst
+- Earthquake
+- Stealth Rock
+
+OU Usage (Veluza) @ Sitrus Berry
+Ability: Mold Breaker
+Level: 100
+Tera Type: Water
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Fillet Away
+- Aqua Cutter
+- Psycho Cut
+- Stored Power
+
+OU Usage (Slowbro) @ Rocky Helmet
+Ability: Regenerator
+Level: 100
+Tera Type: Fairy
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Relaxed Nature
+- Teleport
+- Scald
+- Slack Off
+- Future Sight
+
+OU Usage (Celebi) @ Leftovers
+Ability: Natural Cure
+Level: 100
+Tera Type: Grass
+EVs: 240 HP / 0 Atk / 196 Def / 0 SpA / 0 SpD / 72 Spe
+Bold Nature
+- Psychic
+- Giga Drain
+- Recover
+- Earth Power
+
+OU Usage (Ampharos) @ Chesto Berry
+Ability: Static
+Level: 100
+Tera Type: Flying
+EVs: 252 HP / 0 Atk / 252 Def / 4 SpA / 0 SpD / 0 Spe
+Bold Nature
+- Discharge
+- Thunderbolt
+- Cotton Guard
+- Rest
+
+OU Usage (Omastar) @ Focus Sash
+Ability: Weak Armor
+Level: 100
+Tera Type: Rock
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Shell Smash
+- Ice Beam
+- Surf
+- Earth Power
+
+OU Usage (Walrein) @ Leftovers
+Ability: Thick Fat
+Level: 100
+Tera Type: Grass
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 4 Spe
+Calm Nature
+- Ice Beam
+- Hydro Pump
+- Toxic
+- Roar
+
+OU Usage (Basculin) @ Choice Band
+Ability: Adaptability
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Wave Crash
+- Aqua Jet
+- Flip Turn
+- Head Smash
+
+OU Usage (Heliolisk) @ Choice Scarf
+Ability: Dry Skin
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Hyper Voice
+- Volt Switch
+- Thunderbolt
+- Grass Knot
+
+OU Usage (Beedrill-Mega) @ Beedrillite
+Ability: Adaptability
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Poison Jab
+- U-turn
+- Drill Run
+- Knock Off
+
+OU Usage (Durant) @ Eject Button
+Ability: Hustle
+Level: 100
+Tera Type: Bug
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Iron Head
+- First Impression
+- Hone Claws
+- Superpower
+
+OU Usage (Tapu Bulu) @ Leftovers
+Ability: Grassy Surge
+Level: 100
+Tera Type: Water
+EVs: 32 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 220 Spe
+Adamant Nature
+- Horn Leech
+- Close Combat
+- Stone Edge
+- Swords Dance
+
+OU Usage (Meowscarada) @ Choice Band
+Ability: Protean
+Level: 100
+Tera Type: Grass
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Flower Trick
+- Knock Off
+- U-turn
+- Triple Axel
+
+OU Usage (Araquanid) @ Leftovers
+Ability: Water Bubble
+Level: 100
+Tera Type: Water
+EVs: 248 HP / 8 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Careful Nature
+- Liquidation
+- Sticky Web
+- Leech Life
+- Toxic
+
+OU Usage (Regirock) @ Leftovers
+Ability: Clear Body
+Level: 100
+Tera Type: Fighting
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Impish Nature
+- Body Press
+- Iron Defense
+- Stealth Rock
+- Toxic
+
+OU Usage (Piloswine) @ Eviolite
+Ability: Thick Fat
+Level: 100
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Earthquake
+- Stealth Rock
+- Ice Shard
+- Toxic
+
+OU Usage (Dachsbun) @ Leftovers
+Ability: Well-Baked Body
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 4 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Impish Nature
+- Body Press
+- Wish
+- Play Rough
+- Yawn
+
+OU Usage (Fezandipiti) @ Leftovers
+Ability: Toxic Chain
+Level: 100
+Tera Type: Poison
+EVs: 252 HP / 0 Atk / 0 Def / 4 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Roost
+- U-turn
+- Play Rough
+- Moonblast
+
+OU Usage (Crawdaunt) @ Life Orb
+Ability: Adaptability
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Brave Nature
+- Aqua Jet
+- Knock Off
+- Crabhammer
+- Close Combat
+
+OU Usage (Cinderace) @ Heavy-Duty Boots
+Ability: Libero
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Pyro Ball
+- U-turn
+- Court Change
+- High Jump Kick
+
+OU Usage (Swanna) @ Heavy-Duty Boots
+Ability: Hydration
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Defog
+- Hurricane
+- Roost
+- Rain Dance
+
+OU Usage (Noivern) @ Choice Specs
+Ability: Infiltrator
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Boomburst
+- Draco Meteor
+- Flamethrower
+- Hurricane
+
+OU Usage (Celesteela) @ Leftovers
+Ability: Beast Boost
+Level: 100
+Tera Type: Dragon
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Flamethrower
+- Air Slash
+- Leech Seed
+- Autotomize
+
+OU Usage (Skuntank) @ Rocky Helmet
+Ability: Aftermath
+Level: 100
+Tera Type: Flying
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Sucker Punch
+- Toxic
+- Explosion
+- Endure
+
+OU Usage (Bibarel) @ Life Orb
+Ability: Simple
+Level: 100
+Tera Type: Normal
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Aqua Jet
+- Swords Dance
+- Quick Attack
+- Return
+
+OU Usage (Vespiquen) @ Heavy-Duty Boots
+Ability: Pressure
+Level: 100
+Tera Type: Dragon
+EVs: 252 HP / 4 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Relaxed Nature
+- Toxic
+- Defog
+- U-turn
+- Heal Order
+
+OU Usage (Guzzlord) @ Leftovers
+Ability: Beast Boost
+Level: 100
+Tera Type: Fire
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 4 Spe
+Careful Nature
+- Knock Off
+- Earthquake
+- Draco Meteor
+- Heat Crash
+
+OU Usage (Garchomp-Mega) @ Garchompite
+Ability: Sand Force
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Scale Shot
+- Swords Dance
+- Fire Blast
+
+OU Usage (Exploud) @ Choice Specs
+Ability: Scrappy
+Level: 100
+Tera Type: Normal
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Boomburst
+- Surf
+- Fire Blast
+- Blizzard
+
+OU Usage (Whirlipede) @ Eviolite
+Ability: Speed Boost
+Level: 100
+EVs: 252 HP / 0 Atk / 72 Def / 0 SpA / 184 SpD / 0 Spe
+Bold Nature
+- Endeavor
+- Spikes
+- Toxic
+- Toxic Spikes
+
+OU Usage (Charizard-Mega-X) @ Charizardite X
+Ability: Tough Claws
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Dragon Dance
+- Flare Blitz
+- Dragon Claw
+- Earthquake
+
+OU Usage (Charizard-Mega-Y) @ Charizardite Y
+Ability: Drought
+Level: 100
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Solar Beam
+- Scorching Sands
+- Weather Ball
+- Roost
+
+OU Usage (Urshifu-Rapid-Strike) @ Choice Scarf
+Ability: Unseen Fist
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Surging Strikes
+- Close Combat
+- U-turn
+- Aqua Jet
+
+OU Usage (Sneasel-Hisui) @ Eviolite
+Ability: Inner Focus
+Level: 100
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Poison Jab
+- Swords Dance
+- Quick Attack
+
+OU Usage (Seismitoad) @ Leftovers
+Ability: Water Absorb
+Level: 100
+Tera Type: Poison
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Stealth Rock
+- Earthquake
+- Earth Power
+- Toxic
+
+OU Usage (Tornadus) @ Heavy-Duty Boots
+Ability: Prankster
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Tailwind
+- Bleakwind Storm
+- Rain Dance
+- Defog
+
+OU Usage (Lanturn) @ Assault Vest
+Ability: Volt Absorb
+Level: 100
+Tera Type: Flying
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 252 SpD / 0 Spe
+Modest Nature
+- Volt Switch
+- Scald
+- Ice Beam
+- Thunder
+
+OU Usage (Bewear) @ Assault Vest
+Ability: Fluffy
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Drain Punch
+- Darkest Lariat
+- Bulk Up
+- Earthquake
+
+OU Usage (Scizor-Mega) @ Scizorite
+Ability: Technician
+Level: 100
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Bullet Punch
+- Roost
+- Swords Dance
+- U-turn
+
+OU Usage (Ogerpon-Wellspring) @ Wellspring Mask
+Ability: Water Absorb
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Ivy Cudgel
+- Swords Dance
+- Horn Leech
+- Encore
+
+OU Usage (Dudunsparce) @ Focus Sash
+Ability: Rattled
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Glare
+- Stealth Rock
+- Magic Coat
+- Roost
+
+OU Usage (Empoleon) @ Leftovers
+Ability: Competitive
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 176 Def / 0 SpA / 80 SpD / 0 Spe
+Sassy Nature
+- Roost
+- Scald
+- Stealth Rock
+- Ice Beam
+
+OU Usage (Alakazam) @ Focus Sash
+Ability: Magic Guard
+Level: 100
+Tera Type: Psychic
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Focus Blast
+- Psychic
+- Nasty Plot
+
+OU Usage (Dragalge) @ Leftovers
+Ability: Adaptability
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Draco Meteor
+- Sludge Wave
+- Flip Turn
+- Sludge Bomb
+
+OU Usage (Cherrim) @ Life Orb
+Ability: Flower Gift
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Solar Blade
+- Weather Ball
+- Sunny Day
+- Play Rough
+
+OU Usage (Iron Thorns) @ Loaded Dice
+Ability: Quark Drive
+Level: 100
+Tera Type: Bug
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Dragon Dance
+- Earthquake
+- Rock Blast
+- Supercell Slam
+
+OU Usage (Zamazenta) @ Leftovers
+Ability: Dauntless Shield
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Body Press
+- Crunch
+- Iron Defense
+- Close Combat
+
+OU Usage (Carbink) @ Leftovers
+Ability: Sturdy
+Level: 100
+Tera Type: Fire
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Relaxed Nature
+- Stealth Rock
+- Trick Room
+- Body Press
+- Toxic
+
+OU Usage (Emboar) @ Choice Band
+Ability: Reckless
+Level: 100
+Tera Type: Fire
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Flare Blitz
+- Close Combat
+- Wild Charge
+- Head Smash
+
+OU Usage (Darmanitan) @ Choice Scarf
+Ability: Sheer Force
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Flare Blitz
+- U-turn
+- Earthquake
+- Rock Slide
+
+OU Usage (Turtonator) @ Heavy-Duty Boots
+Ability: Shell Armor
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+- Shell Smash
+- Draco Meteor
+- Flamethrower
+- Rapid Spin
+
+OU Usage (Reuniclus) @ Leftovers
+Ability: Magic Guard
+Level: 100
+Tera Type: Fairy
+EVs: 252 HP / 0 Atk / 252 Def / 4 SpA / 0 SpD / 0 Spe
+Bold Nature
+- Recover
+- Calm Mind
+- Stored Power
+- Acid Armor
+
+OU Usage (Druddigon) @ Rocky Helmet
+Ability: Rough Skin
+Level: 100
+Tera Type: Fairy
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Impish Nature
+- Glare
+- Dragon Tail
+- Stealth Rock
+- Toxic
+
+OU Usage (Tapu Koko) @ Terrain Extender
+Ability: Electric Surge
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Dazzling Gleam
+- Thunderbolt
+- U-turn
+- Volt Switch
+
+OU Usage (Rhydon) @ Eviolite
+Ability: Reckless
+Level: 100
+Tera Type: Water
+EVs: 4 HP / 252 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Adamant Nature
+- Earthquake
+- Stealth Rock
+- Stone Edge
+- Double-Edge
+
+OU Usage (Houndoom-Mega) @ Houndoominite
+Ability: Solar Power
+Level: 100
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Dark Pulse
+- Nasty Plot
+- Flamethrower
+- Sludge Bomb
+
+OU Usage (Breloom) @ Loaded Dice
+Ability: Technician
+Level: 100
+Tera Type: Fighting
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Bullet Seed
+- Spore
+- Mach Punch
+- Swords Dance
+
+OU Usage (Greedent) @ Ganlon Berry
+Ability: Cheek Pouch
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Impish Nature
+- Body Slam
+- Body Press
+- Stuff Cheeks
+- Knock Off
+
+OU Usage (Drifblim) @ Heavy-Duty Boots
+Ability: Unburden
+Level: 100
+Tera Type: Fairy
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Shadow Ball
+- Strength Sap
+- Calm Mind
+- Air Slash
+
+OU Usage (Alomomola) @ Heavy-Duty Boots
+Ability: Regenerator
+Level: 100
+Tera Type: Dragon
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Relaxed Nature
+- Wish
+- Flip Turn
+- Toxic
+- Scald
+
+OU Usage (Rotom-Mow) @ Assault Vest
+Ability: Levitate
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Leaf Storm
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+
+OU Usage (Sinistcha) @ Leftovers
+Ability: Heatproof
+Level: 100
+Tera Type: Poison
+EVs: 252 HP / 0 Atk / 160 Def / 0 SpA / 0 SpD / 96 Spe
+Bold Nature
+- Matcha Gotcha
+- Strength Sap
+- Calm Mind
+- Shadow Ball
+
+OU Usage (Sandslash-Alola) @ Life Orb
+Ability: Slush Rush
+Level: 100
+Tera Type: Ghost
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Earthquake
+- Iron Head
+- Rapid Spin
+- Swords Dance
+
+OU Usage (Torkoal) @ Heat Rock
+Ability: Drought
+Level: 100
+Tera Type: Fire
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Stealth Rock
+- Rapid Spin
+- Lava Plume
+- Yawn
+
+OU Usage (Slaking) @ Choice Band
+Ability: Truant
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Giga Impact
+- Drain Punch
+- Pursuit
+
+OU Usage (Electrode-Hisui) @ Choice Specs
+Ability: Static
+Level: 100
+Tera Type: Electric
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+- Volt Switch
+- Chloroblast
+- Thunderbolt
+- Energy Ball
+
+OU Usage (Braviary-Hisui) @ Heavy-Duty Boots
+Ability: Tinted Lens
+Level: 100
+Tera Type: Psychic
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Esper Wing
+- Calm Mind
+- Hurricane
+- Heat Wave
+
+OU Usage (Tentacruel) @ Black Sludge
+Ability: Liquid Ooze
+Level: 100
+Tera Type: Water
+EVs: 152 HP / 104 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Bold Nature
+- Rapid Spin
+- Scald
+- Toxic Spikes
+- Toxic
+
+OU Usage (Scream Tail) @ Leftovers
+Ability: Protosynthesis
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 40 SpD / 216 Spe
+Timid Nature
+- Wish
+- Encore
+- Dazzling Gleam
+- Thunder Wave
+
+OU Usage (Brute Bonnet) @ Leftovers
+Ability: Protosynthesis
+Level: 100
+Tera Type: Fire
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Sucker Punch
+- Spore
+- Tera Blast
+- Seed Bomb
+
+OU Usage (Tapu Fini) @ Leftovers
+Ability: Misty Surge
+Level: 100
+Tera Type: Poison
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Calm Mind
+- Draining Kiss
+- Moonblast
+- Scald
+
+OU Usage (Necrozma) @ Leftovers
+Ability: Prism Armor
+Level: 100
+Tera Type: Fire
+EVs: 252 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 0 Spe
+Modest Nature
+- Photon Geyser
+- Heat Wave
+- Calm Mind
+- Autotomize
+
+OU Usage (Rapidash-Galar) @ Life Orb
+Ability: Pastel Veil
+Level: 100
+Tera Type: Psychic
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Play Rough
+- Swords Dance
+- High Horsepower
+- Wild Charge
+
+OU Usage (Dodrio) @ Choice Band
+Ability: Tangled Feet
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Brave Bird
+- Knock Off
+- Jump Kick
+- Drill Run
+
+OU Usage (Goodra) @ Assault Vest
+Ability: Sap Sipper
+Level: 100
+Tera Type: Water
+EVs: 248 HP / 0 Atk / 0 Def / 252 SpA / 8 SpD / 0 Spe
+Modest Nature
+- Ice Beam
+- Draco Meteor
+- Flamethrower
+- Thunderbolt
+
+OU Usage (Sceptile-Mega) @ Sceptilite
+Ability: Lightning Rod
+Level: 100
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Dragon Pulse
+- Focus Blast
+- Leaf Storm
+- Giga Drain
+
+OU Usage (Unfezant) @ Scope Lens
+Ability: Super Luck
+Level: 100
+Tera Type: Dark
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Brave Bird
+- Night Slash
+- Quick Attack
+- Steel Wing
+
+OU Usage (Floatzel) @ Choice Band
+Ability: Swift Swim
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Wave Crash
+- Ice Spinner
+- Aqua Jet
+- Flip Turn
+
+OU Usage (Rillaboom) @ Choice Band
+Ability: Grassy Surge
+Level: 100
+Tera Type: Grass
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Grassy Glide
+- U-turn
+- Wood Hammer
+- Knock Off
+
+OU Usage (Copperajah) @ Leftovers
+Ability: Heavy Metal
+Level: 100
+Tera Type: Fairy
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Brave Nature
+- Heat Crash
+- Heavy Slam
+- Earthquake
+- Iron Head
+
+OU Usage (Solrock) @ Smooth Rock
+Ability: Levitate
+Level: 100
+EVs: 248 HP / 8 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Impish Nature
+- Explosion
+- Toxic
+- Morning Sun
+- Pain Split
+
+OU Usage (Ursaluna) @ Flame Orb
+Ability: Guts
+Level: 100
+Tera Type: Normal
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Facade
+- Headlong Rush
+- Fire Punch
+- Swords Dance
+
+OU Usage (Aegislash) @ Leftovers
+Ability: Stance Change
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- King's Shield
+- Shadow Sneak
+- Shadow Ball
+- Swords Dance
+
+OU Usage (Lycanroc-Midnight) @ Focus Sash
+Ability: No Guard
+Level: 100
+Tera Type: Rock
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Stone Edge
+- Close Combat
+- Play Rough
+- Stomping Tantrum
+
+OU Usage (Electrode) @ Light Clay
+Ability: Aftermath
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Light Screen
+- Reflect
+- Explosion
+- Taunt
+
+OU Usage (Leavanny) @ Choice Scarf
+Ability: Overcoat
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Sticky Web
+- Leaf Blade
+- Lunge
+- Switcheroo
+
+OU Usage (Trevenant) @ Sitrus Berry
+Ability: Harvest
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Leech Seed
+- Substitute
+- Horn Leech
+- Poltergeist
+
+OU Usage (Heracross-Mega) @ Heracronite
+Ability: Skill Link
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Rock Blast
+- Close Combat
+- Pin Missile
+- Swords Dance
+
+OU Usage (Clamperl) @ Deep Sea Tooth
+Ability: Rattled
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Ice Beam
+- Surf
+- Shell Smash
+- Substitute
+
+OU Usage (Octillery) @ Assault Vest
+Ability: Sniper
+Level: 100
+Tera Type: Dragon
+EVs: 4 HP / 0 Atk / 252 Def / 252 SpA / 0 SpD / 0 Spe
+Modest Nature
+- Ice Beam
+- Flamethrower
+- Sludge Wave
+- Surf
+
+OU Usage (Aerodactyl) @ Focus Sash
+Ability: Pressure
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Stealth Rock
+- Stone Edge
+- Taunt
+- Earthquake
+
+OU Usage (Skeledirge) @ Heavy-Duty Boots
+Ability: Unaware
+Level: 100
+Tera Type: Fairy
+EVs: 248 HP / 0 Atk / 252 Def / 0 SpA / 8 SpD / 0 Spe
+Bold Nature
+- Torch Song
+- Slack Off
+- Will-O-Wisp
+- Hex
+
+OU Usage (Pikachu) @ Light Ball
+Ability: Lightning Rod
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Fake Out
+- Volt Tackle
+- Extreme Speed
+- Knock Off
+
+OU Usage (Zoroark) @ Focus Sash
+Ability: Illusion
+Level: 100
+Tera Type: Ghost
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Flamethrower
+- Dark Pulse
+- Sludge Bomb
+- Sucker Punch
+
+OU Usage (Houndstone) @ Choice Band
+Ability: Sand Rush
+Level: 100
+Tera Type: Ghost
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Poltergeist
+- Shadow Sneak
+- Play Rough
+- Body Press
+
+OU Usage (Galvantula) @ Focus Sash
+Ability: Compound Eyes
+Level: 100
+Tera Type: Ice
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Sticky Web
+- Thunder
+- Bug Buzz
+- Thunder Wave
+
+OU Usage (Manaphy) @ Leftovers
+Ability: Hydration
+Level: 100
+Tera Type: Dragon
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Tail Glow
+- Surf
+- Scald
+- Ice Beam
+
+OU Usage (Hitmonchan) @ Assault Vest
+Ability: Iron Fist
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Rapid Spin
+- Drain Punch
+- Bullet Punch
+- Mach Punch
+
+OU Usage (Clefable) @ Leftovers
+Ability: Magic Guard
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Moonblast
+- Soft-Boiled
+- Stealth Rock
+- Calm Mind
+
+OU Usage (Sigilyph) @ Focus Sash
+Ability: Magic Guard
+Level: 100
+Tera Type: Psychic
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Psychic
+- Defog
+- Whirlwind
+- Heat Wave
+
+OU Usage (Oricorio-Pom-Pom) @ Leftovers
+Ability: Dancer
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Revelation Dance
+- Quiver Dance
+- Roost
+- Hurricane
+
+OU Usage (Stakataka) @ Leftovers
+Ability: Beast Boost
+Level: 100
+Tera Type: Flying
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Lonely Nature
+- Gyro Ball
+- Trick Room
+- Heat Crash
+- Earthquake
+
+OU Usage (Latios) @ Choice Specs
+Ability: Levitate
+Level: 100
+Tera Type: Dragon
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Draco Meteor
+- Luster Purge
+- Flip Turn
+- Mystical Fire
+
+OU Usage (Latios-Mega) @ Latiosite
+Ability: Levitate
+Level: 100
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Luster Purge
+- Aura Sphere
+- Draco Meteor
+- Roost
+
+OU Usage (Claydol) @ Leftovers
+Ability: Levitate
+Level: 100
+Tera Type: Fairy
+EVs: 252 HP / 0 Atk / 0 Def / 4 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Rapid Spin
+- Stealth Rock
+- Earth Power
+- Toxic
+
+OU Usage (Sudowoodo) @ Heavy-Duty Boots
+Ability: Sturdy
+Level: 100
+Tera Type: Grass
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Adamant Nature
+- Sucker Punch
+- Endeavor
+- Explosion
+- Stone Edge
+
+OU Usage (Hatterene) @ Leftovers
+Ability: Magic Bounce
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 204 Def / 0 SpA / 0 SpD / 52 Spe
+Bold Nature
+- Mystical Fire
+- Draining Kiss
+- Healing Wish
+- Nuzzle
+
+OU Usage (Starmie) @ Assault Vest
+Ability: Natural Cure
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Rapid Spin
+- Ice Beam
+- Thunderbolt
+- Psychic
+
+OU Usage (Steelix) @ Leftovers
+Ability: Sturdy
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Brave Nature
+- Earthquake
+- Stealth Rock
+- Body Press
+- Gyro Ball
+
+OU Usage (Lycanroc-Dusk) @ Focus Sash
+Ability: Tough Claws
+Level: 100
+Tera Type: Rock
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Accelerock
+- Close Combat
+- Endeavor
+- Stealth Rock
+
+OU Usage (Ninetales) @ Heat Rock
+Ability: Drought
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Solar Beam
+- Encore
+- Healing Wish
+- Overheat
+
+OU Usage (Azumarill) @ Normalium Z
+Ability: Huge Power
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Aqua Jet
+- Play Rough
+- Belly Drum
+- Knock Off
+
+OU Usage (Runerigus) @ Leftovers
+Ability: Wandering Spirit
+Level: 100
+Tera Type: Ground
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Impish Nature
+- Earthquake
+- Stealth Rock
+- Will-O-Wisp
+- Trick Room
+
+OU Usage (Archaludon) @ Assault Vest
+Ability: Stamina
+Level: 100
+Tera Type: Fairy
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Flash Cannon
+- Electro Shot
+- Body Press
+- Draco Meteor
+
+OU Usage (Camerupt) @ Leftovers
+Ability: Solid Rock
+Level: 100
+Tera Type: Fire
+EVs: 252 HP / 0 Atk / 0 Def / 4 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Earth Power
+- Lava Plume
+- Stealth Rock
+- Toxic
+
+OU Usage (Jirachi) @ Normalium Z
+Ability: Serene Grace
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 4 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Hasty Nature
+- Iron Head
+- Stored Power
+- Happy Hour
+- U-turn
+
+OU Usage (Mr. Mime) @ Light Clay
+Ability: Filter
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Dazzling Gleam
+- Nasty Plot
+- Psychic
+- Light Screen
+
+OU Usage (Hydreigon) @ Leftovers
+Ability: Levitate
+Level: 100
+Tera Type: Poison
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Dark Pulse
+- Draco Meteor
+- Nasty Plot
+- Earth Power
+
+OU Usage (Golisopod) @ Assault Vest
+Ability: Emergency Exit
+Level: 100
+Tera Type: Bug
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- First Impression
+- Liquidation
+- Leech Life
+- Aqua Jet
+
+OU Usage (Glastrier) @ Loaded Dice
+Ability: Chilling Neigh
+Level: 100
+Tera Type: Electric
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Brave Nature
+- High Horsepower
+- Close Combat
+- Icicle Crash
+- Icicle Spear
+
+OU Usage (Carracosta) @ Weakness Policy
+Ability: Sturdy
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Aqua Jet
+- Shell Smash
+- Earthquake
+- Liquidation
+
+OU Usage (Gallade) @ Choice Scarf
+Ability: Sharpness
+Level: 100
+Tera Type: Psychic
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Psycho Cut
+- Sacred Sword
+- Leaf Blade
+- Aqua Cutter
+
+OU Usage (Exeggutor-Alola) @ Sitrus Berry
+Ability: Harvest
+Level: 100
+Tera Type: Grass
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Flamethrower
+- Draco Meteor
+- Endure
+- Dragon Pulse
+
+OU Usage (Flamigo) @ Choice Scarf
+Ability: Scrappy
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Brave Bird
+- U-turn
+- Throat Chop
+
+OU Usage (Thievul) @ Choice Specs
+Ability: Stakeout
+Level: 100
+Tera Type: Dark
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Dark Pulse
+- Psychic
+- Burning Jealousy
+- Grass Knot
+
+OU Usage (Weezing) @ Black Sludge
+Ability: Levitate
+Level: 100
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Will-O-Wisp
+- Pain Split
+- Toxic Spikes
+- Sludge Bomb
+
+OU Usage (Swoobat) @ Focus Sash
+Ability: Simple
+Level: 100
+Tera Type: Psychic
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Calm Mind
+- Stored Power
+- Heat Wave
+- Air Slash
+
+OU Usage (Spiritomb) @ Leftovers
+Ability: Infiltrator
+Level: 100
+Tera Type: Ghost
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Will-O-Wisp
+- Poltergeist
+- Sucker Punch
+- Pain Split
+
+OU Usage (Jynx) @ Normalium Z
+Ability: Dry Skin
+Level: 100
+Tera Type: Fighting
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Ice Beam
+- Lovely Kiss
+- Nasty Plot
+- Psychic
+
+OU Usage (Arcanine-Hisui) @ Choice Band
+Ability: Rock Head
+Level: 100
+Tera Type: Rock
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Head Smash
+- Flare Blitz
+- Extreme Speed
+- Close Combat
+
+OU Usage (Wailord) @ Leftovers
+Ability: Oblivious
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Timid Nature
+- Water Spout
+- Ice Beam
+- Aqua Ring
+- Toxic
+
+OU Usage (Snorlax) @ Leftovers
+Ability: Thick Fat
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Earthquake
+- Body Slam
+- Rest
+- Curse
+
+OU Usage (Kangaskhan) @ Normalium Z
+Ability: Scrappy
+Level: 100
+EVs: 36 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 220 Spe
+Adamant Nature
+- Last Resort
+- Fake Out
+- Power-Up Punch
+- Yawn
+
+OU Usage (Tropius) @ Sitrus Berry
+Ability: Harvest
+Level: 100
+Tera Type: Water
+EVs: 244 HP / 0 Atk / 0 Def / 12 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Substitute
+- Air Slash
+- Leech Seed
+- Synthesis
+
+OU Usage (Hydrapple) @ Assault Vest
+Ability: Regenerator
+Level: 100
+Tera Type: Steel
+EVs: 248 HP / 0 Atk / 0 Def / 252 SpA / 8 SpD / 0 Spe
+Modest Nature
+- Fickle Beam
+- Earth Power
+- Giga Drain
+- Draco Meteor
+
+OU Usage (Aron) @ Shell Bell
+Ability: Sturdy
+Level: 100
+Tera Type: Steel
+EVs: 248 HP / 0 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Bold Nature
+- Endeavor
+- Toxic
+- Roar
+- Stealth Rock
+
+OU Usage (Machamp) @ Flame Orb
+Ability: No Guard
+Level: 100
+Tera Type: Steel
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Bullet Punch
+- Knock Off
+- Dynamic Punch
+- Stone Edge
+
+OU Usage (Altaria-Mega) @ Altarianite
+Ability: Pixilate
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Roost
+- Dragon Dance
+- Earthquake
+- Return
+
+OU Usage (Xurkitree) @ Choice Scarf
+Ability: Beast Boost
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Thunderbolt
+- Energy Ball
+- Tail Glow
+- Hypnosis
+
+OU Usage (Iron Crown) @ Booster Energy
+Ability: Quark Drive
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Tachyon Cutter
+- Volt Switch
+- Calm Mind
+- Focus Blast
+
+OU Usage (Toucannon) @ Focus Sash
+Ability: Skill Link
+Level: 100
+Tera Type: Normal
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Bullet Seed
+- Beak Blast
+- Rock Blast
+- Defog
+
+OU Usage (Exeggutor) @ Life Orb
+Ability: Chlorophyll
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Giga Drain
+- Growth
+- Solar Beam
+- Psyshock
+
+OU Usage (Boltund) @ Expert Belt
+Ability: Strong Jaw
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Crunch
+- Thunder Fang
+- Fire Fang
+- Psychic Fangs
+
+OU Usage (Parasect) @ Heavy-Duty Boots
+Ability: Dry Skin
+Level: 100
+Tera Type: Fire
+EVs: 4 HP / 0 Atk / 252 Def / 0 SpA / 252 SpD / 0 Spe
+Impish Nature
+- Spore
+- Leech Life
+- Seed Bomb
+- Leech Seed
+
+OU Usage (Cursola) @ Choice Specs
+Ability: Perish Body
+Level: 100
+Tera Type: Ice
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Shadow Ball
+- Ice Beam
+- Earth Power
+- Giga Drain
+
+OU Usage (Cobalion) @ Leftovers
+Ability: Justified
+Level: 100
+Tera Type: Fighting
+EVs: 248 HP / 0 Atk / 0 Def / 0 SpA / 8 SpD / 252 Spe
+Jolly Nature
+- Iron Head
+- Stealth Rock
+- Body Press
+- Iron Defense
+
+OU Usage (Persian-Alola) @ Darkinium Z
+Ability: Fur Coat
+Level: 100
+Tera Type: Rock
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Parting Shot
+- Taunt
+- Foul Play
+- Knock Off
+
+OU Usage (Dondozo) @ Leftovers
+Ability: Unaware
+Level: 100
+Tera Type: Dragon
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Impish Nature
+- Rest
+- Curse
+- Sleep Talk
+- Liquidation
+
+OU Usage (Ditto) @ Choice Scarf
+Ability: Imposter
+Level: 100
+Tera Type: Normal
+EVs: 248 HP / 8 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Impish Nature
+- Transform
+
+OU Usage (Eelektross) @ Leftovers
+Ability: Levitate
+Level: 100
+Tera Type: Steel
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 10 SpD / 0 Spe
+Adamant Nature
+- Coil
+- Drain Punch
+- Flamethrower
+- Giga Drain
+
+OU Usage (Diancie) @ Leftovers
+Ability: Clear Body
+Level: 100
+Tera Type: Fighting
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Brave Nature
+- Diamond Storm
+- Body Press
+- Stealth Rock
+- Draining Kiss
+
+OU Usage (Tauros-Paldea-Aqua) @ Leftovers
+Ability: Intimidate
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Raging Bull
+- Earthquake
+- Aqua Jet
+
+OU Usage (Oinkologne-F) @ Lansat Berry
+Ability: Gluttony
+Level: 100
+Tera Type: Fairy
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe
+Modest Nature
+- Stuff Cheeks
+- Earth Power
+- Belch
+- Hyper Voice
+
+OU Usage (Bisharp) @ Eviolite
+Ability: Defiant
+Level: 100
+Tera Type: Dark
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Sucker Punch
+- Iron Head
+- Knock Off
+- Swords Dance
+
+OU Usage (Toxtricity) @ Throat Spray
+Ability: Punk Rock
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Boomburst
+- Overdrive
+- Shift Gear
+- Sludge Wave
+
+OU Usage (Zangoose) @ Toxic Orb
+Ability: Toxic Boost
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Facade
+- Knock Off
+- Swords Dance
+- Close Combat
+
+OU Usage (Kyurem) @ Heavy-Duty Boots
+Ability: Pressure
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Freeze-Dry
+- Earth Power
+- Substitute
+- Roost
+
+OU Usage (Bellibolt) @ Leftovers
+Ability: Electromorphosis
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 0 Atk / 252 Def / 252 SpA / 0 SpD / 0 Spe
+Modest Nature
+- Parabolic Charge
+- Slack Off
+- Soak
+- Toxic
+
+OU Usage (Sirfetch'd) @ Leek
+Ability: Scrappy
+Level: 100
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Close Combat
+- Leaf Blade
+- First Impression
+- Brave Bird
+
+OU Usage (Florges) @ Leftovers
+Ability: Flower Veil
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 0 Def / 4 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Moonblast
+- Wish
+- Synthesis
+- Aromatherapy
+
+OU Usage (Nidoqueen) @ Life Orb
+Ability: Sheer Force
+Level: 100
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 252 Def / 4 SpA / 0 SpD / 0 Spe
+Relaxed Nature
+- Earth Power
+- Ice Beam
+- Sludge Wave
+- Flamethrower
+
+OU Usage (Altaria) @ Heavy-Duty Boots
+Ability: Natural Cure
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Roost
+- Defog
+- Perish Song
+- Fire Spin
+
+OU Usage (Hoopa-Unbound) @ Choice Band
+Ability: Magician
+Level: 100
+Tera Type: Dark
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Hyperspace Fury
+- Zen Headbutt
+- Drain Punch
+- Gunk Shot
+
+OU Usage (Meloetta) @ Normalium Z
+Ability: Serene Grace
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Relic Song
+- Psychic
+- Shadow Ball
+- Hyper Voice
+
+OU Usage (Togekiss) @ Leftovers
+Ability: Serene Grace
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Air Slash
+- Dazzling Gleam
+- Roost
+- Thunder Wave
+
+OU Usage (Qwilfish) @ Rocky Helmet
+Ability: Intimidate
+Level: 100
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Impish Nature
+- Spikes
+- Flip Turn
+- Taunt
+- Toxic
+
+OU Usage (Venusaur) @ Life Orb
+Ability: Chlorophyll
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Weather Ball
+- Giga Drain
+- Growth
+- Earth Power
+
+OU Usage (Blastoise) @ White Herb
+Ability: Torrent
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Shell Smash
+- Ice Beam
+- Rapid Spin
+- Surf
+
+OU Usage (Bayleef) @ Eviolite
+Ability: Overgrow
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 252 Def / 4 SpA / 0 SpD / 0 Spe
+Bold Nature
+- Toxic
+- Leech Seed
+- Giga Drain
+- Energy Ball
+
+OU Usage (Klefki) @ Light Clay
+Ability: Prankster
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 252 Def / 4 SpA / 0 SpD / 0 Spe
+Bold Nature
+- Thunder Wave
+- Light Screen
+- Reflect
+- Defog
+
+OU Usage (Magnemite) @ Berry Juice
+Ability: Sturdy
+Level: 100
+Tera Type: Ghost
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+- Recycle
+- Toxic
+- Thunder Wave
+- Magic Coat
+
+OU Usage (Silvally-Steel) @ Steel Memory
+Ability: RKS System
+Level: 100
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Swords Dance
+- Multi-Attack
+- Flame Charge
+- Parting Shot
+
+OU Usage (Scovillain) @ Life Orb
+Ability: Chlorophyll
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 4 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Hasty Nature
+- Giga Drain
+- Flamethrower
+- Growth
+- Fire Blast
+
+OU Usage (Dracozolt) @ Choice Band
+Ability: Sand Rush
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Bolt Beak
+- Earthquake
+- Outrage
+- Dragon Claw
+
+OU Usage (Wo-Chien) @ Leftovers
+Ability: Tablets of Ruin
+Level: 100
+Tera Type: Poison
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Careful Nature
+- Leech Seed
+- Knock Off
+- Ruination
+- Giga Drain
+
+OU Usage (Muk) @ Assault Vest
+Ability: Sticky Hold
+Level: 100
+Tera Type: Dark
+EVs: 196 HP / 216 Atk / 0 Def / 0 SpA / 96 SpD / 0 Spe
+Adamant Nature
+- Gunk Shot
+- Shadow Sneak
+- Drain Punch
+- Knock Off
+
+OU Usage (Glalie-Mega) @ Glalitite
+Ability: Refrigerate
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Explosion
+- Earthquake
+- Spikes
+- Ice Shard
+
+OU Usage (Throh) @ Flame Orb
+Ability: Guts
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Storm Throw
+- Knock Off
+- Earthquake
+- Facade
+
+OU Usage (Wartortle) @ Eviolite
+Ability: Rain Dish
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Relaxed Nature
+- Rapid Spin
+- Flip Turn
+- Yawn
+- Seismic Toss
+
+OU Usage (Wigglytuff) @ Leftovers
+Ability: Frisk
+Level: 100
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Wish
+- Teleport
+- Toxic
+- Dazzling Gleam
+
+OU Usage (Inteleon) @ Scope Lens
+Ability: Sniper
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Ice Beam
+- Snipe Shot
+- Focus Energy
+- Dark Pulse
+
+OU Usage (Clodsire) @ Leftovers
+Ability: Unaware
+Level: 100
+Tera Type: Dark
+EVs: 252 HP / 4 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Careful Nature
+- Recover
+- Earthquake
+- Toxic
+- Stealth Rock
+
+OU Usage (Basculegion-F) @ Choice Specs
+Ability: Swift Swim
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+- Shadow Ball
+- Ice Beam
+- Surf
+- Hydro Pump
+
+OU Usage (Dusknoir) @ Leftovers
+Ability: Pressure
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 0 Def / 4 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Poltergeist
+- Pain Split
+- Shadow Sneak
+- Substitute
+
+OU Usage (Rattata) @ Focus Sash
+Ability: Guts
+Level: 100
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+- Endeavor
+- Quick Attack
+- Sucker Punch
+- Toxic
+
+OU Usage (Noctowl) @ Leftovers
+Ability: Tinted Lens
+Level: 100
+Tera Type: Ghost
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+- Nasty Plot
+- Air Slash
+- Hypnosis
+- Hurricane
+
+OU Usage (Granbull) @ Leftovers
+Ability: Intimidate
+Level: 100
+Tera Type: Steel
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Play Rough
+- Earthquake
+- Close Combat
+- Heal Bell
+
+OU Usage (Kabutops) @ Life Orb
+Ability: Swift Swim
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Stone Edge
+- Leech Life
+- Aqua Jet
+- Waterfall
+
+OU Usage (Sylveon) @ Leftovers
+Ability: Pixilate
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 4 Spe
+Bold Nature
+- Hyper Voice
+- Wish
+- Mystical Fire
+- Heal Bell
+
+OU Usage (Haunter) @ Eviolite
+Ability: Levitate
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Sludge Bomb
+- Destiny Bond
+- Hex
+
+OU Usage (Tangrowth) @ Rocky Helmet
+Ability: Regenerator
+Level: 100
+Tera Type: Grass
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Relaxed Nature
+- Knock Off
+- Giga Drain
+- Leech Seed
+- Earthquake
+
+OU Usage (Kilowattrel) @ Focus Sash
+Ability: Volt Absorb
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Hurricane
+- Volt Switch
+- Weather Ball
+- Thunderbolt
+
+OU Usage (Togedemaru) @ Shell Bell
+Ability: Sturdy
+Level: 100
+Tera Type: Flying
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Spiky Shield
+- Iron Head
+- Zing Zap
+- Nuzzle
+
+OU Usage (Dedenne) @ Sitrus Berry
+Ability: Cheek Pouch
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Nuzzle
+- Super Fang
+- Thunderbolt
+- Dazzling Gleam
+
+OU Usage (Type: Null) @ Eviolite
+Ability: Battle Armor
+Level: 100
+Tera Type: Steel
+EVs: 180 HP / 0 Atk / 164 Def / 0 SpA / 164 SpD / 0 Spe
+Adamant Nature
+- Swords Dance
+- Toxic
+- U-turn
+- Tri Attack
+
+OU Usage (Blacephalon) @ Choice Scarf
+Ability: Beast Boost
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Flamethrower
+- Trick
+- Mind Blown
+
+OU Usage (Iron Treads) @ Icium Z
+Ability: Quark Drive
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Rapid Spin
+- Earthquake
+- Stealth Rock
+- Ice Spinner
+
+OU Usage (Shiinotic) @ Rocky Helmet
+Ability: Effect Spore
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 252 Def / 4 SpA / 0 SpD / 0 Spe
+Bold Nature
+- Spore
+- Strength Sap
+- Leech Seed
+- Moonblast
+
+OU Usage (Scyther) @ Eviolite
+Ability: Technician
+Level: 100
+Tera Type: Flying
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Dual Wingbeat
+- Close Combat
+- Swords Dance
+- Quick Attack
+
+OU Usage (Honchkrow) @ Black Glasses
+Ability: Moxie
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Sucker Punch
+- Brave Bird
+- Superpower
+- U-turn
+
+OU Usage (Magcargo) @ Focus Sash
+Ability: Weak Armor
+Level: 100
+Tera Type: Grass
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Shell Smash
+- Earth Power
+- Fire Blast
+- Ancient Power
+
+OU Usage (Articuno) @ Heavy-Duty Boots
+Ability: Pressure
+Level: 100
+Tera Type: Ice
+EVs: 248 HP / 0 Atk / 0 Def / 8 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Freeze-Dry
+- Roost
+- Defog
+- U-turn
+
+OU Usage (Zoroark-Hisui) @ Focus Sash
+Ability: Illusion
+Level: 100
+Tera Type: Ghost
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Hyper Voice
+- Flamethrower
+- Nasty Plot
+
+OU Usage (Scorbunny) @ Focus Sash
+Ability: Libero
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- High Jump Kick
+- Sucker Punch
+- Blaze Kick
+- Acrobatics
+
+OU Usage (Rabsca) @ Leppa Berry
+Ability: Synchronize
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Relaxed Nature
+- Revival Blessing
+- Trick Room
+- Psychic
+- Memento
+
+OU Usage (Palossand) @ Leftovers
+Ability: Water Compaction
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Shore Up
+- Earth Power
+- Shadow Ball
+- Stealth Rock
+
+OU Usage (Houndoom) @ Focus Sash
+Ability: Flash Fire
+Level: 100
+Tera Type: Poison
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Dark Pulse
+- Flamethrower
+- Destiny Bond
+- Sludge Bomb
+
+OU Usage (Quagsire) @ Leftovers
+Ability: Unaware
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Impish Nature
+- Recover
+- Toxic
+- Earthquake
+- Scald
+
+OU Usage (Masquerain) @ Focus Sash
+Ability: Intimidate
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Sticky Web
+- Bug Buzz
+- Air Slash
+- Stun Spore
+
+OU Usage (Goodra-Hisui) @ Assault Vest
+Ability: Sap Sipper
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Flash Cannon
+- Draco Meteor
+- Flamethrower
+- Ice Beam
+
+OU Usage (Gyarados) @ Flyinium Z
+Ability: Moxie
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Waterfall
+- Dragon Dance
+- Earthquake
+- Bounce
+
+OU Usage (Golem-Alola) @ Custap Berry
+Ability: Galvanize
+Level: 100
+Tera Type: Electric
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Explosion
+- Earthquake
+- Stealth Rock
+- Stone Edge
+
+OU Usage (Zebstrika) @ Life Orb
+Ability: Sap Sipper
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Supercell Slam
+- High Horsepower
+- Low Kick
+- Volt Switch
+
+OU Usage (Heatran) @ Leftovers
+Ability: Flash Fire
+Level: 100
+Tera Type: Grass
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 4 Spe
+Calm Nature
+- Earth Power
+- Magma Storm
+- Stealth Rock
+- Taunt
+
+OU Usage (Meowstic) @ Eject Button
+Ability: Prankster
+Level: 100
+Tera Type: Psychic
+EVs: 248 HP / 0 Atk / 252 Def / 8 SpA / 0 SpD / 0 Spe
+Bold Nature
+- Alluring Voice
+- Yawn
+- Psychic
+- Trick
+
+OU Usage (Hariyama) @ Assault Vest
+Ability: Thick Fat
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 252 SpD / 4 Spe
+Adamant Nature
+- Knock Off
+- Close Combat
+- Fake Out
+- Heavy Slam
+
+OU Usage (Lycanroc) @ Focus Sash
+Ability: Sand Rush
+Level: 100
+Tera Type: Fighting
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Accelerock
+- Close Combat
+- Stone Edge
+- Endeavor
+
+OU Usage (Onix) @ Eviolite
+Ability: Sturdy
+Level: 100
+Tera Type: Grass
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 4 Spe
+Bold Nature
+- Body Press
+- Stealth Rock
+- Taunt
+- Roar
+
+OU Usage (Slowking) @ Heavy-Duty Boots
+Ability: Regenerator
+Level: 100
+Tera Type: Fairy
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Sassy Nature
+- Scald
+- Future Sight
+- Chilly Reception
+- Slack Off
+
+OU Usage (Furfrou) @ Eject Button
+Ability: Fur Coat
+Level: 100
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 4 Spe
+Impish Nature
+- Toxic
+- U-turn
+- Roar
+- Endeavor
+
+OU Usage (Lopunny) @ Choice Scarf
+Ability: Klutz
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Switcheroo
+- Fake Out
+- Return
+- Thunder Wave
+
+OU Usage (Charjabug) @ Eviolite
+Ability: Battery
+Level: 100
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Sticky Web
+- Poison Jab
+- X-Scissor
+- Wild Charge
+
+OU Usage (Hawlucha) @ Electric Seed
+Ability: Unburden
+Level: 100
+Tera Type: Flying
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Acrobatics
+- Swords Dance
+- Close Combat
+- Substitute
+
+OU Usage (Mudsdale) @ Leftovers
+Ability: Stamina
+Level: 100
+Tera Type: Steel
+EVs: 172 HP / 252 Atk / 56 Def / 0 SpA / 0 SpD / 0 Spe
+Adamant Nature
+- Earthquake
+- Body Press
+- Heavy Slam
+- Stone Edge
+
+OU Usage (Bastiodon) @ Leftovers
+Ability: Sturdy
+Level: 100
+Tera Type: Flying
+EVs: 4 HP / 0 Atk / 252 Def / 0 SpA / 252 SpD / 0 Spe
+Impish Nature
+- Body Press
+- Stealth Rock
+- Metal Burst
+- Iron Defense
+
+OU Usage (Braviary) @ Heavy-Duty Boots
+Ability: Defiant
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Brave Bird
+- Close Combat
+- Body Slam
+- Bulk Up
+
+OU Usage (Venomoth) @ Leftovers
+Ability: Tinted Lens
+Level: 100
+Tera Type: Poison
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Quiver Dance
+- Sludge Bomb
+- Giga Drain
+- Tera Blast
+
+OU Usage (Swampert-Mega) @ Swampertite
+Ability: Swift Swim
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Earthquake
+- Ice Punch
+- Flip Turn
+- Waterfall
+
+OU Usage (Smeargle) @ Focus Sash
+Ability: Own Tempo
+Level: 100
+Tera Type: Ghost
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Spore
+- Sticky Web
+- Stone Axe
+- Endeavor
+
+OU Usage (Comfey) @ Leftovers
+Ability: Triage
+Level: 100
+Tera Type: Fairy
+EVs: 160 HP / 0 Atk / 252 Def / 28 SpA / 48 SpD / 20 Spe
+Bold Nature
+- Draining Kiss
+- Calm Mind
+- Giga Drain
+- Leech Seed
+
+OU Usage (Grimmsnarl) @ Light Clay
+Ability: Prankster
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 4 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Careful Nature
+- Reflect
+- Light Screen
+- Parting Shot
+- Taunt
+
+OU Usage (Kleavor) @ Choice Scarf
+Ability: Sharpness
+Level: 100
+Tera Type: Bug
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Stone Axe
+- U-turn
+- Close Combat
+- X-Scissor
+
+OU Usage (Banette-Mega) @ Banettite
+Ability: Prankster
+Level: 100
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Destiny Bond
+- Poltergeist
+- Encore
+- Shadow Sneak
+
+OU Usage (Medicham) @ Choice Scarf
+Ability: Pure Power
+Level: 100
+Tera Type: Fighting
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Bullet Punch
+- Zen Headbutt
+- Ice Punch
+
+OU Usage (Rotom-Frost) @ Leftovers
+Ability: Levitate
+Level: 100
+Tera Type: Electric
+EVs: 252 HP / 0 Atk / 0 Def / 4 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Blizzard
+- Discharge
+- Defog
+- Volt Switch
+
+OU Usage (Golbat) @ Eviolite
+Ability: Infiltrator
+Level: 100
+Tera Type: Stellar
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Impish Nature
+- Roost
+- Defog
+- Brave Bird
+- U-turn
+
+OU Usage (Gengar) @ Focus Sash
+Ability: Cursed Body
+Level: 100
+Tera Type: Ghost
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Sludge Wave
+- Destiny Bond
+- Focus Blast
+
+OU Usage (Bouffalant) @ Choice Band
+Ability: Reckless
+Level: 100
+Tera Type: Ghost
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Head Charge
+- Earthquake
+- Wild Charge
+- Iron Head
+
+OU Usage (Chimecho) @ Leftovers
+Ability: Levitate
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 0 Def / 4 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Recover
+- Cosmic Power
+- Stored Power
+- Yawn
+
+OU Usage (Pyroar) @ Heavy-Duty Boots
+Ability: Unnerve
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Hyper Voice
+- Flamethrower
+- Dark Pulse
+- Tera Blast
+
+OU Usage (Primarina) @ Assault Vest
+Ability: Torrent
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Moonblast
+- Sparkling Aria
+- Psychic Noise
+- Ice Beam
+
+OU Usage (Iron Hands) @ Assault Vest
+Ability: Quark Drive
+Level: 100
+Tera Type: Fighting
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Drain Punch
+- Ice Punch
+- Swords Dance
+- Thunder Punch
+
+OU Usage (Lilligant-Hisui) @ Life Orb
+Ability: Chlorophyll
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Close Combat
+- Victory Dance
+- Ice Spinner
+- Leaf Blade
+
+OU Usage (Tapu Lele) @ Choice Scarf
+Ability: Psychic Surge
+Level: 100
+Tera Type: Psychic
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Moonblast
+- Psychic
+- Focus Blast
+- Psyshock
+
+OU Usage (Rotom-Fan) @ Heavy-Duty Boots
+Ability: Levitate
+Level: 100
+Tera Type: Electric
+EVs: 184 HP / 0 Atk / 0 Def / 72 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Air Slash
+- Volt Switch
+- Thunderbolt
+- Nasty Plot
+
+OU Usage (Crustle) @ White Herb
+Ability: Sturdy
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Shell Smash
+- X-Scissor
+- Earthquake
+- Rock Slide
+
+OU Usage (Weavile) @ Choice Band
+Ability: Pressure
+Level: 100
+Tera Type: Dark
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Knock Off
+- Ice Shard
+- Triple Axel
+- Pursuit
+
+OU Usage (Furret) @ Choice Band
+Ability: Frisk
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Tidy Up
+- Double-Edge
+- Trick
+- Knock Off
+
+OU Usage (Gigalith) @ Smooth Rock
+Ability: Sand Stream
+Level: 100
+Tera Type: Normal
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Earthquake
+- Explosion
+- Stealth Rock
+- Stone Edge
+
+OU Usage (Keldeo) @ Choice Specs
+Ability: Justified
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Secret Sword
+- Scald
+- Hydro Pump
+- Calm Mind
+
+OU Usage (Whimsicott) @ Leftovers
+Ability: Prankster
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Encore
+- Moonblast
+- Leech Seed
+- Tailwind
+
+OU Usage (Bruxish) @ Choice Band
+Ability: Strong Jaw
+Level: 100
+Tera Type: Dark
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Psychic Fangs
+- Wave Crash
+- Crunch
+- Aqua Jet
+
+OU Usage (Illumise) @ Light Clay
+Ability: Prankster
+Level: 100
+Tera Type: Poison
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Thunder Wave
+- Encore
+- Tailwind
+- Light Screen
+
+OU Usage (Registeel) @ Leftovers
+Ability: Clear Body
+Level: 100
+Tera Type: Dragon
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Body Press
+- Iron Defense
+- Stealth Rock
+- Toxic
+
+OU Usage (Xatu) @ Rocky Helmet
+Ability: Magic Bounce
+Level: 100
+Tera Type: Psychic
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 196 SpD / 60 Spe
+Impish Nature
+- Roost
+- Night Shade
+- U-turn
+- Heat Wave
+
+OU Usage (Nihilego) @ Power Herb
+Ability: Beast Boost
+Level: 100
+Tera Type: Flying
+EVs: 0 HP / 0 Atk / 80 Def / 176 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Sludge Wave
+- Meteor Beam
+- Grass Knot
+- Power Gem
+
+OU Usage (Beartic) @ Life Orb
+Ability: Slush Rush
+Level: 100
+Tera Type: Ice
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Icicle Crash
+- Close Combat
+- Aqua Jet
+- Earthquake
+
+OU Usage (Silvally) @ Normalium Z
+Ability: RKS System
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 0 Spe
+Adamant Nature
+- Multi-Attack
+- Explosion
+- Crunch
+- Fire Fang
+
+OU Usage (Spidops) @ Focus Sash
+Ability: Insomnia
+Level: 100
+Tera Type: Dark
+EVs: 248 HP / 8 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Impish Nature
+- Sticky Web
+- Spikes
+- Circle Throw
+- U-turn
+
+OU Usage (Forretress) @ Leftovers
+Ability: Sturdy
+Level: 100
+Tera Type: Normal
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Impish Nature
+- Rapid Spin
+- Stealth Rock
+- Volt Switch
+- Spikes
+
+OU Usage (Cradily) @ Leftovers
+Ability: Storm Drain
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 0 Def / 4 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Leech Seed
+- Giga Drain
+- Toxic
+- Recover
+
+OU Usage (Shuckle) @ Mental Herb
+Ability: Sturdy
+Level: 100
+Tera Type: Bug
+EVs: 248 HP / 0 Atk / 8 Def / 0 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Sticky Web
+- Stealth Rock
+- Encore
+- Toxic
+
+OU Usage (Diancie-Mega) @ Diancite
+Ability: Magic Bounce
+Level: 100
+EVs: 0 HP / 4 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Hasty Nature
+- Moonblast
+- Diamond Storm
+- Earth Power
+- Mystical Fire
+
+OU Usage (Tauros-Paldea-Blaze) @ Choice Band
+Ability: Intimidate
+Level: 100
+Tera Type: Grass
+EVs: 252 HP / 4 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Impish Nature
+- Close Combat
+- Raging Bull
+- Flare Blitz
+- Wild Charge
+
+OU Usage (Orbeetle) @ Light Clay
+Ability: Frisk
+Level: 100
+Tera Type: Fairy
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Sticky Web
+- U-turn
+- Reflect
+- Light Screen
+
+OU Usage (Seaking) @ Life Orb
+Ability: Lightning Rod
+Level: 100
+Tera Type: Flying
+EVs: 32 HP / 0 Atk / 180 Def / 0 SpA / 180 SpD / 116 Spe
+Bold Nature
+- Waterfall
+- Drill Run
+- Rest
+- Knock Off
+
+OU Usage (Rotom) @ Ghostium Z
+Ability: Levitate
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Volt Switch
+- Defog
+- Will-O-Wisp
+
+OU Usage (Skarmory) @ Rocky Helmet
+Ability: Sturdy
+Level: 100
+Tera Type: Dragon
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Roost
+- Body Press
+- Stealth Rock
+- Spikes
+
+OU Usage (Torterra) @ Loaded Dice
+Ability: Shell Armor
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Shell Smash
+- Headlong Rush
+- Bullet Seed
+- Rock Blast
+
+OU Usage (Crabominable) @ Assault Vest
+Ability: Iron Fist
+Level: 100
+Tera Type: Fighting
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Drain Punch
+- Ice Hammer
+- Earthquake
+- Crabhammer
+
+OU Usage (Clawitzer) @ Choice Specs
+Ability: Mega Launcher
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Water Pulse
+- Dark Pulse
+- Aura Sphere
+- Dragon Pulse
+
+OU Usage (Rotom-Heat) @ Heavy-Duty Boots
+Ability: Levitate
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Overheat
+- Volt Switch
+- Defog
+- Will-O-Wisp
+
+OU Usage (Malamar) @ Leftovers
+Ability: Contrary
+Level: 100
+Tera Type: Steel
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Superpower
+- Knock Off
+- Psycho Cut
+- Rest
+
+OU Usage (Dugtrio-Alola) @ Focus Sash
+Ability: Tangling Hair
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Iron Head
+- Stealth Rock
+- Memento
+
+OU Usage (Entei) @ Life Orb
+Ability: Inner Focus
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Sacred Fire
+- Extreme Speed
+- Stone Edge
+- Stomping Tantrum
+
+OU Usage (Pawmot) @ Focus Sash
+Ability: Volt Absorb
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Revival Blessing
+- Double Shock
+- Close Combat
+- Mach Punch
+
+OU Usage (Dunsparce) @ Eviolite
+Ability: Serene Grace
+Level: 100
+Tera Type: Ground
+EVs: 252 HP / 4 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Careful Nature
+- Roost
+- Body Slam
+- Coil
+- Glare
+
+OU Usage (Murkrow) @ Eviolite
+Ability: Prankster
+Level: 100
+Tera Type: Ghost
+EVs: 4 HP / 0 Atk / 252 Def / 0 SpA / 252 SpD / 0 Spe
+Bold Nature
+- Thunder Wave
+- Tailwind
+- Roost
+- Haze
+
+OU Usage (Dusclops) @ Eviolite
+Ability: Pressure
+Level: 100
+Tera Type: Dragon
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Will-O-Wisp
+- Pain Split
+- Night Shade
+- Trick Room
+
+OU Usage (Ariados) @ Focus Sash
+Ability: Insomnia
+Level: 100
+Tera Type: Dark
+EVs: 248 HP / 8 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Careful Nature
+- Sticky Web
+- Toxic Thread
+- Toxic Spikes
+- Sucker Punch
+
+OU Usage (Sableye-Mega) @ Sablenite
+Ability: Magic Bounce
+Level: 100
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 4 Spe
+Impish Nature
+- Recover
+- Will-O-Wisp
+- Knock Off
+- Encore
+
+OU Usage (Tsareena) @ Assault Vest
+Ability: Queenly Majesty
+Level: 100
+Tera Type: Fighting
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- High Jump Kick
+- Triple Axel
+- Rapid Spin
+- Power Whip
+
+OU Usage (Yanmega) @ Throat Spray
+Ability: Speed Boost
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Air Slash
+- Bug Buzz
+- Giga Drain
+- Tera Blast
+
+OU Usage (Crobat) @ Heavy-Duty Boots
+Ability: Infiltrator
+Level: 100
+Tera Type: Poison
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Brave Bird
+- U-turn
+- Defog
+- Taunt
+
+OU Usage (Sunflora) @ Assault Vest
+Ability: Solar Power
+Level: 100
+Tera Type: Fairy
+EVs: 0 HP / 0 Atk / 252 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Earth Power
+- Dazzling Gleam
+- Sludge Bomb
+- Solar Beam
+
+OU Usage (Drednaw) @ White Herb
+Ability: Swift Swim
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Liquidation
+- Shell Smash
+- Earthquake
+- Stone Edge
+
+OU Usage (Porygon-Z) @ Normalium Z
+Ability: Adaptability
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Ice Beam
+- Tri Attack
+- Conversion
+- Shadow Ball
+
+OU Usage (Mandibuzz) @ Heavy-Duty Boots
+Ability: Overcoat
+Level: 100
+Tera Type: Poison
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Careful Nature
+- Roost
+- Foul Play
+- Defog
+- Toxic
+
+OU Usage (Lunatone) @ Power Herb
+Ability: Levitate
+Level: 100
+Tera Type: Steel
+EVs: 248 HP / 0 Atk / 0 Def / 8 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Meteor Beam
+- Stealth Rock
+- Toxic
+- Ancient Power
+
+OU Usage (Volcarona) @ Heavy-Duty Boots
+Ability: Flame Body
+Level: 100
+Tera Type: Grass
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Quiver Dance
+- Giga Drain
+- Fiery Dance
+- Bug Buzz
+
+OU Usage (Raichu-Alola) @ Life Orb
+Ability: Surge Surfer
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Rising Voltage
+- Nasty Plot
+- Psychic
+- Surf
+
+OU Usage (Roserade) @ Expert Belt
+Ability: Technician
+Level: 100
+Tera Type: Grass
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Sludge Bomb
+- Energy Ball
+- Leaf Storm
+- Shadow Ball
+
+OU Usage (Corsola) @ Rocky Helmet
+Ability: Regenerator
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Recover
+- Stealth Rock
+- Scald
+- Toxic
+
+OU Usage (Stoutland) @ Choice Band
+Ability: Scrappy
+Level: 100
+Tera Type: Fairy
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Return
+- Fire Fang
+- Superpower
+- Facade
+
+OU Usage (Uxie) @ Choice Scarf
+Ability: Levitate
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 0 Atk / 108 Def / 0 SpA / 148 SpD / 252 Spe
+Timid Nature
+- Stealth Rock
+- Memento
+- Yawn
+- Trick
+
+OU Usage (Ambipom) @ Silk Scarf
+Ability: Technician
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Fake Out
+- U-turn
+- Knock Off
+- Power-Up Punch
+
+OU Usage (Hitmonlee) @ Liechi Berry
+Ability: Unburden
+Level: 100
+Tera Type: Fighting
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Knock Off
+- Close Combat
+- Endure
+- Poison Jab
+
+OU Usage (Gorebyss) @ White Herb
+Ability: Swift Swim
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Ice Beam
+- Shell Smash
+- Surf
+- Hydro Pump
+
+OU Usage (Mimikyu) @ Life Orb
+Ability: Disguise
+Level: 100
+Tera Type: Ghost
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Play Rough
+- Shadow Sneak
+- Swords Dance
+- Shadow Claw
+
+OU Usage (Duraludon) @ Eviolite
+Ability: Light Metal
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Impish Nature
+- Flash Cannon
+- Body Press
+- Stealth Rock
+- Draco Meteor
+
+OU Usage (Cacturne) @ Focus Sash
+Ability: Water Absorb
+Level: 100
+Tera Type: Ghost
+EVs: 248 HP / 8 Atk / 0 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+- Sucker Punch
+- Spikes
+- Giga Drain
+- Seed Bomb
+
+OU Usage (Raichu) @ Life Orb
+Ability: Lightning Rod
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Fake Out
+- Extreme Speed
+- Volt Tackle
+- Knock Off
+
+OU Usage (Musharna) @ Colbur Berry
+Ability: Synchronize
+Level: 100
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Moonlight
+- Psychic
+- Calm Mind
+- Moonblast
+
+OU Usage (Enamorus) @ Choice Scarf
+Ability: Contrary
+Level: 100
+Tera Type: Stellar
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Tera Blast
+- Moonblast
+- Earth Power
+- Mystical Fire
+
+OU Usage (Blaziken) @ Firium Z
+Ability: Speed Boost
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Close Combat
+- Swords Dance
+- Flare Blitz
+- Blaze Kick
+
+OU Usage (Typhlosion-Hisui) @ Choice Scarf
+Ability: Frisk
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Eruption
+- Shadow Ball
+- Focus Blast
+- Infernal Parade
+
+OU Usage (Heatmor) @ Heavy-Duty Boots
+Ability: Flash Fire
+Level: 100
+Tera Type: Dark
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Sucker Punch
+- Superpower
+- Fire Lash
+- Knock Off
+
+OU Usage (Komala) @ Assault Vest
+Ability: Comatose
+Level: 100
+Tera Type: Normal
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Knock Off
+- Rapid Spin
+- Body Slam
+- Last Resort
+
+OU Usage (Gardevoir-Mega) @ Gardevoirite
+Ability: Pixilate
+Level: 100
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Hyper Voice
+- Mystical Fire
+- Psyshock
+- Calm Mind
+
+OU Usage (Slurpuff) @ Sitrus Berry
+Ability: Unburden
+Level: 100
+Tera Type: Steel
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Sticky Web
+- Belly Drum
+- Drain Punch
+- Play Rough
+
+OU Usage (Ferrothorn) @ Leftovers
+Ability: Iron Barbs
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 44 Def / 0 SpA / 212 SpD / 0 Spe
+Impish Nature
+- Leech Seed
+- Gyro Ball
+- Stealth Rock
+- Power Whip
+
+OU Usage (Eldegoss) @ Heavy-Duty Boots
+Ability: Regenerator
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Rapid Spin
+- Giga Drain
+- Leech Seed
+- Sleep Powder
+
+OU Usage (Zapdos-Galar) @ Choice Band
+Ability: Defiant
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Brave Bird
+- Thunderous Kick
+- U-turn
+- Close Combat
+
+OU Usage (Quaquaval) @ Heavy-Duty Boots
+Ability: Moxie
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Aqua Step
+- Close Combat
+- Ice Spinner
+- Rapid Spin
+
+OU Usage (Milotic) @ Leftovers
+Ability: Marvel Scale
+Level: 100
+Tera Type: Dragon
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 4 Spe
+Calm Nature
+- Recover
+- Scald
+- Ice Beam
+- Toxic
+
+OU Usage (Grafaiai) @ Heavy-Duty Boots
+Ability: Prankster
+Level: 100
+Tera Type: Flying
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Encore
+- Parting Shot
+- Knock Off
+- Gunk Shot
+
+OU Usage (Marowak-Alola) @ Thick Club
+Ability: Rock Head
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Brave Nature
+- Flare Blitz
+- Poltergeist
+- Swords Dance
+- Low Kick
+
+OU Usage (Toxapex) @ Leftovers
+Ability: Regenerator
+Level: 100
+Tera Type: Dragon
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Recover
+- Scald
+- Toxic
+- Haze
+
+OU Usage (Plusle) @ Choice Scarf
+Ability: Lightning Rod
+Level: 100
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+- Grass Knot
+- Volt Switch
+- Thunder
+- Super Fang
+
+OU Usage (Dhelmise) @ Assault Vest
+Ability: Steelworker
+Level: 100
+Tera Type: Steel
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Brave Nature
+- Poltergeist
+- Rapid Spin
+- Anchor Shot
+- Power Whip
+
+OU Usage (Mr. Rime) @ Heavy-Duty Boots
+Ability: Screen Cleaner
+Level: 100
+Tera Type: Fighting
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Freeze-Dry
+- Rapid Spin
+- Psychic
+- Focus Blast
+
+OU Usage (Manectric-Mega) @ Manectite
+Ability: Intimidate
+Level: 100
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Volt Switch
+- Flamethrower
+- Overheat
+- Thunderbolt
+
+OU Usage (Aurorus) @ Light Clay
+Ability: Snow Warning
+Level: 100
+Tera Type: Ground
+EVs: 4 HP / 0 Atk / 252 Def / 0 SpA / 252 SpD / 0 Spe
+Bold Nature
+- Aurora Veil
+- Stealth Rock
+- Freeze-Dry
+- Roar
+
+OU Usage (Mantine) @ Heavy-Duty Boots
+Ability: Swift Swim
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Roost
+- Ice Beam
+- Hurricane
+- Scald
+
+OU Usage (Pineco) @ Berry Juice
+Ability: Sturdy
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+- Toxic Spikes
+- Toxic
+- Rapid Spin
+- Pain Split
+
+OU Usage (Regidrago) @ Choice Scarf
+Ability: Dragon's Maw
+Level: 100
+Tera Type: Dragon
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Dragon Energy
+- Earth Power
+- Draco Meteor
+- Dragon Pulse
+
+OU Usage (Doublade) @ Eviolite
+Ability: No Guard
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 216 Atk / 40 Def / 0 SpA / 0 SpD / 0 Spe
+Brave Nature
+- Shadow Sneak
+- Gyro Ball
+- Shadow Claw
+- Close Combat
+
+OU Usage (Leafeon) @ Life Orb
+Ability: Chlorophyll
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Swords Dance
+- Solar Blade
+- Knock Off
+- Tera Blast
+
+OU Usage (Liepard) @ Focus Sash
+Ability: Prankster
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Encore
+- Foul Play
+- U-turn
+- Copycat
+
+OU Usage (Oricorio-Sensu) @ Focus Sash
+Ability: Dancer
+Level: 100
+Tera Type: Ground
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Revelation Dance
+- Quiver Dance
+- Air Slash
+- Roost
+
+OU Usage (Arcanine) @ Choice Band
+Ability: Intimidate
+Level: 100
+Tera Type: Normal
+EVs: 252 HP / 4 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Impish Nature
+- Flare Blitz
+- Extreme Speed
+- Morning Sun
+- Will-O-Wisp
+
+OU Usage (Mismagius) @ Choice Scarf
+Ability: Levitate
+Level: 100
+Tera Type: Fairy
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Dazzling Gleam
+- Mystical Fire
+- Trick
+
+OU Usage (Revavroom) @ Air Balloon
+Ability: Filter
+Level: 100
+Tera Type: Flying
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Shift Gear
+- High Horsepower
+- Gunk Shot
+- Iron Head
+
+OU Usage (Cofagrigus) @ Leftovers
+Ability: Mummy
+Level: 100
+Tera Type: Fighting
+EVs: 4 HP / 0 Atk / 252 Def / 0 SpA / 252 SpD / 0 Spe
+Bold Nature
+- Will-O-Wisp
+- Trick Room
+- Body Press
+- Hex
+
+OU Usage (Sandslash) @ Leftovers
+Ability: Sand Rush
+Level: 100
+Tera Type: Grass
+EVs: 248 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 8 Spe
+Careful Nature
+- Earthquake
+- Rapid Spin
+- Knock Off
+- Spikes
+
+OU Usage (Magnezone) @ Choice Specs
+Ability: Magnet Pull
+Level: 100
+Tera Type: Flying
+EVs: 100 HP / 0 Atk / 4 Def / 248 SpA / 0 SpD / 156 Spe
+Modest Nature
+- Flash Cannon
+- Volt Switch
+- Thunderbolt
+- Tera Blast
+
+OU Usage (Rhyperior) @ Assault Vest
+Ability: Solid Rock
+Level: 100
+Tera Type: Ground
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Sassy Nature
+- Earthquake
+- Stone Edge
+- Ice Punch
+- Avalanche
+
+OU Usage (Golem) @ Custap Berry
+Ability: Sturdy
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Earthquake
+- Explosion
+- Stealth Rock
+- Stone Edge
+
+OU Usage (Spinda) @ Assault Vest
+Ability: Contrary
+Level: 100
+Tera Type: Fighting
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Superpower
+- Sucker Punch
+- Drain Punch
+- Ice Punch
+
+OU Usage (Incineroar) @ Heavy-Duty Boots
+Ability: Intimidate
+Level: 100
+Tera Type: Fighting
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Flare Blitz
+- Knock Off
+- Parting Shot
+- Fake Out
+
+OU Usage (Pangoro) @ Choice Band
+Ability: Scrappy
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Bullet Punch
+- Knock Off
+- Close Combat
+- Gunk Shot
+
+OU Usage (Gothitelle) @ Leftovers
+Ability: Competitive
+Level: 100
+Tera Type: Electric
+EVs: 120 HP / 0 Atk / 136 Def / 252 SpA / 0 SpD / 0 Spe
+Modest Nature
+- Psychic
+- Thunderbolt
+- Shadow Ball
+- Energy Ball
+
+OU Usage (Sharpedo-Mega) @ Sharpedonite
+Ability: Strong Jaw
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Crunch
+- Psychic Fangs
+- Ice Fang
+- Close Combat
+
+OU Usage (Slowbro-Mega) @ Slowbronite
+Ability: Shell Armor
+Level: 100
+EVs: 0 HP / 0 Atk / 252 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+- Scald
+- Slack Off
+- Body Press
+- Trick Room
+
+OU Usage (Tauros) @ Life Orb
+Ability: Sheer Force
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 0 Def / 4 SpA / 0 SpD / 252 Spe
+Naive Nature
+- Body Slam
+- Earthquake
+- Close Combat
+- Iron Head
+
+OU Usage (Ting-Lu) @ Leftovers
+Ability: Vessel of Ruin
+Level: 100
+Tera Type: Poison
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Careful Nature
+- Earthquake
+- Whirlwind
+- Stealth Rock
+- Ruination
+
+OU Usage (Raikou) @ Leftovers
+Ability: Inner Focus
+Level: 100
+Tera Type: Flying
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Thunderbolt
+- Calm Mind
+- Substitute
+- Scald
+
+OU Usage (Greninja) @ Life Orb
+Ability: Battle Bond
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Dark Pulse
+- Ice Beam
+- Water Shuriken
+- Surf
+
+OU Usage (Arbok) @ Black Sludge
+Ability: Intimidate
+Level: 100
+Tera Type: Dragon
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Switcheroo
+- Gunk Shot
+- Coil
+- Scale Shot
+
+OU Usage (Manectric) @ Choice Scarf
+Ability: Lightning Rod
+Level: 100
+Tera Type: Grass
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Volt Switch
+- Thunderbolt
+- Flamethrower
+- Overheat
+
+OU Usage (Absol-Mega) @ Absolite
+Ability: Magic Bounce
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Sucker Punch
+- Knock Off
+- Close Combat
+- Swords Dance
+
+OU Usage (Porygon2) @ Eviolite
+Ability: Trace
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 176 Def / 0 SpA / 80 SpD / 0 Spe
+Relaxed Nature
+- Trick Room
+- Teleport
+- Ice Beam
+- Recover
+
+OU Usage (Raticate) @ Flame Orb
+Ability: Guts
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Quick Attack
+- Facade
+- Sucker Punch
+- Crunch
+
+OU Usage (Mamoswine) @ Focus Sash
+Ability: Thick Fat
+Level: 100
+Tera Type: Ice
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Ice Shard
+- Icicle Crash
+- Stealth Rock
+
+OU Usage (Chansey) @ Eviolite
+Ability: Natural Cure
+Level: 100
+Tera Type: Ghost
+EVs: 248 HP / 0 Atk / 252 Def / 0 SpA / 8 SpD / 0 Spe
+Bold Nature
+- Seismic Toss
+- Soft-Boiled
+- Toxic
+- Stealth Rock
+
+OU Usage (Infernape) @ Life Orb
+Ability: Iron Fist
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Mach Punch
+- Thunder Punch
+- Flare Blitz
+
+OU Usage (Morpeko) @ Choice Band
+Ability: Hunger Switch
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Aura Wheel
+- Parting Shot
+- Rapid Spin
+- Seed Bomb
+
+OU Usage (Slowbro-Galar) @ Slowbronite
+Ability: Quick Draw
+Level: 100
+Tera Type: Flying
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Shell Side Arm
+- Slack Off
+- Drain Punch
+- Psychic
+
+OU Usage (Politoed) @ Damp Rock
+Ability: Drizzle
+Level: 100
+Tera Type: Ground
+EVs: 248 HP / 0 Atk / 0 Def / 252 SpA / 8 SpD / 0 Spe
+Modest Nature
+- Ice Beam
+- Scald
+- Toxic
+- Earth Power
+
+OU Usage (Primeape) @ Eviolite
+Ability: Defiant
+Level: 100
+Tera Type: Ghost
+EVs: 236 HP / 16 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Bulk Up
+- Drain Punch
+- Rage Fist
+- Close Combat
+
+OU Usage (Buzzwole) @ Rocky Helmet
+Ability: Beast Boost
+Level: 100
+Tera Type: Fighting
+EVs: 252 HP / 0 Atk / 232 Def / 0 SpA / 0 SpD / 24 Spe
+Impish Nature
+- Drain Punch
+- Ice Punch
+- Earthquake
+- Roost
+
+OU Usage (Relicanth) @ Choice Band
+Ability: Rock Head
+Level: 100
+Tera Type: Rock
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Head Smash
+- Earthquake
+- Liquidation
+- Rock Polish
+
+OU Usage (Klawf) @ Heavy-Duty Boots
+Ability: Regenerator
+Level: 100
+Tera Type: Flying
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 4 Spe
+Impish Nature
+- Knock Off
+- Stealth Rock
+- Swords Dance
+- Endeavor
+
+OU Usage (Decidueye) @ Leftovers
+Ability: Long Reach
+Level: 100
+Tera Type: Grass
+EVs: 248 HP / 0 Atk / 100 Def / 0 SpA / 144 SpD / 16 Spe
+Calm Nature
+- Spirit Shackle
+- Swords Dance
+- Leaf Blade
+- Roost
+
+OU Usage (Sawsbuck) @ Life Orb
+Ability: Serene Grace
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Horn Leech
+- Headbutt
+- Swords Dance
+- Jump Kick
+
+OU Usage (Cramorant) @ Salac Berry
+Ability: Gulp Missile
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Surf
+- Endure
+- Ice Beam
+- Roost
+
+OU Usage (Amoonguss) @ Rocky Helmet
+Ability: Regenerator
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Spore
+- Giga Drain
+- Sludge Bomb
+- Foul Play
+
+OU Usage (Jolteon) @ Choice Specs
+Ability: Volt Absorb
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Thunderbolt
+- Volt Switch
+- Shadow Ball
+- Tera Blast
+
+OU Usage (Squawkabilly) @ Choice Scarf
+Ability: Intimidate
+Level: 100
+Tera Type: Electric
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Brave Bird
+- Parting Shot
+- Final Gambit
+- Double-Edge
+
+OU Usage (Flapple) @ Choice Scarf
+Ability: Hustle
+Level: 100
+Tera Type: Grass
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Grav Apple
+- Sucker Punch
+- Outrage
+- U-turn
+
+OU Usage (Golduck) @ Leftovers
+Ability: Cloud Nine
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Ice Beam
+- Grass Knot
+- Hydro Pump
+- Nasty Plot
+
+OU Usage (Rotom-Wash) @ Leftovers
+Ability: Levitate
+Level: 100
+Tera Type: Electric
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Hydro Pump
+- Volt Switch
+- Will-O-Wisp
+- Defog
+
+OU Usage (Chesnaught) @ Rocky Helmet
+Ability: Bulletproof
+Level: 100
+Tera Type: Steel
+EVs: 248 HP / 0 Atk / 252 Def / 0 SpA / 8 SpD / 0 Spe
+Impish Nature
+- Leech Seed
+- Body Press
+- Spikes
+- Iron Defense
+
+OU Usage (Raticate-Alola) @ Choice Scarf
+Ability: Thick Fat
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 4 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Endeavor
+- Final Gambit
+- Switcheroo
+- Sucker Punch
+
+OU Usage (Umbreon) @ Leftovers
+Ability: Synchronize
+Level: 100
+Tera Type: Poison
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Foul Play
+- Wish
+- Toxic
+- Heal Bell
+
+OU Usage (Heracross) @ Choice Scarf
+Ability: Moxie
+Level: 100
+Tera Type: Rock
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Earthquake
+- Megahorn
+- Stone Edge
+
+OU Usage (Feraligatr) @ Life Orb
+Ability: Sheer Force
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Liquidation
+- Ice Punch
+- Crunch
+
+OU Usage (Toxicroak) @ Black Sludge
+Ability: Dry Skin
+Level: 100
+Tera Type: Dark
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Sucker Punch
+- Poison Jab
+- Drain Punch
+- Swords Dance
+
+OU Usage (Grapploct) @ Leftovers
+Ability: Limber
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 240 Atk / 252 Def / 0 SpA / 16 SpD / 0 Spe
+Brave Nature
+- Drain Punch
+- Sucker Punch
+- Ice Punch
+- Circle Throw
+
+OU Usage (Dragonite) @ Heavy-Duty Boots
+Ability: Multiscale
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Extreme Speed
+- Earthquake
+- Dragon Dance
+- Roost
+
+OU Usage (Zygarde-10%) @ Focus Sash
+Ability: Aura Break
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Thousand Arrows
+- Extreme Speed
+- Dragon Dance
+- Outrage
+
+OU Usage (Vaporeon) @ Leftovers
+Ability: Water Absorb
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Wish
+- Scald
+- Toxic
+- Flip Turn
+
+OU Usage (Virizion) @ Expert Belt
+Ability: Justified
+Level: 100
+Tera Type: Stellar
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Leaf Blade
+- Aura Sphere
+- Giga Drain
+- Calm Mind
+
+OU Usage (Froslass) @ Focus Sash
+Ability: Cursed Body
+Level: 100
+Tera Type: Ice
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Destiny Bond
+- Spikes
+- Taunt
+- Ice Beam
+
+OU Usage (Audino-Mega) @ Audinite
+Ability: Healer
+Level: 100
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Relaxed Nature
+- Wish
+- Encore
+- Knock Off
+- Toxic
+
+OU Usage (Klinklang) @ Focus Sash
+Ability: Clear Body
+Level: 100
+Tera Type: Flying
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Gear Grind
+- Shift Gear
+- Wild Charge
+- Return
+
+OU Usage (Perrserker) @ Life Orb
+Ability: Tough Claws
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Iron Head
+- Close Combat
+- U-turn
+- Fake Out
+
+OU Usage (Terrakion) @ Choice Scarf
+Ability: Justified
+Level: 100
+Tera Type: Rock
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Earthquake
+- Stone Edge
+- Stealth Rock
+
+OU Usage (Dubwool) @ Leftovers
+Ability: Fluffy
+Level: 100
+Tera Type: Fighting
+EVs: 0 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 252 Spe
+Impish Nature
+- Cotton Guard
+- Body Press
+- Rest
+- Sleep Talk
+
+OU Usage (Conkeldurr) @ Flame Orb
+Ability: Guts
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Mach Punch
+- Drain Punch
+- Knock Off
+- Ice Punch
+
+OU Usage (Gligar) @ Eviolite
+Ability: Immunity
+Level: 100
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Earthquake
+- Roost
+- Stealth Rock
+- U-turn
+
+OU Usage (Hypno) @ Leftovers
+Ability: Insomnia
+Level: 100
+Tera Type: Fairy
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Hypnosis
+- Psychic
+- Thunder Wave
+- Toxic
+
+OU Usage (Wugtrio) @ Choice Band
+Ability: Gooey
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Triple Dive
+- Aqua Jet
+- Sucker Punch
+- Stomping Tantrum
+
+OU Usage (Alcremie) @ Leftovers
+Ability: Aroma Veil
+Level: 100
+Tera Type: Stellar
+EVs: 252 HP / 0 Atk / 252 Def / 4 SpA / 0 SpD / 0 Spe
+Bold Nature
+- Calm Mind
+- Draining Kiss
+- Mystical Fire
+- Alluring Voice
+
+OU Usage (Audino) @ Leftovers
+Ability: Regenerator
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Wish
+- Toxic
+- Heal Bell
+- Knock Off
+
+OU Usage (Jumpluff) @ Focus Sash
+Ability: Infiltrator
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Sleep Powder
+- Acrobatics
+- U-turn
+- Leech Seed
+
+OU Usage (Drapion) @ Leftovers
+Ability: Sniper
+Level: 100
+Tera Type: Poison
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Knock Off
+- Cross Poison
+- Earthquake
+- Poison Jab
+
+OU Usage (Silvally-Ground) @ Ground Memory
+Ability: RKS System
+Level: 100
+EVs: 0 HP / 4 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Hasty Nature
+- Multi-Attack
+- Thunderbolt
+- Flamethrower
+- Flash Cannon
+
+OU Usage (Probopass) @ Leftovers
+Ability: Magnet Pull
+Level: 100
+Tera Type: Flying
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Flash Cannon
+- Earth Power
+- Body Press
+- Stealth Rock
+
+OU Usage (Excadrill) @ Focus Sash
+Ability: Sand Rush
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Rapid Spin
+- Iron Head
+- Swords Dance
+
+OU Usage (Crocalor) @ Eviolite
+Ability: Unaware
+Level: 100
+Tera Type: Grass
+EVs: 252 HP / 0 Atk / 252 Def / 4 SpA / 0 SpD / 0 Spe
+Bold Nature
+- Slack Off
+- Will-O-Wisp
+- Encore
+- Flamethrower
+
+OU Usage (Solosis) @ Focus Sash
+Ability: Magic Guard
+Level: 100
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 116 Spe
+Hardy Nature
+- Trick Room
+- Endeavor
+- Explosion
+- Confuse Ray
+
+OU Usage (Arctovish) @ Choice Band
+Ability: Slush Rush
+Level: 100
+Tera Type: Water
+EVs: 6 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Fishious Rend
+- Icicle Crash
+- Psychic Fangs
+- Stone Edge
+
+OU Usage (Sawk) @ Heavy-Duty Boots
+Ability: Sturdy
+Level: 100
+Tera Type: Fighting
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Knock Off
+- Counter
+- Reversal
+
+OU Usage (Zeraora) @ Life Orb
+Ability: Volt Absorb
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Plasma Fists
+- Close Combat
+- Volt Switch
+- Bulk Up
+
+OU Usage (Overqwil) @ Focus Sash
+Ability: Swift Swim
+Level: 100
+Tera Type: Dark
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Crunch
+- Liquidation
+- Barb Barrage
+- Swords Dance
+
+OU Usage (Thundurus) @ Heavy-Duty Boots
+Ability: Prankster
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Thunder Wave
+- Thunderbolt
+- Defog
+- Grass Knot
+
+OU Usage (Corviknight) @ Rocky Helmet
+Ability: Pressure
+Level: 100
+Tera Type: Dragon
+EVs: 252 HP / 0 Atk / 184 Def / 0 SpA / 72 SpD / 0 Spe
+Impish Nature
+- Roost
+- Defog
+- U-turn
+- Brave Bird
+
+OU Usage (Cetitan) @ Sitrus Berry
+Ability: Slush Rush
+Level: 100
+Tera Type: Ice
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Ice Shard
+- Belly Drum
+- Ice Spinner
+
+OU Usage (Sableye) @ Leftovers
+Ability: Prankster
+Level: 100
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Impish Nature
+- Recover
+- Will-O-Wisp
+- Thunder Wave
+- Encore
+
+OU Usage (Seviper) @ Life Orb
+Ability: Infiltrator
+Level: 100
+EVs: 252 HP / 0 Atk / 92 Def / 0 SpA / 164 SpD / 0 Spe
+Bold Nature
+- Gunk Shot
+- Flamethrower
+- Glare
+- Earthquake
+
+OU Usage (Ogerpon) @ Life Orb
+Ability: Defiant
+Level: 100
+Tera Type: Grass
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Ivy Cudgel
+- Swords Dance
+- Knock Off
+- U-turn
+
+OU Usage (Typhlosion) @ Choice Scarf
+Ability: Flash Fire
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Eruption
+- Focus Blast
+- Burn Up
+- Shadow Ball
+
+OU Usage (Abomasnow-Mega) @ Abomasite
+Ability: Snow Warning
+Level: 100
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 6 SpD / 0 Spe
+Modest Nature
+- Blizzard
+- Giga Drain
+- Aurora Veil
+- Ice Shard
+
+OU Usage (Golurk) @ Choice Band
+Ability: No Guard
+Level: 100
+Tera Type: Fighting
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Earthquake
+- Poltergeist
+- Dynamic Punch
+- Stone Edge
+
+OU Usage (Volcanion) @ Heavy-Duty Boots
+Ability: Water Absorb
+Level: 100
+Tera Type: Ground
+EVs: 160 HP / 0 Atk / 100 Def / 0 SpA / 250 SpD / 0 Spe
+Modest Nature
+- Steam Eruption
+- Flamethrower
+- Earth Power
+- Defog
+
+OU Usage (Farigiraf) @ Choice Scarf
+Ability: Armor Tail
+Level: 100
+Tera Type: Fairy
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Twin Beam
+- Agility
+- Stored Power
+- Thunder Wave
+
+OU Usage (Scizor) @ Choice Band
+Ability: Technician
+Level: 100
+Tera Type: Steel
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Bullet Punch
+- U-turn
+- Swords Dance
+- Close Combat
+
+OU Usage (Persian) @ Life Orb
+Ability: Technician
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Fake Out
+- Aerial Ace
+- U-turn
+- Seed Bomb
+
+OU Usage (Nidoking) @ Life Orb
+Ability: Sheer Force
+Level: 100
+Tera Type: Poison
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Earth Power
+- Ice Beam
+- Sludge Wave
+- Flamethrower
+
+OU Usage (Zapdos) @ Heavy-Duty Boots
+Ability: Static
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Roost
+- Hurricane
+- Volt Switch
+- Defog
+
+OU Usage (Ninjask) @ Focus Sash
+Ability: Speed Boost
+Level: 100
+Tera Type: Flying
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Swords Dance
+- Leech Life
+- Acrobatics
+- Final Gambit
+
+OU Usage (Vivillon) @ Leftovers
+Ability: Compound Eyes
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Sleep Powder
+- Quiver Dance
+- Hurricane
+- Substitute
+
+OU Usage (Cyclizar) @ Life Orb
+Ability: Regenerator
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Knock Off
+- Rapid Spin
+- U-turn
+- Shift Gear
+
+OU Usage (Grumpig) @ Custap Berry
+Ability: Thick Fat
+Level: 100
+Tera Type: Ghost
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Psychic
+- Shadow Ball
+- Nasty Plot
+- Focus Blast
+
+OU Usage (Moltres) @ Heavy-Duty Boots
+Ability: Flame Body
+Level: 100
+Tera Type: Grass
+EVs: 248 HP / 0 Atk / 252 Def / 8 SpA / 0 SpD / 0 Spe
+Bold Nature
+- Roost
+- Defog
+- Flamethrower
+- U-turn
+
+OU Usage (Flareon) @ Heavy-Duty Boots
+Ability: Flash Fire
+Level: 100
+Tera Type: Grass
+EVs: 252 HP / 4 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Careful Nature
+- Flare Blitz
+- Wish
+- Superpower
+- Toxic
+
+OU Usage (Tornadus-Therian) @ Heavy-Duty Boots
+Ability: Regenerator
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 40 Def / 0 SpA / 0 SpD / 216 Spe
+Timid Nature
+- U-turn
+- Defog
+- Hurricane
+- Knock Off
+
+OU Usage (Garganacl) @ Leftovers
+Ability: Purifying Salt
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Careful Nature
+- Salt Cure
+- Recover
+- Body Press
+- Iron Defense
+
+OU Usage (Bombirdier) @ Loaded Dice
+Ability: Rocky Payload
+Level: 100
+Tera Type: Rock
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Knock Off
+- Brave Bird
+- U-turn
+- Rock Blast
+
+OU Usage (Sandy Shocks) @ Booster Energy
+Ability: Protosynthesis
+Level: 100
+Tera Type: Ice
+EVs: 48 HP / 0 Atk / 0 Def / 208 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Earth Power
+- Tera Blast
+- Thunderbolt
+- Volt Switch
+
+OU Usage (Chatot) @ Throat Spray
+Ability: Keen Eye
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Boomburst
+- Chatter
+- Nasty Plot
+- Heat Wave
+
+OU Usage (Delibird) @ Focus Sash
+Ability: Hustle
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Ice Shard
+- Spikes
+- Rapid Spin
+- Brave Bird
+
+OU Usage (Tinkaton) @ Leftovers
+Ability: Mold Breaker
+Level: 100
+Tera Type: Fairy
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Gigaton Hammer
+- Play Rough
+- Knock Off
+- Stealth Rock
+
+OU Usage (Charizard) @ Choice Scarf
+Ability: Solar Power
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Air Slash
+- Scorching Sands
+- Solar Beam
+- Flamethrower
+
+OU Usage (Salazzle) @ Black Sludge
+Ability: Corrosion
+Level: 100
+Tera Type: Flying
+EVs: 248 HP / 0 Atk / 0 Def / 8 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Toxic
+- Flamethrower
+- Substitute
+- Sludge Wave
+
+OU Usage (Magmortar) @ Choice Specs
+Ability: Vital Spirit
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Thunderbolt
+- Fire Blast
+- Scorching Sands
+- Focus Blast
+
+OU Usage (Muk-Alola) @ Assault Vest
+Ability: Poison Touch
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Knock Off
+- Poison Jab
+- Pursuit
+- Drain Punch
+
+OU Usage (Abomasnow) @ Focus Sash
+Ability: Snow Warning
+Level: 100
+Tera Type: Water
+EVs: 248 HP / 8 Atk / 0 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+- Aurora Veil
+- Blizzard
+- Giga Drain
+- Chilling Water
+
+OU Usage (Luxray) @ Flame Orb
+Ability: Guts
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Supercell Slam
+- Facade
+- Trailblaze
+- Psychic Fangs
+
+OU Usage (Beheeyem) @ Choice Specs
+Ability: Analytic
+Level: 100
+Tera Type: Dark
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Quiet Nature
+- Psychic
+- Shadow Ball
+- Thunderbolt
+- Recover
+
+OU Usage (Jellicent) @ Leftovers
+Ability: Water Absorb
+Level: 100
+Tera Type: Ground
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Strength Sap
+- Will-O-Wisp
+- Scald
+- Hex
+
+OU Usage (Mienshao) @ Life Orb
+Ability: Regenerator
+Level: 100
+Tera Type: Fighting
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- U-turn
+- Fake Out
+- Close Combat
+- Knock Off
+
+OU Usage (Ninetales-Alola) @ Light Clay
+Ability: Snow Warning
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Aurora Veil
+- Freeze-Dry
+- Encore
+- Moonblast
+
+OU Usage (Gogoat) @ Leftovers
+Ability: Sap Sipper
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Adamant Nature
+- Horn Leech
+- Earthquake
+- Bulk Up
+- Rock Slide
+
+OU Usage (Flygon) @ Leftovers
+Ability: Levitate
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Dragon Dance
+- Dragon Claw
+- U-turn
+
+OU Usage (Escavalier) @ Assault Vest
+Ability: Overcoat
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Megahorn
+- Iron Head
+- Drill Run
+- Close Combat
+
+OU Usage (Mabosstiff) @ Focus Sash
+Ability: Stakeout
+Level: 100
+Tera Type: Fairy
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Crunch
+- Destiny Bond
+- Comeuppance
+- Reversal
+
+OU Usage (Slither Wing) @ Silver Powder
+Ability: Protosynthesis
+Level: 100
+Tera Type: Bug
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Close Combat
+- First Impression
+- U-turn
+- Flare Blitz
+
+OU Usage (Sandaconda) @ Leftovers
+Ability: Shed Skin
+Level: 100
+Tera Type: Ground
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Earthquake
+- Glare
+- Stealth Rock
+- Rest
+
+OU Usage (Vikavolt) @ Heavy-Duty Boots
+Ability: Levitate
+Level: 100
+Tera Type: Electric
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Bug Buzz
+- Energy Ball
+- Thunderbolt
+- Volt Switch
+
+OU Usage (Kartana) @ Choice Scarf
+Ability: Beast Boost
+Level: 100
+Tera Type: Grass
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Leaf Blade
+- Sacred Sword
+- Knock Off
+- Smart Strike
+
+OU Usage (Lokix) @ Life Orb
+Ability: Tinted Lens
+Level: 100
+Tera Type: Bug
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Sucker Punch
+- First Impression
+- U-turn
+- Knock Off
+
+OU Usage (Mesprit) @ Leftovers
+Ability: Levitate
+Level: 100
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Calm Mind
+- Draining Kiss
+- Stored Power
+- Substitute
+
+OU Usage (Vileplume) @ Leftovers
+Ability: Effect Spore
+Level: 100
+Tera Type: Steel
+EVs: 136 HP / 0 Atk / 252 Def / 8 SpA / 48 SpD / 64 Spe
+Bold Nature
+- Strength Sap
+- Moonblast
+- Substitute
+- Infestation
+
+OU Usage (Magneton) @ Eviolite
+Ability: Magnet Pull
+Level: 100
+Tera Type: Flying
+EVs: 100 HP / 0 Atk / 0 Def / 224 SpA / 0 SpD / 184 Spe
+Modest Nature
+- Thunderbolt
+- Flash Cannon
+- Volt Switch
+- Tera Blast
+
+OU Usage (Slowking-Galar) @ Heavy-Duty Boots
+Ability: Regenerator
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Sassy Nature
+- Future Sight
+- Chilly Reception
+- Sludge Bomb
+- Flamethrower
+
+OU Usage (Ogerpon-Cornerstone) @ Cornerstone Mask
+Ability: Sturdy
+Level: 100
+Tera Type: Rock
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Ivy Cudgel
+- Swords Dance
+- Horn Leech
+- Power Whip
+
+OU Usage (Samurott-Hisui) @ Focus Sash
+Ability: Sharpness
+Level: 100
+Tera Type: Dark
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Ceaseless Edge
+- Razor Shell
+- Sacred Sword
+- Sucker Punch
+
+OU Usage (Azelf) @ Focus Sash
+Ability: Levitate
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Psychic
+- Explosion
+- Stealth Rock
+- Taunt
+
+OU Usage (Minior) @ White Herb
+Ability: Shields Down
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Shell Smash
+- Acrobatics
+- Earthquake
+- Stone Edge
+
+OU Usage (Volbeat) @ Leftovers
+Ability: Prankster
+Level: 100
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Thunder Wave
+- Encore
+- Defog
+- U-turn
+
+OU Usage (Iron Leaves) @ Booster Energy
+Ability: Quark Drive
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Psyblade
+- Leaf Blade
+- Swords Dance
+- Sacred Sword
+
+OU Usage (Archeops) @ Power Herb
+Ability: Defeatist
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Head Smash
+- Stealth Rock
+- Dual Wingbeat
+
+OU Usage (Bronzong) @ Leftovers
+Ability: Levitate
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 4 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Relaxed Nature
+- Stealth Rock
+- Gyro Ball
+- Toxic
+- Body Press
+
+OU Usage (Delcatty) @ Life Orb
+Ability: Normalize
+Level: 100
+Tera Type: Normal
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Sucker Punch
+- Fake Out
+- Thunder Wave
+- Double-Edge
+
+OU Usage (Mightyena) @ Life Orb
+Ability: Moxie
+Level: 100
+Tera Type: Flying
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Sucker Punch
+- Play Rough
+- Crunch
+- Trailblaze
+
+OU Usage (Barraskewda) @ Choice Band
+Ability: Swift Swim
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Close Combat
+- Liquidation
+- Flip Turn
+- Aqua Jet
+
+OU Usage (Wyrdeer) @ Leftovers
+Ability: Intimidate
+Level: 100
+Tera Type: Normal
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Tera Blast
+- Earth Power
+- Calm Mind
+- Body Slam
+
+OU Usage (Cottonee) @ Focus Sash
+Ability: Prankster
+Level: 100
+Tera Type: Steel
+EVs: 248 HP / 0 Atk / 252 Def / 0 SpA / 8 SpD / 0 Spe
+Bold Nature
+- Leech Seed
+- Toxic
+- Encore
+- Substitute
+
+OU Usage (Dragonair) @ Eviolite
+Ability: Shed Skin
+Level: 100
+Tera Type: Fairy
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Dragon Dance
+- Extreme Speed
+- Rest
+- Outrage
+
+OU Usage (Diggersby) @ Focus Sash
+Ability: Huge Power
+Level: 100
+Tera Type: Normal
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Earthquake
+- Quick Attack
+- Swords Dance
+- Ice Punch
+
+OU Usage (Latias-Mega) @ Latiasite
+Ability: Levitate
+Level: 100
+EVs: 248 HP / 0 Atk / 8 Def / 0 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Calm Mind
+- Roost
+- Stored Power
+- Recover
+
+OU Usage (Articuno-Galar) @ Choice Specs
+Ability: Competitive
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Hurricane
+- Freezing Glare
+- Tera Blast
+- Calm Mind
+
+OU Usage (Garchomp) @ Loaded Dice
+Ability: Rough Skin
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Swords Dance
+- Scale Shot
+- Stealth Rock
+
+OU Usage (Pincurchin) @ Terrain Extender
+Ability: Electric Surge
+Level: 100
+Tera Type: Electric
+EVs: 252 HP / 0 Atk / 252 Def / 4 SpA / 0 SpD / 0 Spe
+Bold Nature
+- Spikes
+- Rising Voltage
+- Toxic Spikes
+- Memento
+
+OU Usage (Mawile-Mega) @ Mawilite
+Ability: Huge Power
+Level: 100
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Play Rough
+- Sucker Punch
+- Swords Dance
+- Iron Head
+
+OU Usage (Appletun) @ Covert Cloak
+Ability: Thick Fat
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Apple Acid
+- Recover
+- Leech Seed
+- Dragon Pulse
+
+OU Usage (Kommo-o) @ Kommonium Z
+Ability: Bulletproof
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Clanging Scales
+- Flamethrower
+- Clangorous Soul
+- Boomburst
+
+OU Usage (Scrafty) @ Leftovers
+Ability: Intimidate
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Drain Punch
+- Knock Off
+- Bulk Up
+- Dragon Dance
+
+OU Usage (Lilligant) @ Focus Sash
+Ability: Own Tempo
+Level: 100
+Tera Type: Rock
+EVs: 4 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Quiver Dance
+- Petal Dance
+- Aromatherapy
+- Leech Seed
+
+OU Usage (Pidgeot-Mega) @ Pidgeotite
+Ability: No Guard
+Level: 100
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Hurricane
+- Heat Wave
+- U-turn
+- Roost
+
+OU Usage (Latias) @ Leftovers
+Ability: Levitate
+Level: 100
+Tera Type: Fairy
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Calm Mind
+- Stored Power
+- Agility
+- Draco Meteor
+
+OU Usage (Magmar) @ Eviolite
+Ability: Flame Body
+Level: 100
+Tera Type: Fire
+EVs: 72 HP / 12 Atk / 180 Def / 0 SpA / 164 SpD / 80 Spe
+Impish Nature
+- Toxic
+- Roar
+- Mach Punch
+- Will-O-Wisp
+
+OU Usage (Indeedee) @ Terrain Extender
+Ability: Psychic Surge
+Level: 100
+Tera Type: Psychic
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Expanding Force
+- Mystical Fire
+- Dazzling Gleam
+- Healing Wish
+
+OU Usage (Lucario) @ Focus Sash
+Ability: Inner Focus
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Extreme Speed
+- Close Combat
+- Swords Dance
+- Meteor Mash
+
+OU Usage (Tatsugiri) @ Heavy-Duty Boots
+Ability: Storm Drain
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Rapid Spin
+- Draco Meteor
+- Nasty Plot
+- Surf
+
+OU Usage (Silvally-Ghost) @ Ghost Memory
+Ability: RKS System
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Multi-Attack
+- Flame Charge
+- Swords Dance
+- X-Scissor
+
+OU Usage (Rampardos) @ Life Orb
+Ability: Sheer Force
+Level: 100
+Tera Type: Rock
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Head Smash
+- Earthquake
+- Fire Punch
+- Rock Slide
+
+OU Usage (Cinccino) @ Loaded Dice
+Ability: Technician
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Tail Slap
+- Rock Blast
+- Tidy Up
+- Bullet Seed
+
+OU Usage (Gallade-Mega) @ Galladite
+Ability: Inner Focus
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Psycho Cut
+- Close Combat
+- Swords Dance
+- Triple Axel
+
+OU Usage (Scolipede) @ Focus Sash
+Ability: Speed Boost
+Level: 100
+Tera Type: Rock
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Earthquake
+- Swords Dance
+- Megahorn
+- Poison Jab
+
+OU Usage (Serperior) @ Leftovers
+Ability: Contrary
+Level: 100
+Tera Type: Stellar
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Leaf Storm
+- Glare
+- Substitute
+- Tera Blast
+
+OU Usage (Glimmora) @ Focus Sash
+Ability: Toxic Debris
+Level: 100
+Tera Type: Grass
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Mortal Spin
+- Stealth Rock
+- Power Gem
+- Earth Power
+
+OU Usage (Pyukumuku) @ Leftovers
+Ability: Unaware
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Toxic
+- Recover
+- Soak
+- Counter
+
+OU Usage (Victini) @ Choice Scarf
+Ability: Victory Star
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- V-create
+- U-turn
+- Bolt Strike
+- Trick
+
+OU Usage (Staraptor) @ Choice Scarf
+Ability: Reckless
+Level: 100
+Tera Type: Fighting
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Brave Bird
+- Close Combat
+- U-turn
+- Double-Edge
+
+OU Usage (Moltres-Galar) @ Sitrus Berry
+Ability: Berserk
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Fiery Wrath
+- Nasty Plot
+- Agility
+- Hurricane
+
+OU Usage (Ludicolo) @ Life Orb
+Ability: Swift Swim
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Ice Beam
+- Giga Drain
+- Hydro Pump
+- Focus Blast
+
+OU Usage (Cloyster) @ Focus Sash
+Ability: Skill Link
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Shell Smash
+- Icicle Spear
+- Rock Blast
+- Liquidation
+
+OU Usage (Obstagoon) @ Flame Orb
+Ability: Guts
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Knock Off
+- Facade
+- Close Combat
+- Obstruct
+
+OU Usage (Munkidori) @ Choice Scarf
+Ability: Toxic Chain
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Psychic
+- U-turn
+- Focus Blast
+- Trick
+
+OU Usage (Gyarados-Mega) @ Gyaradosite
+Ability: Mold Breaker
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Dragon Dance
+- Waterfall
+- Crunch
+- Earthquake
+
+OU Usage (Silvally-Dragon) @ Dragon Memory
+Ability: RKS System
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Thunderbolt
+- Multi-Attack
+- Parting Shot
+- Flamethrower
+
+OU Usage (Salamence) @ Heavy-Duty Boots
+Ability: Moxie
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Earthquake
+- Dragon Dance
+- Outrage
+- Dual Wingbeat
+
+OU Usage (Arctozolt) @ Life Orb
+Ability: Slush Rush
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 252 Atk / 0 Def / 4 SpA / 0 SpD / 252 Spe
+Naive Nature
+- Bolt Beak
+- Icicle Crash
+- Stomping Tantrum
+- Low Kick
+
+OU Usage (Falinks) @ Life Orb
+Ability: Defiant
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- No Retreat
+- Iron Head
+- Rock Slide
+
+OU Usage (Haxorus) @ Loaded Dice
+Ability: Mold Breaker
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- Dragon Dance
+- Iron Head
+- Outrage
+
+OU Usage (Garbodor) @ Wide Lens
+Ability: Aftermath
+Level: 100
+Tera Type: Ground
+EVs: 252 HP / 0 Atk / 132 Def / 0 SpA / 124 SpD / 0 Spe
+Adamant Nature
+- Gunk Shot
+- Explosion
+- Drain Punch
+- Toxic Spikes
+
+OU Usage (Marowak) @ Thick Club
+Ability: Rock Head
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Earthquake
+- Knock Off
+- Bonemerang
+- Fire Punch
+
+OU Usage (Glaceon) @ Assault Vest
+Ability: Ice Body
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Freeze-Dry
+- Ice Beam
+- Shadow Ball
+- Tera Blast
+
+OU Usage (Steelix-Mega) @ Steelixite
+Ability: Sand Force
+Level: 100
+EVs: 248 HP / 0 Atk / 216 Def / 0 SpA / 0 SpD / 44 Spe
+Impish Nature
+- Earthquake
+- Heavy Slam
+- Body Press
+- Stealth Rock
+
+OU Usage (Okidogi) @ Leftovers
+Ability: Toxic Chain
+Level: 100
+Tera Type: Dark
+EVs: 252 HP / 76 Atk / 0 Def / 0 SpA / 180 SpD / 0 Spe
+Adamant Nature
+- Drain Punch
+- Bulk Up
+- Knock Off
+- Poison Jab
+
+OU Usage (Darkrai) @ Choice Specs
+Ability: Bad Dreams
+Level: 100
+Tera Type: Dark
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Dark Pulse
+- Nasty Plot
+- Sludge Bomb
+- Focus Blast
+
+OU Usage (Coalossal) @ Heavy-Duty Boots
+Ability: Steam Engine
+Level: 100
+Tera Type: Water
+EVs: 248 HP / 8 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Impish Nature
+- Rapid Spin
+- Stealth Rock
+- Flamethrower
+- Power Gem
+
+OU Usage (Mew) @ Leftovers
+Ability: Synchronize
+Level: 100
+Tera Type: Poison
+EVs: 240 HP / 0 Atk / 0 Def / 0 SpA / 184 SpD / 84 Spe
+Timid Nature
+- Stored Power
+- Cosmic Power
+- Roost
+- Body Press
+
+OU Usage (Hippowdon) @ Smooth Rock
+Ability: Sand Stream
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Careful Nature
+- Slack Off
+- Earthquake
+- Stealth Rock
+- Toxic
+
+OU Usage (Centiskorch) @ Heavy-Duty Boots
+Ability: Flash Fire
+Level: 100
+Tera Type: Steel
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Fire Lash
+- Leech Life
+- Coil
+- Power Whip
+
+OU Usage (Bellossom) @ Rocky Helmet
+Ability: Chlorophyll
+Level: 100
+Tera Type: Poison
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 4 Spe
+Bold Nature
+- Quiver Dance
+- Giga Drain
+- Strength Sap
+- Sludge Bomb
+
+OU Usage (Blissey) @ Leftovers
+Ability: Natural Cure
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Seismic Toss
+- Soft-Boiled
+- Toxic
+- Teleport
+
+OU Usage (Brambleghast) @ Heavy-Duty Boots
+Ability: Wind Rider
+Level: 100
+Tera Type: Fighting
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Poltergeist
+- Rapid Spin
+- Power Whip
+- Shadow Sneak
+
+OU Usage (Ampharos-Mega) @ Ampharosite
+Ability: Mold Breaker
+Level: 100
+EVs: 248 HP / 0 Atk / 0 Def / 252 SpA / 8 SpD / 0 Spe
+Modest Nature
+- Dragon Pulse
+- Thunderbolt
+- Volt Switch
+- Dazzling Gleam
+
+OU Usage (Metagross) @ Assault Vest
+Ability: Clear Body
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Psychic Fangs
+- Earthquake
+- Bullet Punch
+- Heavy Slam
+
+OU Usage (Pinsir-Mega) @ Pinsirite
+Ability: Aerilate
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Quick Attack
+- Swords Dance
+- Return
+- Close Combat
+
+OU Usage (Iron Jugulis) @ Booster Energy
+Ability: Quark Drive
+Level: 100
+Tera Type: Dark
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Dark Pulse
+- Earth Power
+- Hurricane
+- Air Slash
+
+OU Usage (Armarouge) @ Weakness Policy
+Ability: Weak Armor
+Level: 100
+Tera Type: Grass
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Armor Cannon
+- Endure
+- Expanding Force
+- Calm Mind
+
+OU Usage (Delphox) @ White Herb
+Ability: Blaze
+Level: 100
+Tera Type: Fairy
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Psyshock
+- Nasty Plot
+- Fire Blast
+- Flamethrower
+
+OU Usage (Pelipper) @ Damp Rock
+Ability: Drizzle
+Level: 100
+Tera Type: Ground
+EVs: 248 HP / 0 Atk / 252 Def / 0 SpA / 8 SpD / 0 Spe
+Bold Nature
+- U-turn
+- Hurricane
+- Roost
+- Defog
+
+OU Usage (Avalugg) @ Leftovers
+Ability: Sturdy
+Level: 100
+Tera Type: Fighting
+EVs: 252 HP / 4 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Relaxed Nature
+- Body Press
+- Recover
+- Avalanche
+- Rapid Spin
+
+OU Usage (Talonflame) @ Heavy-Duty Boots
+Ability: Gale Wings
+Level: 100
+Tera Type: Flying
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Brave Bird
+- Flare Blitz
+- Defog
+- U-turn
+
+OU Usage (Swalot) @ Leftovers
+Ability: Liquid Ooze
+Level: 100
+Tera Type: Grass
+EVs: 252 HP / 4 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Careful Nature
+- Toxic
+- Gunk Shot
+- Knock Off
+- Encore
+
+OU Usage (Basculegion) @ Choice Band
+Ability: Swift Swim
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Wave Crash
+- Aqua Jet
+- Flip Turn
+- Phantom Force
+
+OU Usage (Meganium) @ Leftovers
+Ability: Overgrow
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 128 Def / 0 SpA / 128 SpD / 0 Spe
+Careful Nature
+- Synthesis
+- Aromatherapy
+- Leech Seed
+- Giga Drain
+
+OU Usage (Ceruledge) @ Focus Sash
+Ability: Weak Armor
+Level: 100
+Tera Type: Ghost
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Bitter Blade
+- Swords Dance
+- Poltergeist
+- Shadow Sneak
+
+OU Usage (Barbaracle) @ Focus Sash
+Ability: Tough Claws
+Level: 100
+Tera Type: Rock
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Shell Smash
+- Liquidation
+- Poison Jab
+- Brick Break
+
+OU Usage (Drampa) @ Leftovers
+Ability: Berserk
+Level: 100
+Tera Type: Normal
+EVs: 252 HP / 0 Atk / 4 Def / 252 SpA / 0 SpD / 0 Spe
+Modest Nature
+- Hyper Voice
+- Flamethrower
+- Roost
+- Dragon Pulse
+
+OU Usage (Lopunny-Mega) @ Lopunnite
+Ability: Scrappy
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Fake Out
+- Close Combat
+- U-turn
+- Return
+
+OU Usage (Gouging Fire) @ Heavy-Duty Boots
+Ability: Protosynthesis
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Earthquake
+- Dragon Dance
+- Flare Blitz
+- Outrage
+
+OU Usage (Chandelure) @ Choice Scarf
+Ability: Flash Fire
+Level: 100
+Tera Type: Grass
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Shadow Ball
+- Energy Ball
+- Flamethrower
+- Trick
+
+OU Usage (Orthworm) @ Leftovers
+Ability: Earth Eater
+Level: 100
+Tera Type: Electric
+EVs: 252 HP / 4 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Impish Nature
+- Body Press
+- Coil
+- Heavy Slam
+- Iron Head
+
+OU Usage (Camerupt-Mega) @ Cameruptite
+Ability: Sheer Force
+Level: 100
+EVs: 248 HP / 0 Atk / 0 Def / 252 SpA / 8 SpD / 0 Spe
+Modest Nature
+- Earth Power
+- Fire Blast
+- Ancient Power
+- Flash Cannon
+
+OU Usage (Ribombee) @ Focus Sash
+Ability: Shield Dust
+Level: 100
+Tera Type: Ghost
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Sticky Web
+- Moonblast
+- Stun Spore
+- Skill Swap
+
+OU Usage (Ursaring) @ Eviolite
+Ability: Guts
+Level: 100
+Tera Type: Fairy
+EVs: 248 HP / 148 Atk / 56 Def / 0 SpA / 56 SpD / 0 Spe
+Adamant Nature
+- Earthquake
+- Close Combat
+- Swords Dance
+- Return
+
+OU Usage (Tyrantrum) @ Weakness Policy
+Ability: Rock Head
+Level: 100
+Tera Type: Rock
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Head Smash
+- Earthquake
+- Dragon Dance
+- Ice Fang
+
+OU Usage (Gardevoir) @ Choice Scarf
+Ability: Trace
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Moonblast
+- Mystical Fire
+- Psyshock
+- Psychic
+
+OU Usage (Deoxys-Defense) @ Leftovers
+Ability: Pressure
+Level: 100
+Tera Type: Poison
+EVs: 248 HP / 8 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Careful Nature
+- Recover
+- Stealth Rock
+- Spikes
+- Taunt
+
+OU Usage (Medicham-Mega) @ Medichamite
+Ability: Pure Power
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Fake Out
+- Zen Headbutt
+- Bullet Punch
+
+OU Usage (Avalugg-Hisui) @ Heavy-Duty Boots
+Ability: Sturdy
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 4 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Impish Nature
+- Body Press
+- Rapid Spin
+- Recover
+- Avalanche
+
+OU Usage (Simisear) @ Choice Specs
+Ability: Blaze
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Grass Knot
+- Fire Blast
+- Focus Blast
+- Overheat
+
+OU Usage (Stunfisk) @ Leftovers
+Ability: Static
+Level: 100
+Tera Type: Poison
+EVs: 252 HP / 0 Atk / 148 Def / 0 SpA / 108 SpD / 0 Spe
+Bold Nature
+- Stealth Rock
+- Earth Power
+- Toxic
+- Endeavor
+
+OU Usage (Combusken) @ Firium Z
+Ability: Speed Boost
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Swords Dance
+- Close Combat
+- Flare Blitz
+- Endure
+
+OU Usage (Castform) @ Choice Scarf
+Ability: Forecast
+Level: 100
+Tera Type: Electric
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Weather Ball
+- Energy Ball
+- Hurricane
+- Ice Beam
+
+OU Usage (Polteageist) @ Focus Sash
+Ability: Weak Armor
+Level: 100
+Tera Type: Fighting
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Shell Smash
+- Shadow Ball
+- Stored Power
+- Tera Blast
+
+OU Usage (Weezing-Galar) @ Black Sludge
+Ability: Levitate
+Level: 100
+Tera Type: Steel
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Strange Steam
+- Will-O-Wisp
+- Defog
+- Pain Split
+
+OU Usage (Pidgeot) @ Heavy-Duty Boots
+Ability: Keen Eye
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- U-turn
+- Defog
+- Brave Bird
+- Tailwind
+
+OU Usage (Kingler) @ Life Orb
+Ability: Sheer Force
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Liquidation
+- Rock Slide
+- Agility
+- X-Scissor
+
+OU Usage (Fearow) @ Razor Claw
+Ability: Sniper
+Level: 100
+Tera Type: Normal
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Drill Run
+- Drill Peck
+- Defog
+- Focus Energy
+
+OU Usage (Arboliva) @ Sitrus Berry
+Ability: Seed Sower
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 0 Spe
+Modest Nature
+- Giga Drain
+- Leech Seed
+- Hyper Voice
+- Earth Power
+
+OU Usage (Swampert) @ Leftovers
+Ability: Torrent
+Level: 100
+Tera Type: Grass
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Earthquake
+- Flip Turn
+- Stealth Rock
+- Yawn
+
+OU Usage (Aerodactyl-Mega) @ Aerodactylite
+Ability: Tough Claws
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Dual Wingbeat
+- Earthquake
+- Stone Edge
+- Dragon Dance
+
+OU Usage (Rapidash) @ Life Orb
+Ability: Flash Fire
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Flare Blitz
+- Wild Charge
+- High Horsepower
+- Swords Dance
+
+OU Usage (Naclstack) @ Eviolite
+Ability: Purifying Salt
+Level: 100
+Tera Type: Dragon
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Careful Nature
+- Salt Cure
+- Recover
+- Body Press
+- Stealth Rock
+
+OU Usage (Iron Boulder) @ Booster Energy
+Ability: Quark Drive
+Level: 100
+Tera Type: Rock
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Mighty Cleave
+- Swords Dance
+- Close Combat
+- Earthquake
+
+OU Usage (Electivire) @ Life Orb
+Ability: Motor Drive
+Level: 100
+Tera Type: Flying
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Ice Punch
+- Supercell Slam
+- Earthquake
+- Bulk Up
+
+OU Usage (Suicune) @ Leftovers
+Ability: Pressure
+Level: 100
+Tera Type: Fairy
+EVs: 252 HP / 0 Atk / 40 Def / 0 SpA / 0 SpD / 216 Spe
+Bold Nature
+- Scald
+- Calm Mind
+- Substitute
+- Ice Beam
+
+OU Usage (Victreebel) @ Life Orb
+Ability: Chlorophyll
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Weather Ball
+- Growth
+- Sludge Bomb
+- Giga Drain
+
+OU Usage (Donphan) @ Leftovers
+Ability: Sturdy
+Level: 100
+Tera Type: Ground
+EVs: 252 HP / 252 Atk / 4 Def / 0 SpA / 0 SpD / 0 Spe
+Adamant Nature
+- Rapid Spin
+- Earthquake
+- Ice Shard
+- Stealth Rock
+
+OU Usage (Gastrodon) @ Leftovers
+Ability: Storm Drain
+Level: 100
+Tera Type: Fire
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Calm Nature
+- Recover
+- Scald
+- Earth Power
+- Toxic
+
+OU Usage (Thundurus-Therian) @ Heavy-Duty Boots
+Ability: Volt Absorb
+Level: 100
+Tera Type: Flying
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Thunderbolt
+- Volt Switch
+- Focus Blast
+- Nasty Plot
+
+OU Usage (Carnivine) @ Leftovers
+Ability: Levitate
+Level: 100
+Tera Type: Grass
+EVs: 0 HP / 0 Atk / 252 Def / 4 SpA / 252 SpD / 0 Spe
+Modest Nature
+- Leech Seed
+- Sleep Powder
+- Giga Drain
+- Sludge Bomb
+
+OU Usage (Shaymin) @ Leftovers
+Ability: Natural Cure
+Level: 100
+Tera Type: Ground
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Seed Flare
+- Leech Seed
+- Air Slash
+- Substitute
+
+OU Usage (Tyranitar) @ Assault Vest
+Ability: Sand Stream
+Level: 100
+Tera Type: Ghost
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Pursuit
+- Stone Edge
+- Knock Off
+- Earthquake
+
+OU Usage (Passimian) @ Choice Scarf
+Ability: Defiant
+Level: 100
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Close Combat
+- Knock Off
+- U-turn
+- Earthquake
+
+OU Usage (Indeedee-F) @ Terrain Extender
+Ability: Psychic Surge
+Level: 100
+Tera Type: Psychic
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Expanding Force
+- Hyper Voice
+- Healing Wish
+- Dazzling Gleam
+
+OU Usage (Kricketune) @ Focus Sash
+Ability: Technician
+Level: 100
+Tera Type: Bug
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+- Sticky Web
+- Knock Off
+- Taunt
+- Pounce
+
+OU Usage (Miltank) @ Leftovers
+Ability: Thick Fat
+Level: 100
+Tera Type: Normal
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Impish Nature
+- Milk Drink
+- Body Slam
+- Heal Bell
+- Toxic
+
+OU Usage (Accelgor) @ Choice Scarf
+Ability: Unburden
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 0 Def / 4 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Final Gambit
+- Bug Buzz
+- Knock Off
+- Spikes
+
+OU Usage (Hoopa) @ 
+Ability: Magician
+Level: 100
+Tera Type: Grass
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 0 Spe
+Modest Nature
+- Shadow Ball
+- Psychic
+- Dark Pulse
+- Focus Blast
+
+OU Usage (Gourgeist-Super) @ Leftovers
+Ability: Frisk
+Level: 100
+Tera Type: Fire
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Poltergeist
+- Power Whip
+- Leech Seed
+- Will-O-Wisp
+
+OU Usage (Dewgong) @ Leftovers
+Ability: Thick Fat
+Level: 100
+Tera Type: Poison
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Flip Turn
+- Triple Axel
+- Perish Song
+- Curse
+
+OU Usage (Kecleon) @ Leftovers
+Ability: Protean
+Level: 100
+Tera Type: Normal
+EVs: 236 HP / 36 Atk / 236 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+- Shadow Sneak
+- Drain Punch
+- Sucker Punch
+- Knock Off
+
+OU Usage (Shiftry) @ Focus Sash
+Ability: Wind Rider
+Level: 100
+Tera Type: Fighting
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+- Knock Off
+- Tailwind
+- Leaf Blade
+- Explosion
+
+OU Usage (Misdreavus) @ Eviolite
+Ability: Levitate
+Level: 100
+Tera Type: Fire
+EVs: 252 HP / 0 Atk / 128 Def / 0 SpA / 128 SpD / 0 Spe
+Bold Nature
+- Pain Split
+- Perish Song
+- Mean Look
+- Hex
+
+OU Usage (Cryogonal) @ Heavy-Duty Boots
+Ability: Levitate
+Level: 100
+Tera Type: Ice
+EVs: 248 HP / 0 Atk / 0 Def / 8 SpA / 0 SpD / 252 Spe
+Timid Nature
+- Freeze-Dry
+- Rapid Spin
+- Recover
+- Haze
+
+OU Usage (Decidueye-Hisui) @ Leftovers
+Ability: Scrappy
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Adamant Nature
+- Triple Arrows
+- Leaf Blade
+- Trailblaze
+- Close Combat
+
+OU Usage (Regigigas) @ Leftovers
+Ability: Slow Start
+Level: 100
+Tera Type: Normal
+EVs: 248 HP / 0 Atk / 0 Def / 0 SpA / 8 SpD / 252 Spe
+Jolly Nature
+- Power-Up Punch
+- Substitute
+- Facade
+- Mud-Slap
+
+OU Usage (Corsola-Galar) @ Eviolite
+Ability: Cursed Body
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+- Strength Sap
+- Will-O-Wisp
+- Night Shade
+- Stealth Rock
+
+OU Usage (Iron Moth) @ Booster Energy
+Ability: Quark Drive
+Level: 100
+Tera Type: Grass
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Sludge Wave
+- Fiery Dance
+- Energy Ball
+- Tera Blast
+
+OU Usage (Great Tusk) @ Leftovers
+Ability: Protosynthesis
+Level: 100
+Tera Type: Steel
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Rapid Spin
+- Ice Spinner
+- Headlong Rush
+- Close Combat
+
+OU Usage (Regice) @ Leftovers
+Ability: Ice Body
+Level: 100
+Tera Type: Electric
+EVs: 252 HP / 0 Atk / 180 Def / 0 SpA / 76 SpD / 0 Spe
+Bold Nature
+- Ice Beam
+- Thunderbolt
+- Thunder Wave
+- Aurora Veil
+
+OU Usage (Armaldo) @ Rocky Helmet
+Ability: Battle Armor
+Level: 100
+Tera Type: Water
+EVs: 252 HP / 4 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Impish Nature
+- Rapid Spin
+- Stone Edge
+- Stealth Rock
+- Earthquake
+
+OU Usage (Espeon) @ Choice Specs
+Ability: Magic Bounce
+Level: 100
+Tera Type: Fire
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Psychic
+- Shadow Ball
+- Trick
+- Dazzling Gleam
+
+OU Usage (Zarude) @ Leftovers
+Ability: Leaf Guard
+Level: 100
+Tera Type: Rock
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Power Whip
+- Crunch
+- Bulk Up
+- Jungle Healing
+
+OU Usage (Ferroseed) @ Eviolite
+Ability: Iron Barbs
+Level: 100
+Tera Type: Grass
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Relaxed Nature
+- Leech Seed
+- Gyro Ball
+- Spikes
+- Knock Off
+
+OU Usage (Maushold) @ Wide Lens
+Ability: Technician
+Level: 100
+Tera Type: Normal
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Jolly Nature
+- Population Bomb
+- Tidy Up
+- Bite
+- Encore
+
+OU Usage (Lickilicky) @ Leftovers
+Ability: Cloud Nine
+Level: 100
+Tera Type: Fairy
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Adamant Nature
+- Wish
+- Body Slam
+- Explosion
+- Earthquake
+
+OU Usage (Wishiwashi) @ Leftovers
+Ability: Schooling
+Level: 100
+Tera Type: Ground
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
+Adamant Nature
+- Flip Turn
+- Earthquake
+- Ice Beam
+- Liquidation
+
+OU Usage (Samurott) @ Life Orb
+Ability: Torrent
+Level: 100
+Tera Type: Bug
+EVs: 80 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 176 Spe
+Adamant Nature
+- Aqua Jet
+- Ice Beam
+- Hydro Pump
+- Megahorn
+
+OU Usage (Hitmontop) @ Assault Vest
+Ability: Technician
+Level: 100
+Tera Type: Normal
+EVs: 248 HP / 252 Atk / 0 Def / 0 SpA / 8 SpD / 0 Spe
+Adamant Nature
+- Rapid Spin
+- Triple Axel
+- Mach Punch
+- Fake Out
+
+OU Usage (Kingdra) @ Choice Specs
+Ability: Swift Swim
+Level: 100
+Tera Type: Water
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Draco Meteor
+- Surf
+- Hurricane
+- Hydro Pump
+

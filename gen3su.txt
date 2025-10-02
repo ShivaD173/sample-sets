@@ -1,0 +1,789 @@
+Tank (Aron) @ Leftovers  
+Ability: Rock Head  
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature  
+- Double-Edge  
+- Earthquake  
+- Rock Slide / Toxic
+- Protect / Toxic
+
+Dragon Dance (Bagon) @ Lum Berry
+Ability: Rock Head
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Dragon Dance
+- Double-Edge
+- Brick Break
+- Hydro Pump / Hidden Power Ghost
+
+Utility (Baltoy) @ Leftovers
+Ability: Levitate
+EVs: 252 HP / 252 Def / 4 SpD
+Impish Nature
+- Earthquake
+- Toxic
+- Protect
+- Explosion
+
+Wall (Bayleef) @ Leftovers
+Ability: Overgrow
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Hidden Power Grass
+- Leech Seed
+- Toxic
+- Synthesis
+
+Salac Sweeper (Beautifly) @ Salac Berry
+Ability: Swarm
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Hidden Power Bug
+- Aerial Ace
+- Substitute
+- Stun Spore / Giga Drain
+
+Utility (Butterfree) @ Leftovers
+Ability: Compound Eyes
+EVs: 252 HP / 4 SpA / 252 Spe
+Timid Nature
+- Psychic
+- Stun Spore / Hidden Power Water
+- Toxic
+- Morning Sun
+
+Spikes (Cacnea) @ Leftovers
+Ability: Sand Veil
+EVs: 252 HP / 4 Def / 252 SpD
+Calm Nature
+- Spikes
+- Giga Drain / Needle Arm
+- Leech Seed
+- Protect
+
+Utility (Clefairy) @ Leftovers  
+Ability: Cute Charm  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Seismic Toss / Thunderbolt
+- Ice Beam
+- Soft-Boiled / Wish
+- Thunder Wave / Toxic / Protect
+
+Calm Mind (Clefairy) @ Leftovers  
+Ability: Cute Charm  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Ice Beam  
+- Thunderbolt
+- Soft-Boiled / Rest
+
+Cosmic Power (Clefairy) @ Leftovers  
+Ability: Cute Charm  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Cosmic Power  
+- Rest  
+- Seismic Toss  
+- Toxic
+
+Defensive (Croconaw) @ Leftovers  
+Ability: Torrent  
+EVs: 252 HP / 252 Def / 4 SpD
+Bold
+IVs: 0 Atk  
+- Surf  
+- Toxic / Seismic Toss
+- Ice Beam / Hidden Power Grass
+- Protect  
+
+Torrent Sweeper (Croconaw) @ Salac Berry  
+Ability: Torrent  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Substitute  
+- Surf / Hydro Pump
+- Ice Beam  
+- Hidden Power Grass
+
+Swords Dance (Croconaw) @ Leftovers  
+Ability: Torrent  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Naive Nature  
+- Swords Dance  
+- Double-Edge / Return
+- Brick Break  
+- Surf / Hydro Pump
+
+Lead (Cyndaquil) @ Salac Berry
+Ability: Blaze
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 2 Atk / 30 SpA
+Hasty Nature
+- Fire Blast
+- Hidden Power Grass
+- Quick Attack
+- Endure
+
+Substitute (Cyndaquil) @ Leftovers
+Ability: Blaze
+EVs: 4 Def / 252 SpA / 252 Spe
+IVs: 2 Atk / 30 SpA
+Timid Nature
+- Fire Blast
+- Hidden Power Grass
+- Substitute
+- Toxic
+
+Wallbreaker (Cyndaquil) @ Charcoal
+Ability: Blaze  
+EVs: 4 Atk / 252 SpA / 252 Spe
+IVs: 2 Atk / 30 SpA
+Hasty Nature  
+- Fire Blast  
+- Overheat 
+- Hidden Power Grass
+- Quick Attack
+
+Sub Attacker (Delibird) @ Leftovers  
+Ability: Hustle  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Substitute  
+- Aerial Ace  
+- Ice Beam  
+- Hidden Power [Ground] / Hidden Power [Fighting] / Focus Punch
+
+Choice Band (Delibird) @ Choice Band  
+Ability: Hustle  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Aerial Ace  
+- Ice Beam  
+- Hidden Power [Ground] / Hidden Power [Fighting]
+- Quick Attack  
+
+Dragon Dance (Dratini) @ Leftovers
+Ability: Shed Skin
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature / Jolly Nature
+- Dragon Dance
+- Double-Edge
+- Hidden Power Ground
+- Iron Tail / Rest
+
+Special Attacker (Dratini) @ Leftovers
+Ability: Shed Skin
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature
+- Ice Beam
+- Thunderbolt
+- Fire Blast
+- Thunder Wave / Agility
+
+Specially Defensive (Dratini) @ Leftovers
+Ability: Shed Skin
+EVs: 252 HP / 4 Def / 252 SpD
+IVs: 0 Atk
+Calm Nature
+- Ice Beam
+- Thunderbolt
+- Thunder Wave
+- Rest
+
+Special Wall (Dustox) @ Leftovers  
+Ability: Shield Dust  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful / Calm Nature  
+- Toxic  
+- Moonlight  
+- Sludge Bomb / Psychic
+- Protect / Whirlwind
+
+Wall (Exeggcute) @ Leftovers
+Ability: Chlorophyll
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature
+- Psychic
+- Giga Drain / Leech Seed
+- Stun Spore / Toxic
+- Synthesis
+
+Sun Sweeper (Exeggcute) @ Lum Berry
+Ability: Chlorophyll
+EVs: 56 HP / 252 SpA / 200 Spe
+Modest Nature / Mild Nature
+- Sunny Day
+- Solar Beam
+- Hidden Power Fire
+- Synthesis / Psychic / Explosion
+
+Flail Sweeper (Farfetch'd) @ Salac Berry
+Ability: Inner Focus
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Swords Dance
+- Flail
+- Substitute
+- Hidden Power Ground / Quick Attack
+
+Swords Dance (Farfetch'd) @ Lum Berry
+Ability: Inner Focus
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Swords Dance
+- Double-Edge / Return
+- Quick Attack
+- Hidden Power Ground / Substitute
+
+Offensive (Geodude) @ Leftovers
+Ability: Rock Head
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature
+- Earthquake
+- Rock Slide / Double-Edge
+- Toxic / Explosion
+- Substitute / Protect
+
+Curse RestTalk (Grimer) @ Leftovers  
+Ability: Sticky Hold  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Sludge Bomb  
+- Curse  
+- Rest  
+- Sleep Talk
+
+Offensive (Grimer) @ Leftovers  
+Ability: Sticky Hold  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Sludge Bomb  
+- Hidden Power [Ground]  
+- Explosion  
+- Curse
+
+Agility Sweeper (Growlithe) @ Petaya Berry
+Ability: Intimidate / Flash Fire
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Agility
+- Fire Blast
+- Hidden Power Grass
+- Substitute / Crunch
+
+Lead (Growlithe) @ Lum Berry
+Ability: Intimidate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Overheat
+- Flamethrower / Fire Blast
+- Hidden Power Grass
+- Toxic / Crunch
+
+Rain Sweeper (Horsea) @ Mystic Water
+Ability: Swift Swim
+EVs: 4 HP / 252 SpA / 252 Spe
+Modest Nature
+- Rain Dance
+- Hydro Pump
+- Ice Beam
+- Hidden Power Grass
+
+Offensive (Illumise) @ Leftovers
+Ability: Oblivious
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Thunderbolt
+- Ice Punch
+- Moonlight
+- Baton Pass / Thunder Wave / Encore / Quick Attack
+
+Utility Pivot (Illumise) @ Leftovers
+Ability: Oblivious
+EVs: 252 HP / 4 SpD / 252 Spe
+Timid Nature
+- Seismic Toss / Thunderbolt
+- Baton Pass
+- Moonlight / Wish
+- Encore / Thunder Wave / Protect
+
+Growth (Illumise) @ Lum Berry
+Ability: Oblivious
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Growth
+- Thunderbolt
+- Ice Punch
+- Moonlight / Encore
+
+Choice Band (Kabuto) @ Choice Band
+Ability: Swift Swim
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Rock Slide
+- Hidden Power Ground
+- Double-Edge
+- Aerial Ace
+
+Rain Sweeper (Kabuto) @ Lum Berry
+Ability: Swift Swim
+EVs: 180 HP / 252 Atk / 76 Spe
+Naughty Nature
+- Rain Dance
+- Rock Slide
+- Surf
+- Hidden Power Flying
+
+Support (Kirlia) @ Leftovers
+Ability: Trace
+EVs: 252 HP / 4 Def / 252 Spe
+Timid Nature
+- Memento
+- Light Screen
+- Reflect
+- Psychic / Taunt
+
+Dragon Dance (Larvitar) @ Leftovers
+Ability: Guts
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Dragon Dance
+- Earthquake
+- Rock Slide
+- Hidden Power Bug / Protect
+
+Rain Sweeper (Lombre) @ Mystic Water
+Ability: Swift Swim  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Rain Dance  
+- Hydro Pump / Surf
+- Ice Beam  
+- Giga Drain / Hidden Power [Grass]
+
+Defensive (Lombre) @ Leftovers  
+Ability: Swift Swim / Rain Dish
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Surf  
+- Leech Seed  
+- Toxic  
+- Synthesis
+
+Substitute (Loudred) @ Leftovers
+Ability: Soundproof
+EVs: 220 HP / 252 Atk / 36 SpD
+Adamant Nature
+- Substitute
+- Return
+- Earthquake
+- Toxic
+
+Toxic (Luvdisc) @ Leftovers  
+Ability: Swift Swim  
+EVs: 252 HP / 96 SpD / 160 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Toxic
+- Surf  
+- Substitute / Ice Beam
+- Protect  
+
+Petaya Sweeper (Luvdisc) @ Petaya Berry
+Ability: Swift Swim  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Substitute 
+- Surf  
+- Ice Beam
+- Hidden Power Grass
+
+Bulk Up (Machop) @ Leftovers
+Ability: Guts
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Bulk Up
+- Cross Chop / Brick Break
+- Rock Slide
+- Earthquake
+
+Choice Band (Machop) @ Choice Band
+Ability: Guts
+EVs: 252 HP / 252 Atk / 4 SpD
+Adamant Nature
+- Cross Chop / Brick Break
+- Rock Slide
+- Earthquake
+- Hidden Power Flying
+
+Choice Band (Mankey) @ Choice Band  
+Ability: Vital Spirit  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Cross Chop  
+- Rock Slide  
+- Earthquake  
+- Hidden Power [Flying]
+
+Salac Sweeper (Mankey) @ Salac Berry  
+Ability: Vital Spirit  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Substitute  
+- Reversal  
+- Earthquake / Rock Slide
+- Bulk Up
+
+Cleric (Mareep) @ Leftovers
+Ability: Static
+EVs: 252 HP / 252 SpA / 4 SpD
+IVs: 2 Atk / 30 SpA
+Modest Nature
+- Thunderbolt
+- Heal Bell
+- Hidden Power Ice / Hidden Power Water
+- Thunder Wave / Toxic / Protect
+
+Agility Sweeper (Masquerain) @ Petaya Berry
+Ability: Intimidate
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid / Modest Nature
+- Agility
+- Hydro Pump
+- Giga Drain / Ice Beam
+- Substitute / Ice Beam
+
+Choice Band (Meowth) @ Choice Band
+Ability: Pickup
+EVs: 4 HP / 252 Atk / 252 Spe
+Jolly Nature
+- Double-Edge
+- Hidden Power Ground
+- Shadow Ball
+- Fake Out / Return
+
+Fast Attacker (Meowth) @ Silk Scarf
+Ability: Pickup  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Fake Out  
+- Double-Edge  
+- Hidden Power [Ground]  
+- Substitute / Return
+
+Lead (Meowth) @ Silk Scarf 
+Ability: Pickup  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Fake Out  
+- Double-Edge  
+- Hidden Power [Water]  
+- Taunt
+
+SubToxic (Natu) @ Leftovers
+Ability: Synchronize
+EVs: 12 HP / 244 SpA / 252 Spe
+Timid Nature
+- Psychic
+- Substitute
+- Toxic
+- Protect
+
+Choice Band (Nidorino) @ Choice Band
+Ability: Poison Point
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature / Adamant Nature
+- Sludge Bomb
+- Return
+- Double Kick / Hidden Power Fighting
+- Hidden Power Ground / Double-Edge
+
+Wall (Nosepass) @ Leftovers  
+Ability: Magnet Pull  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Earthquake  
+- Explosion / Rock Slide
+- Thunder Wave / Toxic
+- Protect / Rock Slide
+
+Defensive (Numel) @ Leftovers
+Ability: Oblivious
+EVs: 252 HP / 4 SpA / 252 SpD
+Sassy Nature
+- Earthquake
+- Fire Blast / Flamethrower
+- Protect / Rest
+- Toxic / Sleep Talk
+
+Sun Sweeper (Nuzleaf) @ Lum Berry
+Ability: Chlorophyll
+EVs: 4 Atk / 252 SpA / 252 Spe
+Mild Nature
+- Sunny Day
+- Solar Beam
+- Hidden Power Fire
+- Explosion
+
+Fast Attacker (Onix) @ Leftovers
+Ability: Rock Head  
+EVs: 56 HP / 200 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake
+- Explosion
+- Rock Slide
+- Toxic / Protect
+
+Substitute + Toxic (Onix) @ Leftovers
+Ability: Rock Head  
+EVs: 56 HP / 200 Atk / 252 Spe  
+Jolly Nature  
+- Substitute
+- Toxic
+- Earthquake
+- Rock Slide / Explosion / Protect
+
+Cleric (Parasect) @ Leftovers
+Ability: Effect Spore
+EVs: 252 HP / 4 Def / 252 SpD
+Careful Nature
+- Aromatherapy
+- Sludge Bomb / Body Slam
+- Hidden Power Ground / Stun Spore / Toxic
+- Protect
+
+Choice Band (Pidgeotto) @ Choice Band
+Ability: Keen Eye
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Double-Edge / Return
+- Quick Attack
+- Aerial Ace / Hidden Power Flying
+- Hidden Power Ground / Hidden Power Fighting / Steel Wing
+
+Lead (Rattata) @ Salac Berry
+Ability: Guts
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature
+- Double-Edge / Return
+- Quick Attack
+- Reversal / Hidden Power Ground
+- Endure / Substitute / Super Fang
+
+Utility (Shuppet) @ Leftovers
+Ability: Insomnia
+EVs: 4 HP / 252 Atk / 252 Spe
+Adamant Nature
+- Shadow Ball
+- Hidden Power Fighting
+- Substitute
+- Thunder Wave / Toxic / Will-O-Wisp
+
+Defensive (Slowpoke) @ Chesto Berry
+Ability: Own Tempo
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Surf
+- Psychic
+- Rest
+- Thunder Wave / Toxic
+
+Calm Mind (Smoochum) @ Leftovers
+Ability: Oblivious
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Calm Mind
+- Ice Beam
+- Psychic
+- Substitute / Hidden Power Water
+
+Spikes Lead (Snorunt) @ Salac Berry
+Ability: Inner Focus
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Spikes
+- Ice Beam / Icy Wind
+- Hidden Power Grass
+- Endure
+
+Bulky Spikes (Snorunt) @ Leftovers
+Ability: Inner Focus
+EVs: 252 HP / 4 SpA / 252 SpD
+Calm Nature
+- Spikes
+- Ice Beam
+- Hidden Power Grass / Rest
+- Toxic / Sleep Talk
+
+Offensive Utility (Snubbull) @ Leftovers
+Ability: Intimidate
+EVs: 252 HP / 252 Atk / 4 Def
+Adamant Nature
+- Return
+- Earthquake
+- Heal Bell
+- Thunder Wave / Toxic / Protect
+
+Special Wall (Spinda) @ Leftovers  
+Ability: Own Tempo  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Body Slam / Seismic Toss
+- Wish  
+- Protect  
+- Baton Pass / Hidden Power Water
+
+Choice Band (Spinda) @ Choice Band  
+Ability: Own Tempo  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Double-Edge  
+- Brick Break  
+- Return / Shadow Ball
+- Focus Punch / Baton Pass / Trick
+
+Calm Mind (Spinda) @ Leftovers  
+Ability: Own Tempo  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Psychic / Ice Punch
+- Toxic / Encore / Thunder Punch / Sleep Talk
+- Rest / Substitute
+
+Offensive (Spinda) @ Leftovers  
+Ability: Own Tempo  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Double-Edge / Return
+- Brick Break
+- Focus Punch / Shadow Ball / Encore
+- Substitute / Toxic / Baton Pass
+
+Bulky Calm Mind (Spoink) @ Leftovers
+Ability: Thick Fat
+EVs: 252 HP / 4 SpA / 252 Spe
+IVs: 2 Atk / 30 Def / 30 SpA
+Timid Nature
+- Calm Mind
+- Substitute
+- Psychic
+- Hidden Power Water
+
+Lead (Spoink) @ Leftovers
+Ability: Thick Fat
+EVs: 236 HP / 88 SpA / 184 Spe
+Timid Nature
+- Calm Mind
+- Psychic
+- Hidden Power Water / Substitute
+- Taunt
+
+Special Attacker (Staryu) @ Leftovers
+Ability: Natural Cure
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature
+- Hydro Pump / Surf
+- Thunderbolt
+- Ice Beam
+- Recover / Rapid Spin
+
+Defensive (Staryu) @ Leftovers
+Ability: Natural Cure
+EVs: 252 HP / 4 SpD / 252 Spe
+Timid Nature
+- Rapid Spin
+- Surf
+- Thunderbolt
+- Recover
+
+Sun Sweeper (Sunflora) @ Lum Berry
+Ability: Chlorophyll
+EVs: 44 HP / 252 SpA / 212 Spe
+Modest Nature
+- Sunny Day
+- Solar Beam
+- Hidden Power Fire
+- Synthesis
+
+Special Wall (Sunflora) @ Leftovers
+Ability: Chlorophyll
+EVs: 252 HP / 4 Def / 252 SpD
+Calm Nature
+- Razor Leaf / Giga Drain
+- Hidden Power Ice
+- Leech Seed / Growth
+- Synthesis
+
+Choice Band (Taillow) @ Choice Band  
+Ability: Guts  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Double-Edge  
+- Quick Attack  
+- Aerial Ace / Hidden Power Flying
+- Hidden Power Ground / Steel Wing
+
+Pivot (Venonat) @ Leftovers
+Ability: Compound Eyes
+EVs: 252 HP / 4 Def / 252 SpD
+Sassy Nature
+- Sludge Bomb
+- Baton Pass
+- Psychic
+- Toxic / Stun Spore
+
+Lead (Wailmer) @ Mystic Water
+Ability: Water Veil
+EVs: 4 HP / 252 SpA / 252 Spe
+Hasty Nature
+- Water Spout
+- Self-Destruct
+- Hydro Pump / Surf
+- Roar / Substitute
+
+Offensive (Wailmer) @ Leftovers
+Ability: Water Veil
+EVs: 4 HP / 252 SpA / 252 Spe
+Hasty Nature
+- Hydro Pump / Surf
+- Ice Beam
+- Hidden Power Grass
+- Self-Destruct
+
+Defensive (Wailmer) @ Leftovers
+Ability: Water Veil
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+- Surf
+- Rest
+- Sleep Talk
+- Roar / Ice Beam / Hidden Power Grass
+
+Sun Sweeper (Weepinbell) @ Lum Berry
+Ability: Chlorophyll
+EVs: 176 HP / 252 SpA / 80 Spe
+Modest Nature
+- Sunny Day
+- Solar Beam
+- Hidden Power Fire
+- Synthesis / Giga Drain
+
+Swords Dance (Weepinbell) @ Leftovers
+Ability: Chlorophyll
+EVs: 252 HP / 4 Atk / 252 SpD
+Careful Nature
+- Swords Dance
+- Sludge Bomb
+- Hidden Power Ground
+- Synthesis
