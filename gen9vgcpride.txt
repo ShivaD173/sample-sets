@@ -944,16 +944,16 @@ IVs: 0 Atk
 - Blizzard  
 - Tailwind
 
-BIG BALLS (Kingambit) @ Leftovers  
+BIG BALLS (Kingambit) @ Black Glasses  
 Ability: Big Balls  
 Level: 50  
-Tera Type: Dark  
+Tera Type: Ghost  
 EVs: 252 HP / 252 Atk / 4 SpD  
 Adamant Nature  
 - Iron Head  
 - Knock Off  
 - Brick Break  
-- Sucker Punch  
+- Sucker Punch 
 
 Swords Dance (Kingambit) @ Leftovers  
 Ability: Defiant  
@@ -1489,7 +1489,7 @@ Brave Nature
 - Rock Slide  
 - Earthquake  
 - Trick Room  
-- Heavy Slam  
+- Gyro Ball  
 
 Apicot Spam (Greedent) @ Apicot Berry  
 Ability: Cheek Pouch  
@@ -2870,7 +2870,18 @@ Brave Nature
 - Bullet Seed  
 - Fury Attack  
 
-Fast Support (Spectrier) @ Colbur Berry  
+Life Orb (Spectrier) @ Life Orb  
+Ability: Grim Neigh  
+Level: 50  
+Tera Type: Fighting  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Shadow Ball  
+- Tera Blast  
+- Will-O-Wisp  
+- Protect
+
+Nasty Plot (Spectrier) @ Leftovers  
 Ability: Grim Neigh  
 Level: 50  
 Tera Type: Fairy  
@@ -2878,9 +2889,9 @@ EVs: 252 HP / 4 SpA / 252 Spe
 Timid Nature  
 IVs: 0 Atk  
 - Shadow Ball  
-- Will-O-Wisp  
-- Taunt  
-- Snarl
+- Nasty Plot  
+- Draining Kiss  
+- Protect
 
 Fast Support (Gengar) @ Wiki Berry  
 Ability: Cursed Body  
@@ -3311,6 +3322,18 @@ Calm Nature
 - Scald
 - Wish  
 
+Soul Heart (Alomomola) @ Leftovers  
+Ability: Soul-Heart  
+Level: 50  
+Tera Type: Fairy  
+EVs: 4 HP / 196 Def / 56 SpA / 252 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Protect  
+- Scald  
+- Alluring Voice  
+- Calm Mind
+
 Physical Sash (Carnivine) @ Focus Sash  
 Ability: Adaptability  
 Level: 50  
@@ -3452,13 +3475,24 @@ Jolly Nature
 Choice Scarf (Machamp) @ Choice Scarf  
 Ability: No Guard  
 Level: 50  
-Tera Type: Fighting  
+Tera Type: Ghost  
 EVs: 252 HP / 4 Def / 252 Spe  
 Jolly Nature  
 - Stone Edge  
 - Dynamic Punch
 - Knock Off  
 - Thunder Punch  
+
+Big Balls (Machamp) @ Focus Sash  
+Ability: Big Balls  
+Level: 50  
+Tera Type: Fighting  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Mach Punch  
+- Platinum Buster  
+- Knock Off  
+- Protect
 
 Calm Mind (Eelektross) @ Expert Belt  
 Ability: Levitate  
@@ -3787,17 +3821,29 @@ IVs: 0 Atk
 - Thunder  
 - Protect
 
-Calm Mind (Mesprit) @ Leftovers  
-Ability: Rampage  
+Trick Room (Mesprit) @ Leftovers  
+Ability: Levitate  
 Level: 50  
 Tera Type: Steel  
+EVs: 252 HP / 4 Def / 252 SpA  
+Modest Nature  
+IVs: 0 Atk  
+- Trick Room  
+- Mystical Power  
+- Thunderbolt  
+- Protect
+
+Specs (Mesprit) @ Choice Specs  
+Ability: Rampage  
+Level: 50  
+Tera Type: Fairy  
 EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
+Modest Nature  
 IVs: 0 Atk  
 - Fleur Cannon  
 - Mystical Power  
 - Thunderbolt  
-- Calm Mind  
+- Ice Beam
 
 Mixed Snow (Arctovish) @ Figy Berry  
 Ability: Snow Warning  
@@ -3809,6 +3855,16 @@ Brave Nature
 - Aurora Veil  
 - Fishious Rend  
 - Blizzard  
+
+Choice Band (Arctovish) @ Choice Band  
+Ability: Slush Rush  
+Tera Type: Water  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Fishious Rend  
+- Psychic Fangs  
+- Icicle Crash  
+- Stone Edge
 
 Life Orb (Pawmot) @ Life Orb  
 Ability: Iron Fist  
@@ -4380,17 +4436,17 @@ IVs: 0 Atk
 - Growth  
 - Protect
 
-Tailwind Power (Drifblim) @ Focus Sash  
+Tailwind Power (Drifblim) @ Sitrus Berry  
 Ability: Wind Power  
 Level: 50  
 Tera Type: Electric  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
+EVs: 252 Def / 4 SpA / 252 SpD  
+Modest Nature  
 IVs: 0 Atk  
 - Will-O-Wisp  
 - Tailwind  
 - Thunderbolt  
-- Bleakwind Storm 
+- Bleakwind Storm
 
 Unburden (Drifblim) @ Focus Sash  
 Ability: Unburden  
@@ -4917,16 +4973,16 @@ IVs: 0 Spe
 - Iron Defense  
 - Body Press  
 
-Dragon Dancer (Feraligatr) @ Clear Amulet  
-Ability: Intimidate  
+Scale Shot (Feraligatr) @ Loaded Dice  
+Ability: Dragon's Maw  
 Level: 50  
 Tera Type: Steel  
 EVs: 4 HP / 252 Atk / 252 Spe  
 Adamant Nature  
-- Dragon Dance  
-- Sucker Punch  
-- Hydro Cannon  
-- Superpower
+- Scale Shot  
+- Breaking Swipe  
+- Aqua Tail  
+- Protect  
 
 Life Orb (Feraligatr) @ Life Orb  
 Ability: Sheer Force  
@@ -4937,7 +4993,7 @@ Jolly Nature
 - Liquidation  
 - Crunch  
 - Ice Punch  
-- Superpower
+- Scale Shot  
 
 Band (Pangoro) @ Choice Band  
 Ability: Iron Fist  
@@ -5072,17 +5128,6 @@ Adamant Nature
 - Poltergeist  
 - Power Whip
 
-Physical Support (Ambipom) @ Normal Gem  
-Ability: Technician  
-Level: 50  
-Tera Type: Ghost  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Fake Out  
-- Tail Slap  
-- Thief  
-- Taunt  
-
 Sash (Ambipom) @ Focus Sash  
 Ability: Technician  
 Level: 50  
@@ -5091,7 +5136,7 @@ EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature  
 - Fake Out  
 - Tail Slap  
-- Feint  
+- Follow Me  
 - Triple Axel
 
 Scarf (Tyrantrum) @ Choice Scarf  
@@ -5695,17 +5740,29 @@ Adamant Nature
 - Ice Shard  
 - Icicle Spear  
 
-Special LO (Heliolisk) @ Life Orb  
-Ability: Solar Power  
+Sand Sweeper (Heliolisk) @ Life Orb  
+Ability: Sand Rush  
 Level: 50  
-Tera Type: Fighting  
+Tera Type: Electric  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Electro Ball  
+- Hyper Beam  
+- Surf  
+- Protect  
+
+Support (Heliolisk) @ Focus Sash  
+Ability: Dry Skin  
+Level: 50  
+Tera Type: Ghost  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
 - Electroweb  
+- Shed Tail  
+- Hyper Voice  
 - Thunderbolt  
-- Hyper Beam  
-- Aura Sphere
 
 Special Attacker (Yanmega) @ Throat Spray  
 Ability: Speed Boost  
@@ -6790,17 +6847,17 @@ Jolly Nature
 - Knock Off  
 - Fake Out
 
-Sash Support (Butterfree) @ Focus Sash  
+Sash (Butterfree) @ Focus Sash  
 Ability: Compound Eyes  
 Level: 50  
-Tera Type: Water  
+Tera Type: Ghost  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
 - Hurricane  
 - Sleep Powder  
 - Tailwind  
-- Bug Buzz  
+- G-Max Befuddle
 
 Rain Tank (Goodra) @ Leftovers  
 Ability: Hydration  
@@ -6960,14 +7017,14 @@ Adamant Nature
 - Close Combat  
 - Return 
 
-Life Orb (Lycanroc-Dusk) @ Life Orb  
+Sash (Lycanroc-Dusk) @ Focus Sash  
 Ability: Tough Claws  
 Level: 50  
-Tera Type: Fairy  
+Tera Type: Psychic  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Accelerock  
-- Play Rough  
+- Psychic Fangs  
 - Close Combat  
 - Protect
 
@@ -8535,6 +8592,17 @@ Naughty Nature
 - Play Rough  
 - Drain Punch  
 - Tera Blast
+
+Support (Slurpuff) @ Sitrus Berry  
+Ability: Unburden  
+Level: 50  
+Tera Type: Steel  
+EVs: 252 HP / 4 Atk / 252 Spe  
+Naive Nature  
+- Decorate  
+- String Shot  
+- Play Rough  
+- Yawn
 
 Bulk Up (Corviknight) @ Leftovers  
 Ability: Mirror Armor  
