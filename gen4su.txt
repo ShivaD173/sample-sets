@@ -15,6 +15,7 @@ Jolly Nature
 - Drill Peck
 - U-turn  
 - Quick Attack / Pursuit / Roost
+
 Choice Scarf (Fearow) @ Choice Scarf  
 Ability: Keen Eye  
 EVs: 252 Atk / 4 SpD / 252 Spe  
@@ -32,6 +33,7 @@ Adamant Nature
 - Wood Hammer  
 - Explosion 
 - Stealth Rock / Sucker Punch / Earthquake
+
 Rock Polish (Sudowoodo) @ Lum Berry  
 Ability: Rock Head  
 EVs: 252 Atk / 4 SpD / 252 Spe  
@@ -66,6 +68,7 @@ Careful Nature
 - Body Slam  
 - Roost  
 - Earthquake  
+
 Calm Mind (Dunsparce) @ Leftovers  
 Ability: Serene Grace  
 EVs: 252 HP / 252 Def / 4 SpA  
@@ -171,6 +174,7 @@ Adamant Nature
 - Seed Bomb  
 - Gunk Shot  
 - Substitute / Thunder Wave
+
 Choice Scarf (Gastly) @ Choice Scarf  
 Ability: Levitate  
 EVs: 252 SpA / 4 SpD / 252 Spe  
@@ -190,6 +194,7 @@ IVs: 0 Atk
 - Shadow Ball  
 - Sludge Bomb  
 - Pain Split / Will-O-Wisp / Taunt
+
 Choice Specs (Gastly) @ Choice Specs  
 Ability: Levitate  
 EVs: 252 SpA / 4 SpD / 252 Spe  
@@ -336,6 +341,7 @@ Adamant Nature
 - Waterfall  
 - Ice Punch  
 - Return / Substitute
+
 Bulky Swords Dance (Croconaw) @ Lum Berry  
 Ability: Torrent  
 EVs: 252 HP / 252 Atk / 4 SpD  
@@ -390,6 +396,7 @@ Naive Nature
 - Hidden Power [Grass]  
 - Superpower  
 - Quick Attack  
+
 Choice Scarf (Flareon) @ Choice Scarf  
 Ability: Flash Fire  
 EVs: 4 Atk / 252 SpA / 252 Spe  
@@ -426,6 +433,7 @@ Adamant Nature
 - Sucker Punch  
 - Aqua Tail / Low Kick
 - Recover / Shadow Claw
+
 Choice Scarf (Lumineon) @ Choice Scarf  
 Ability: Swift Swim  
 EVs: 252 SpA / 4 SpD / 252 Spe  
@@ -568,6 +576,7 @@ IVs: 3 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Psychic  
 - Hidden Power [Fighting]  
 - Encore / Calm Mind / Thunder Wave
+
 Physical Rain Sweeper (Huntail) @ Life Orb / Lum Berry
 Ability: Swift Swim  
 EVs: 252 Atk / 4 SpD / 252 Spe  
@@ -576,6 +585,7 @@ Adamant Nature
 - Waterfall  
 - Sucker Punch  
 - Return / Ice Beam
+
 Special Rain Sweeper (Huntail) @ Life Orb / Lum Berry
 Ability: Swift Swim  
 EVs: 252 SpA / 4 SpD / 252 Spe  
@@ -585,6 +595,7 @@ IVs: 2 Atk / 30 SpA
 - Hydro Pump / Surf
 - Ice Beam  
 - Hidden Power [Grass]  
+
 Choice Specs (Magnemite) @ Choice Specs  
 Ability: Magnet Pull  
 EVs: 252 SpA / 4 SpD / 252 Spe  
@@ -961,6 +972,7 @@ Impish Nature
 - Spikes  
 - Rapid Spin  
 - Explosion  
+
 Defensive Spinner (Staryu) @ Leftovers  
 Ability: Natural Cure  
 EVs: 252 HP / 4 Def / 252 Spe  
