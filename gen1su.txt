@@ -1,110 +1,110 @@
 Fast Attacker (Arbok)
 - Earthquake
-- Rock Slide
 - Hyper Beam
-- Glare / Mega Drain / Body Slam
+- Rock Slide
+- Body Slam
 
-Setup Sweeper (Beedrill)
+Setup (Beedrill)
 - Swords Dance
 - Twineedle
 - Hyper Beam
-- Agility / Mega Drain
+- Agility
 
 Mixed Attacker (Charmeleon)
 - Fire Blast
 - Slash
-- Body Slam / Seismic Toss / Substitute
-- Counter / Substitute
+- Seismic Toss
+- Body Slam
 
 Utility (Clefairy)
 - Thunder Wave
-- Psychic / Blizzard
-- Blizzard / Body Slam
-- Counter / Seismic Toss / Thunderbolt
+- Blizzard
+- Psychic
+- Thunderbolt
 
 Fast Attacker (Diglett)
 - Earthquake
 - Rock Slide
-- Slash / Body Slam / Sand Attack
-- Substitute
+- Slash 
+- Body Slam
 
-Agility Sweeper (Doduo)
+Agility (Doduo)
 - Agility
 - Body Slam
 - Drill Peck
 - Double-Edge
 
-Agility Sweeper (Dratini)
+Agility (Dratini)
 - Agility
 - Blizzard
 - Thunderbolt
-- Surf / Thunder Wave / Hyper Beam
+- Surf
 
 Thunder Wave (Dratini)
 - Thunder Wave
 - Blizzard
 - Thunderbolt
-- Surf / Fire Blast / Body Slam
+- Surf
 
-Double Dance (Farfetch'd)
+Slasher (Farfetch'd)
 - Slash
+- Body Slam
 - Agility
-- Swords Dance
-- Body Slam / Double-Edge
+- Substitute
 
-Tank (Geodude)
+Explosion (Geodude)
+- Explosion
 - Earthquake
 - Rock Slide
-- Explosion
-- Body Slam / Substitute
+- Body Slam
 
 Fast Attacker (Golbat)
 - Double-Edge
 - Hyper Beam
 - Mega Drain
-- Screech / Substitute
+- Substitute
 
-Agility Sweeper (Goldeen)
+Agility (Goldeen)
 - Agility
 - Surf
 - Blizzard
-- Double-Edge / Substitute
+- Double-Edge
 
-Agility Sweeper (Hitmonchan)
+Agility (Hitmonchan)
 - Agility
-- Body Slam
+- Submission
 - Seismic Toss
-- Counter / Submission
+- Body Slam
 
 Fast Attacker (Hitmonlee)
 - High Jump Kick
 - Body Slam
-- Meditate / Seismic Toss
-- Counter / Substitute
+- Seismic Toss
+- Mega Kick
 
-Agility Sweeper (Horsea)
+Agility (Horsea)
 - Agility
-- Surf / Hydro Pump
+- Surf
 - Blizzard
-- Hydro Pump / Smokescreen / Substitute
+- Hydro Pump
 
 Sleeper (Ivysaur)
 - Sleep Powder
 - Razor Leaf
 - Body Slam
-- Swords Dance / Substitute / Leech Seed
+- Double-Edge
 
 Mixed Attacker (Kabuto)
 - Slash
-- Surf / Hydro Pump
+- Hydro Pump
+- Blizzard
 - Body Slam
-- Blizzard / Rest
 
 Mixed Attacker (Lickitung)
 - Body Slam
 - Hyper Beam
 - Blizzard
-- Thunderbolt / Earthquake
+- Thunderbolt
 
 Swords Dance (Lickitung)
 - Swords Dance
@@ -116,19 +116,19 @@ Tank (Machoke)
 - Body Slam
 - Earthquake
 - Rock Slide
-- Submission / Low Kick / Counter
+- Submission
 
 Tank (Marowak)
 - Earthquake
 - Blizzard
-- Fire Blast / Body Slam
-- Counter
+- Body Slam
+- Seismic Toss
 
 Fast Attacker (Meowth)
 - Slash
 - Body Slam
 - Bubble Beam
-- Thunderbolt / Substitute
+- Thunderbolt
 
 Fast Attacker (Pikachu)
 - Thunderbolt
@@ -139,18 +139,12 @@ Fast Attacker (Pikachu)
 Mixed Attacker (Ponyta)
 - Fire Blast
 - Body Slam
-- Substitute / Agility
-- Reflect / Agility
+- Substitute
+- Agility
 
 Tank (Rhyhorn)
 - Earthquake
 - Rock Slide
-- Body Slam / Substitute
-- Substitute / Rest
-
-Bulky Attacker (Seel)
-- Surf
-- Blizzard
 - Body Slam
 - Rest
 
@@ -164,13 +158,13 @@ Fast Attacker (Voltorb)
 - Thunderbolt
 - Explosion
 - Thunder Wave
-- Screech / Substitute / Flash
+- Take Down
 
 Tank (Wartortle)
-- Hydro Pump / Surf
+- Surf
 - Blizzard
-- Seismic Toss / Body Slam
-- Counter / Body Slam
+- Seismic Toss
+- Body Slam
 
 Double Powder (Weepinbell)
 - Sleep Powder
