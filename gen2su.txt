@@ -1,63 +1,102 @@
-RestTalk (Pidgeotto) @ Leftovers
-- Double-Edge / Return
-- Hidden Power Grass / Reflect / Wing Attack
-- Rest
-- Sleep Talk
+Swords Dance (Bellsprout) @ Leftovers
+- Swords Dance
+- Sludge Bomb
+- Razor Leaf
+- Sleep Powder
 
-Offensive (Pidgeotto) @ Leftovers / Miracle Berry / No Item
-- Double-Edge / Return
-- Hidden Power Grass / Rest
-- Wing Attack / Rest
-- Reflect / Thief / Substitute
-Curse (Pidgeotto) @ Leftovers
-- Curse
-- Double-Edge / Return
-- Rest / Hidden Power Grass
-- Sleep Talk / Whirlwind
+Swords Dance (Bulbasaur) @ Leftovers
+- Swords Dance
+- Body Slam
+- Razor Leaf
+- Sleep Powder
 
-Wallbreaker (Smoochum) @ Twisted Spoon / Miracle Berry / Leftovers / Mint Berry
+Fast Utility (Butterfree) @ Leftovers
+- Sleep Powder
+- Stun Spore
 - Psychic
-- Ice Beam
-- Shadow Ball
-- Dream Eater / Blizzard / Protect / Rest
-RestTalk (Smoochum) @ Leftovers
-- Psychic
-- Ice Beam
-- Rest
-- Sleep Talk
+- Hidden Power Electric
 
-Thief (Smoochum)
-- Psychic
-- Ice Beam
-- Shadow Ball
+RestTalk (Charmander) @ Leftovers
+- Fire Blast  
+- Rock Slide
+- Rest  
+- Sleep Talk  
+
+Setup Sweeper (Charmander) @ Leftovers  
+- Swords Dance
+- Return
+- Hidden Power Grass
+- Fire Blast
+
+Substitute (Charmander) @ Leftovers  
+- Substitute
+- Fire Blast
+- Hidden Power Grass
+- Rock Slide
+
+Defensive (Chikorita) @ Leftovers  
+- Razor Leaf
+- Body Slam
+- Curse 
+- Synthesis  
+
+Swords Dance (Chikorita) @ Leftovers  
+- Swords Dance
+- Body Slam
+- Razor Leaf 
+- Synthesis  
+
+Fast Attacker (Diglett) @ Leftovers
+- Earthquake
+- Rock Slide
+- Sludge Bomb
+- Substitute
+
+Thief (Diglett)
+- Earthquake
+- Rock Slide
+- Sludge Bomb
 - Thief
 
-Fast Utility (Butterfree) @ Miracle Berry / Leftovers
-- Sleep Powder / Stun Spore
-- Stun Spore / Nightmare
-- Psychic
-- Hidden Power Bug / Hidden Power Electric / Hidden Power Fire / Nightmare / Giga Drain / Rest
-Special Attacker (Dratini) @ Leftovers
-- Thunderbolt / Thunder
-- Ice Beam
-- Light Screen / Reflect / Fire Blast / Rest
-- Thunder Wave / Agility / Rest
+Curse (Ekans) @ Leftovers  
+- Curse  
+- Sludge Bomb  
+- Earthquake  
+- Giga Drain
 
-RestTalk (Dratini) @ Leftovers
-- Thunderbolt / Thunder
-- Ice Beam
+Thief (Ekans)  
+- Thief  
+- Sludge Bomb  
+- Earthquake  
+- Giga Drain
+
+RestTalk (Ekans) @ Leftovers  
+- Sludge Bomb
+- Earthquake
+- Rest  
+- Sleep Talk
+
+Swords Dance (Goldeen) @ Leftovers   
+- Swords Dance
+- Return
+- Surf
+- Hidden Power Ground
+
+RestTalk (Goldeen) @ Leftovers   
+- Swords Dance
+- Return
 - Rest
 - Sleep Talk
 
-Curse (Dratini) @ Leftovers
+Curse (Goldeen) @ Leftovers   
 - Curse
-- Body Slam / Extreme Speed
-- Surf / Sleep Talk
+- Return
+- Surf
 - Rest
 
 RestTalk (Growlithe) @ Leftovers
 - Fire Blast
-- Hidden Power Grass / Body Slam
+- Crunch
 - Rest
 - Sleep Talk
 
@@ -65,31 +104,146 @@ Agility (Growlithe) @ Leftovers
 - Agility
 - Fire Blast
 - Hidden Power Grass
-- Double-Edge / Substitute
+- Crunch
+
+3 Attacks (Horsea) @ Leftovers  
+- Hydro Pump
+- Ice Beam  
+- Hidden Power Electric
+- Agility  
+
+RestTalk (Horsea) @ Leftovers  
+- Surf 
+- Ice Beam
+- Rest  
+- Sleep Talk
+
+Thunder Wave (Jigglypuff) @ Leftovers    
+- Thunder Wave
+- Body Slam
+- Thunder
+- Ice Beam
+
+RestTalk (Jigglypuff) @ Leftovers  
+- Body Slam
+- Ice Beam
+- Rest  
+- Sleep Talk  
+
+CurseTalk (Jigglypuff) @ Leftovers    
+- Body Slam
+- Curse
+- Rest  
+- Sleep Talk  
 
 All-out Attacker (Kabuto) @ Leftovers
-- Ancient Power / Hidden Power Rock
-- Hydro Pump / Surf
+- Ancient Power
+- Surf
 - Ice Beam
-- Giga Drain / Protect
+- Giga Drain
 
-Thief (Kabuto)
-- Thief
-- Ancient Power / Hidden Power Rock
-- Hydro Pump / Surf
-- Ice Beam / Giga Drain
-
-RestTalk (Mareep) @ Leftovers
-- Thunderbolt / Thunder
-- Hidden Power Ice / Hidden Power Fire
+RestTalk (Kabuto) @ Leftovers
+- Surf
+- Ancient Power
 - Rest
 - Sleep Talk
 
-Utility (Mareep) @ Mint Berry / Leftovers
-- Thunderbolt / Thunder
-- Hidden Power Ice / Hidden Power Fire
+Thief (Kabuto)
+- Ancient Power
+- Hydro Pump
+- Ice Beam
+- Thief
+
+Offensive (Krabby) @ Leftovers  
+- Swords Dance  
+- Body Slam
+- Hidden Power Ground
+- Surf
+
+RestTalk (Krabby) @ Leftovers 
+- Swords Dance  
+- Body Slam
+- Rest
+- Sleep Talk
+
+Offensive (Larvitar) @ Leftovers
+- Earthquake
+- Rock Slide
+- Ancient Power
+- Screech
+
+RestTalk (Larvitar) @ Leftovers
+- Earthquake
+- Rock Slide
+- Rest
+- Sleep Talk
+
+Curse (Larvitar) @ Leftovers
+- Curse
+- Rock Slide
+- Earthquake
+- Rest
+
+All-out Attacker (Machop) @ Leftovers
+- Cross Chop  
+- Rock Slide
+- Earthquake
+- Body Slam
+
+Thief (Machop)
+- Cross Chop  
+- Rock Slide
+- Earthquake
+- Thief
+
+Curse (Machop) @ Leftovers
+- Curse  
+- Cross Chop
+- Rock Slide
+- Earthquake
+
+CurseTalk (Machop) @ Leftovers
+- Curse  
+- Cross Chop
+- Rest
+- Sleep Talk
+
+RestTalk (Machop) @ Leftovers
+- Cross Chop  
+- Body Slam
+- Rest
+- Sleep Talk
+
+Substitute (Mankey) @ Leftovers 
+- Substitute
+- Cross Chop
+- Thunder
+- Hidden Power Ground
+
+RestTalk (Mankey) @ Leftovers  
+- Cross Chop
+- Thunder
+- Rest
+- Sleep Talk
+
+Thief (Mankey)
+- Cross Chop  
+- Thunder  
+- Hidden Power Ground
+- Thief
+
+RestTalk (Mareep) @ Leftovers
+- Thunder
+- Hidden Power Ice
+- Rest
+- Sleep Talk
+
+Utility (Mareep) @ Leftovers
+- Thunderbolt
+- Hidden Power Ice
 - Thunder Wave
-- Rest / Reflect / Light Screen / Protect
+- Rest
+
 RestTalk (Natu) @ Leftovers
 - Psychic
 - Drill Peck
@@ -98,181 +252,57 @@ RestTalk (Natu) @ Leftovers
 
 Offensive (Natu) @ Twisted Spoon
 - Psychic
-- Drill Peck / Steel Wing
+- Drill Peck
 - Giga Drain
-- Nightmare / Dream Eater
+- Dream Eater
 
 Thief (Natu)
 - Psychic
-- Drill Peck / Steel Wing
+- Drill Peck
+- Giga Drain
 - Thief
-- Giga Drain / Steel Wing
 
-Offensive Utility (Nidorino) (M) @ Leftovers / No Item    
+Offensive Utility (Nidorino) (M) @ Leftovers
 - Thunder  
 - Ice Beam  
-- Morning Sun / Lovely Kiss
-- Return / Thief
-Curse (Nidorino) (M) @ Leftovers / No Item   
-- Curse
-- Return
-- Ice Beam / Hidden Power Grass / Thief
 - Morning Sun
-Defensive (Parasect) @ Leftovers
-- Synthesis
 - Return
-- Giga Drain / Hidden Power Grass
-- Stun Spore / Spore
 
-Utility (Parasect) @ Leftovers
-- Stun Spore / Spore
-- Body Slam / Return / Sludge Bomb
-- Giga Drain / Hidden Power Ground
-- Reflect / Light Screen / Spore
-
-Swords Dance (Parasect) @ Leftovers
-- Swords Dance
-- Body Slam / Return / Sludge Bomb
-- Giga Drain / Hidden Power Ground / Rest
-- Stun Spore / Spore / Reflect / Light Screen / Sleep Talk
-
-Growth (Parasect) @ Leftovers
-- Growth
-- Giga Drain
-- Hidden Power Fire / Hidden Power Ice
-- Synthesis / Stun Spore / Spore
-
-Curse (Parasect) @ Leftovers
-- Curse
-- Body Slam / Return / Sludge Bomb
-- Giga Drain / Hidden Power Ground / Sleep Talk / Stun Spore
-- Rest / Synthesis
-
-Swords Dance (Sandshrew) @ Leftovers
-- Earthquake
-- Rock Slide
-- Swords Dance
-- Substitute
-
-RestTalk (Seel) @ Leftovers  
-- Surf / Ice Beam
-- Body Slam / Hidden Power Electric
-- Rest  
-- Sleep Talk  
-
-Curse (Seel) @ Leftovers  
-- Curse  
-- Body Slam  
-- Rest  
-- Sleep Talk / Surf
-
-Trapper (Seel) @ Leftovers
-- Whirlpool  
-- Perish Song  
-- Rest  
-- Sleep Talk / Ice Beam
-
-RestTalk (Teddiursa) @ Leftovers
-- Return
-- Earthquake / Curse
-- Rest
-- Sleep Talk
-
-Offensive Curse (Teddiursa) @ Leftovers
+Curse (Nidorino) (M) @ Leftovers  
 - Curse
 - Return
-- Earthquake / Roar
-- Protect / Roar
+- Ice Beam
+- Morning Sun
 
-RestTalk (Charmander) @ Leftovers
-- Fire Blast  
-- Hidden Power Grass / Rock Slide
-- Rest  
-- Sleep Talk  
+Defensive (Oddish) @ Leftovers  
+- Sludge Bomb
+- Razor Leaf  
+- Stun Spore
+- Synthesis  
 
-Setup Sweeper (Charmander) @ Leftovers  
-- Swords Dance / Belly Drum
-- Return
-- Hidden Power Grass
-- Rock Slide / Fire Blast / Substitute
-
-3 Attacks (Horsea) @ Leftovers  
-- Hydro Pump / Surf
-- Ice Beam  
-- Hidden Power Electric
-- Agility / Substitute / Haze  
-
-RestTalk (Horsea) @ Leftovers  
-- Hydro Pump / Surf  
-- Hidden Power Electric / Ice Beam 
-- Rest  
-- Sleep Talk
-
-Thunder Wave (Jigglypuff) @ Leftovers    
-- Thunder Wave
-- Body Slam
-- Thunder / Seismic Toss
-- Counter
-
-RestTalk (Jigglypuff) @ Leftovers  
-- Body Slam / Double-Edge / Return
-- Thunder / Ice Beam
-- Rest  
-- Sleep Talk  
-
-Curse (Jigglypuff) @ Leftovers    
-- Body Slam / Double-Edge
-- Curse
-- Rest  
-- Sleep Talk  
-
-Offensive (Larvitar) @ Leftovers
-- Earthquake
-- Rock Slide
-- Ancient Power / Protect / Curse
-- Screech / Protect / Curse
-
-RestTalk (Larvitar) @ Leftovers
-- Earthquake
-- Rock Slide / Ancient Power
-- Rest
-- Sleep Talk
-
-Curse (Larvitar) @ Leftovers
-- Curse
-- Rock Slide
-- Rest
-- Sleep Talk / Earthquake
-
-Substitute (Mankey) @ Leftovers 
-- Substitute
-- Cross Chop
-- Rock Slide
-- Meditate / Hidden Power Ground / Hidden Power Flying
-
-RestTalk (Mankey) @ Leftovers  
-- Cross Chop
-- Rock Slide / Thunder / Hidden Power Flying
-- Rest
-- Sleep Talk
-
-Thief (Mankey)
-- Cross Chop  
-- Rock Slide  
-- Thunder / Hidden Power Flying 
-- Thief
+Setup (Oddish) @ Leftovers  
+- Swords Dance  
+- Sludge Bomb
+- Razor Leaf
+- Hidden Power Ground  
 
 RestTalk (Phanpy) @ Leftovers  
 - Earthquake  
-- Ancient Power / Body Slam / Hidden Power Rock
+- Ancient Power
 - Rest  
 - Sleep Talk  
 
 Curse (Phanpy) @ Leftovers    
 - Curse  
 - Earthquake  
-- Ancient Power / Hidden Power Rock / Body Slam
-- Roar / Rest / Protect / Hidden Power Flying
+- Ancient Power
+- Body Slam
+
+RestTalk (Rattata) @ Leftovers 
+- Double-Edge
+- Super Fang
+- Rest
+- Sleep Talk
 
 Thief (Rattata)  
 - Double-Edge
@@ -284,166 +314,172 @@ All-out Attacker (Rattata) @ Pink Bow
 - Double-Edge
 - Super Fang
 - Hidden Power Grass
-- Thunder / Quick Attack
-
-RestTalk (Rattata) @ Leftovers 
-- Double-Edge
-- Super Fang
-- Rest
-- Sleep Talk
+- Quick Attack
 
 Substitute (Rattata) @ Leftovers 
 - Substitute
 - Double-Edge
 - Super Fang
-- Hidden Power Grass / Thunder / Screech
-
-Cleric (Snubbull) @ Leftovers   
-- Heal Bell 
-- Return  
-- Rest  
-- Sleep Talk
-
-Thief (Yanma)
-- Hidden Power Bug / Hidden Power Electric
-- Wing Attack
-- Giga Drain
-- Thief
-
-RestTalk (Yanma) @ Leftovers
-- Hidden Power Flying / Hidden Power Bug
-- Giga Drain / Wing Attack
-- Rest
-- Sleep Talk 
-
-Support (Chikorita) @ Leftovers  
-- Razor Leaf / Giga Drain
-- Leech Seed
-- Light Screen / Reflect  
-- Synthesis  
-
-Offensive (Cyndaquil) @ Miracle Berry
-- Fire Blast
 - Hidden Power Grass
-- Quick Attack
-- Rest
-
-Curse (Ekans) @ Leftovers  
-- Curse  
-- Sludge Bomb  
-- Rest  
-- Sleep Talk / Earthquake
-
-Thief (Ekans)  
-- Sludge Bomb
-- Earthquake
-- Curse / Giga Drain / Haze
-- Thief
-
-RestTalk (Ekans) @ Leftovers  
-- Sludge Bomb
-- Earthquake
-- Rest  
-- Sleep Talk
-
-Offensive Sweeper (Goldeen) @ Leftovers   
-- Swords Dance
-- Double-Edge / Return
-- Hydro Pump / Surf / Substitute
-- Agility / Substitute
-
-RestTalk (Goldeen) @ Leftovers   
-- Swords Dance
-- Double-Edge / Return
-- Rest
-- Sleep Talk
-
-Offensive (Krabby) @ Leftovers  
-- Swords Dance  
-- Return / Body Slam / Double-Edge 
-- Surf / Hidden Power Rock
-- Substitute / Hidden Power Rock
-
-RestTalk (Krabby) @ Leftovers 
-- Swords Dance  
-- Return / Body Slam / Double-Edge
-- Rest
-- Sleep Talk
-
-Baton Pass (Ledyba) @ Miracle Berry
-- Agility  
-- Baton Pass  
-- Barrier / Reflect
-- Light Screen  
-
-Offensive (Machop) @ Leftovers  
-- Cross Chop  
-- Rock Slide
-- Earthquake
-- Curse / Hidden Power Flying
-
-RestTalk (Machop) @ Leftovers  
-- Cross Chop  
-- Rock Slide / Hidden Power Flying / Body Slam / Curse
-- Rest  
-- Sleep Talk  
-
-Support (Oddish) @ Leftovers  
-- Stun Spore / Sleep Powder
-- Sludge Bomb  
-- Razor Leaf / Giga Drain
-- Synthesis  
-
-Swords Dance (Oddish) @ Leftovers  
-- Swords Dance  
-- Sludge Bomb  
-- Razor Leaf / Giga Drain / Stun Spore / Sleep Powder 
-- Synthesis  
 
 Thief (Remoraid)
 - Surf
-- Flamethrower / Ice Beam
-- Ice Beam / Hidden Power Electric
-- Thief
-
-All-out Attacker (Remoraid) @ Leftovers
-- Surf
-- Flamethrower
 - Ice Beam
 - Hidden Power Electric
+- Thief
+
+RestTalk (Seel) @ Leftovers  
+- Surf
+- Ice Beam
+- Rest  
+- Sleep Talk  
+
+Curse (Seel) @ Leftovers  
+- Curse  
+- Body Slam  
+- Rest  
+- Surf
+
+Support (Seel) @ Leftovers  
+- Toxic  
+- Encore  
+- Surf  
+- Ice Beam
+
+Trapper (Seel) @ Leftovers
+- Whirlpool  
+- Perish Song  
+- Rest  
+- Sleep Talk
 
 Explosion (Shellder) @ Leftovers
 - Explosion
 - Surf  
-- Ice Beam / Icy Wind 
-- Substitute / Screech / Clamp
+- Ice Beam
+- Hidden Power Electric
 
 Fast Utility (Skiploom) @ Leftovers  
-- Stun Spore / Sleep Powder
-- Encore / Leech Seed  
+- Stun Spore
+- Encore  
 - Hidden Power Flying
-- Synthesis / Giga Drain 
+- Giga Drain
 
-Baton Pass (Spinarak) @ Miracle Berry  
-- Baton Pass  
-- Agility  
+Defensive (Slowpoke) @ Leftovers
+- Psychic
+- Surf
+- Rest
+- Sleep Talk
+
+Curse (Slowpoke) @ Leftovers
+- Curse
+- Body Slam
+- Surf
+- Rest
+
+CurseTalk (Snubbull) @ Leftovers   
+- Curse 
+- Return  
+- Rest  
+- Sleep Talk
+
+Offensive Curse (Snubbull) @ Leftovers   
+- Curse 
+- Return  
+- Hidden Power Ground  
+- Lovely Kiss
+
+Offensive Utility (Snubbull) @ Leftovers   
+- Return 
+- Hidden Power Ground  
+- Thunder  
+- Lovely Kiss
+
+RestTalk (Snubbull) @ Leftovers   
+- Return 
+- Thunder  
+- Rest  
+- Sleep Talk
+
+Cleric (Snubbull) @ Leftovers   
+- Return 
+- Heal Bell  
+- Rest  
+- Sleep Talk
+
+RestTalk (Spearow) @ Leftovers
+- Double-Edge
+- Drill Peck
+- Rest
+- Sleep Talk
+
+Offensive (Spearow) @ Leftovers
+- Double-Edge
+- Drill Peck
+- Hidden Power Grass
+- Quick Attack
+
+Thief (Spearow)
+- Double-Edge
+- Drill Peck
+- Hidden Power Grass
+- Thief
+
+RestTalk (Squirtle) @ Leftovers
+- Surf
+- Zap Cannon
+- Rest
+- Sleep Talk
+
+RestTalk (Swinub) @ Leftovers
+- Earthquake
+- Ice Beam
+- Rest
+- Sleep Talk
+
+Utility (Venonat) @ Leftovers  
 - Sludge Bomb
-- Curse / Psychic / Night Shade  
+- Psychic  
+- Sleep Powder  
+- Stun Spore
+
+RestTalk (Venonat) @ Leftovers  
+- Sludge Bomb  
+- Psychic  
+- Rest  
+- Sleep Talk
 
 Curse (Venonat) @ Leftovers  
 - Curse  
 - Sludge Bomb  
-- Rest  
-- Psychic / Night Shade / Stun Spore
+- Psychic  
+- Rest
 
-Baton Pass (Venonat) @ Leftovers  
-- Baton Pass  
-- Curse  
-- Sludge Bomb  
-- Sleep Powder / Stun Spore / Substitute
+Thief (Venonat)  
+- Sludge Bomb
+- Psychic  
+- Sleep Powder  
+- Thief
 
-Sleeper (Vulpix) @ Leftovers
-- Hypnosis
-- Fire Blast
-- Hidden Power Grass
-- Quick Attack
+Defensive (Vulpix) @ Leftovers
+- Flamethrower
+- Sunny Day
+- Rest
+- Sleep Talk
+
+Fast Attacker (Yanma) @ Leftovers
+- Wing Attack
+- Giga Drain
+- Hidden Power Bug
+- Screech
+
+Thief (Yanma)
+- Wing Attack
+- Giga Drain
+- Hidden Power Bug
+- Thief
+
+RestTalk (Yanma) @ Leftovers
+- Hidden Power Flying
+- Giga Drain
+- Rest
+- Sleep Talk 
