@@ -2,7 +2,7 @@ Veil Setter (Abomasnow) @ Eject Pack
 Ability: Snow Warning  
 Tera Type: Water  
 EVs: 248 HP / 252 Def / 8 SpD 
-Modest Nature  
+Bold Nature  
 IVs: 0 Atk  
 - Aurora Veil  
 - Blizzard  
@@ -154,6 +154,26 @@ Calm Nature
 - Body Press  
 - Iron Defense  
 - Roar 
+
+Offensive (Brute Bonnet) @ Heavy-Duty Boots  
+Ability: Protosynthesis  
+Tera Type: Fairy  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Crunch  
+- Sucker Punch  
+- Seed Bomb  
+- Close Combat  
+
+Choice Band (Brute Bonnet) @ Choice Band  
+Ability: Protosynthesis  
+Tera Type: Dark  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Crunch  
+- Sucker Punch  
+- Seed Bomb  
+- Close Combat  
 
 Offensive Spikes (Cacturne) @ Heavy-Duty Boots  
 Ability: Water Absorb  
@@ -759,6 +779,26 @@ Jolly Nature
 - Knock Off  
 - Mach Punch  
 
+Unburden Sweeper (Hitmonlee) @ White Herb  
+Ability: Unburden  
+Tera Type: Dark  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Close Combat  
+- Knock Off  
+- Earthquake  
+
+Offensive Spinner (Hitmonlee) @ Heavy-Duty Boots  
+Ability: Limber  
+Tera Type: Steel  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Rapid Spin
+- Close Combat  
+- Knock Off  
+- Swords Dance  
+
 Mixed Attacker (Honchkrow) @ Heavy-Duty Boots  
 Ability: Super Luck  
 Tera Type: Dark  
@@ -996,15 +1036,45 @@ Relaxed Nature
 - Defog  
 - Synthesis  
 
-Lead (Lycanroc-Midnight) @ Focus Sash  
-Ability: No Guard  
+Lead (Lycanroc) @ Focus Sash  
+Ability: Steadfast  
 Tera Type: Ghost  
 EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
 - Stealth Rock  
 - Taunt  
-- Endeavor  
+- Rock Blast  
+- Accelerock  
+
+Offensive (Lycanroc) @ Life Orb  
+Ability: Sand Rush  
+Tera Type: Fighting  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
 - Stone Edge  
+- Close Combat  
+- Play Rough  
+- Accelerock  
+
+Choice Band (Lycanroc) @ Choice Band  
+Ability: Sand Rush  
+Tera Type: Fighting  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Close Combat  
+- Play Rough  
+- Accelerock  
+
+Swords Dance (Lycanroc) @ Life Orb  
+Ability: Sand Rush  
+Tera Type: Fighting  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Stone Edge  
+- Close Combat  
+- Accelerock  
 
 Choice Scarf (Lycanroc-Midnight) @ Choice Scarf  
 Ability: No Guard  
@@ -1056,6 +1126,26 @@ IVs: 0 Atk
 - Thunderbolt  
 - Scorching Sands  
 - Focus Blast  
+
+Physical Shell Smash (Minior) @ White Herb  
+Ability: Shields Down  
+Tera Type: Ground  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature    
+- Shell Smash  
+- Acrobatics  
+- Stone Edge  
+- Earthquake  
+
+Special Shell Smash (Minior) @ Power Herb  
+Ability: Shields Down  
+Tera Type: Ground  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature    
+- Shell Smash  
+- Meteor Beam  
+- Power Gem  
+- Earth Power  
 
 Nasty Plot (Misdreavus) @ Eviolite  
 Ability: Levitate  
