@@ -1341,6 +1341,33 @@ Jolly Nature
 - Ice Fang
 - Facade
 
+Tank (Munchlax) @ Eviolite
+Ability: Thick Fat
+EVs: 252 Atk / 120 Def / 136 SpD
+Adamant Nature 
+- Body Slam
+- Seed Bomb
+- Crunch
+- Pursuit
+
+Defensive (Munchlax) @ Eviolite
+Ability: Thick Fat
+EVs: 136 HP / 120 Def / 252 SpD
+Careful Nature 
+- Body Slam
+- Whirlwind
+- Rest
+- Sleep Talk
+
+Curse (Munchlax) @ Eviolite
+Ability: Thick Fat
+EVs: 136 HP / 120 Def / 252 SpD
+Careful Nature 
+- Curse
+- Body Slam
+- Crunch
+- Rest
+
 SubTox (Noctowl) @ Leftovers
 Ability: Tinted Lens
 EVs: 252 HP / 4 Def / 252 SpD
