@@ -1,0 +1,9 @@
+Sandaconda @ Rocky Helmet
+Ability: Shed Skin
+Tera Type: Water
+EVs: 252 HP / 252 Def / 4 SpD
+Impish Nature
+- Earthquake
+- Rest
+- Stealth Rock
+- Rock Blast
